@@ -19,6 +19,11 @@
 		0386277B23FD19110054598F /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0386277A23FD19110054598F /* ComplicationController.swift */; };
 		0386277D23FD19120054598F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0386277C23FD19120054598F /* Assets.xcassets */; };
 		0386278023FD19120054598F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0386277F23FD19120054598F /* Preview Assets.xcassets */; };
+		0386279323FD19B40054598F /* MoveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0386279223FD19B40054598F /* MoveView.swift */; };
+		0386279623FD1A360054598F /* MoveImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0386279523FD1A360054598F /* MoveImage.swift */; };
+		0386279823FD1C920054598F /* Move.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0386279723FD1C920054598F /* Move.swift */; };
+		0386279A23FD1C9C0054598F /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0386279923FD1C9C0054598F /* Character.swift */; };
+		03921E64245F3AE600651A5C /* MoveList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03921E63245F3AE600651A5C /* MoveList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,6 +85,11 @@
 		0386277F23FD19120054598F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0386278123FD19120054598F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0386278223FD19120054598F /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		0386279223FD19B40054598F /* MoveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveView.swift; sourceTree = "<group>"; };
+		0386279523FD1A360054598F /* MoveImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveImage.swift; sourceTree = "<group>"; };
+		0386279723FD1C920054598F /* Move.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Move.swift; sourceTree = "<group>"; };
+		0386279923FD1C9C0054598F /* Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
+		03921E63245F3AE600651A5C /* MoveList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,7 +108,6 @@
 			children = (
 				0386276023FD19110054598F /* WatchLoops WatchKit App */,
 				0386276F23FD19110054598F /* WatchLoops WatchKit Extension */,
-				0386275923FD19100054598F /* Products */,
 			);
 			sourceTree = "<group>";
 		};
@@ -110,6 +119,7 @@
 				0386276B23FD19110054598F /* WatchLoops WatchKit Extension.appex */,
 			);
 			name = Products;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		0386276023FD19110054598F /* WatchLoops WatchKit App */ = {
@@ -125,6 +135,8 @@
 		0386276F23FD19110054598F /* WatchLoops WatchKit Extension */ = {
 			isa = PBXGroup;
 			children = (
+				0386279D23FD1CAA0054598F /* Model */,
+				0386279423FD1A090054598F /* Supporting Views */,
 				0386277023FD19110054598F /* ContentView.swift */,
 				0386277223FD19110054598F /* HostingController.swift */,
 				0386277423FD19110054598F /* ExtensionDelegate.swift */,
@@ -134,6 +146,7 @@
 				0386277C23FD19120054598F /* Assets.xcassets */,
 				0386278123FD19120054598F /* Info.plist */,
 				0386278223FD19120054598F /* PushNotificationPayload.apns */,
+				0386275923FD19100054598F /* Products */,
 				0386277E23FD19120054598F /* Preview Content */,
 			);
 			path = "WatchLoops WatchKit Extension";
@@ -145,6 +158,25 @@
 				0386277F23FD19120054598F /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		0386279423FD1A090054598F /* Supporting Views */ = {
+			isa = PBXGroup;
+			children = (
+				0386279223FD19B40054598F /* MoveView.swift */,
+				0386279523FD1A360054598F /* MoveImage.swift */,
+				03921E63245F3AE600651A5C /* MoveList.swift */,
+			);
+			path = "Supporting Views";
+			sourceTree = "<group>";
+		};
+		0386279D23FD1CAA0054598F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				0386279723FD1C920054598F /* Move.swift */,
+				0386279923FD1C9C0054598F /* Character.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -275,12 +307,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0386279823FD1C920054598F /* Move.swift in Sources */,
+				0386279A23FD1C9C0054598F /* Character.swift in Sources */,
 				0386277323FD19110054598F /* HostingController.swift in Sources */,
 				0386277123FD19110054598F /* ContentView.swift in Sources */,
+				0386279323FD19B40054598F /* MoveView.swift in Sources */,
 				0386277723FD19110054598F /* NotificationController.swift in Sources */,
 				0386277523FD19110054598F /* ExtensionDelegate.swift in Sources */,
 				0386277923FD19110054598F /* NotificationView.swift in Sources */,
 				0386277B23FD19110054598F /* ComplicationController.swift in Sources */,
+				0386279623FD1A360054598F /* MoveImage.swift in Sources */,
+				03921E64245F3AE600651A5C /* MoveList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
