@@ -21,9 +21,6 @@ struct MoveList: View {
 
 struct MoveList_Previews: PreviewProvider {
     static var previews: some View {
-        MoveList(moves: [
-            MoveView(image: Image("chie")),
-            MoveView(image: Image("chie5C"))
-        ])
+        MoveList(moves: [])
     }
 }

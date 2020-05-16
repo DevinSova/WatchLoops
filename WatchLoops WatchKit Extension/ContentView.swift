@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        MoveView(image: Image("chie"))
+        Text("hello world!")
     }
 }
 

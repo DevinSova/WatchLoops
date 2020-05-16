@@ -9,25 +9,34 @@
 import SwiftUI
 
 struct MoveView: View {
-    var image: Image  //TODO: Change to Move Model
+    var Version: Version
     
     var body: some View {
-        HStack(spacing: 0) {
-            MoveImage(image: image)
+        HStack {
             VStack {
-                Text("Test")
+                Field(name: Version.Fields[0].0, value: Version.Fields[0].1)
+                Field(name: Version.Fields[1].0, value: Version.Fields[1].1)
+                Field(name: Version.Fields[2].0, value: Version.Fields[2].1)
+                Field(name: Version.Fields[3].0, value: Version.Fields[3].1)
             }
-            //TODO: Change to horizontal scroll view for verisons
+            VStack {
+                Field(name: Version.Fields[4].0, value: Version.Fields[4].1)
+                Field(name: Version.Fields[5].0, value: Version.Fields[5].1)
+                Field(name: Version.Fields[6].0, value: Version.Fields[6].1)
+                Field(name: Version.Fields[7].0, value: Version.Fields[7].1)
+            }
         }
-        
+        //TODO: Change to horizontal scroll view for verisons
     }
 }
 
 struct MoveView_Previews: PreviewProvider {
     static var previews: some View {
         Group {
-            MoveView(image: Image("chie"))
-            MoveView(image: Image("chie5C"))
+            MoveView(Version: samplecharacter.Moves[0].Versions[0])
+                .previewDevice("Apple Watch Series 4 - 44mm")
+            MoveView(Version: samplecharacter.Moves[0].Versions[0])
+                .previewDevice("Apple Watch Series 2 - 38mm")
         }
     }
 }

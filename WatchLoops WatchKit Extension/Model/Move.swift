@@ -11,5 +11,5 @@ import Foundation
 struct Move {
     var Name: String
     var Comment: String?
-    var Versions: [Dictionary<String, String>]
+    var Versions: [Version]
 }
