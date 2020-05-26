@@ -33,9 +33,8 @@ var samplemove = Move(name: "5A", comment: "Normal", versions: [Version(fields: 
     Field(key: "Active", value: "3"),
     Field(key: "Recovery", value: "6"),
     Field(key: "Frame Adv.", value: "0"),
-    Field(key: "Attribute", value: "Body"),
-    Field(key: "Description", value: "Short, slightly angled jab that hits crouchers. It's a staple pressure tool, since it's 0 block; input it as [4]A during pressure to block DP attempts after you recover.")
-])], image: "chie"
+    Field(key: "Attribute", value: "Body")
+], description: "Short, slightly angled jab that hits crouchers. It's a staple pressure tool, since it's 0 block; input it as [4]A during pressure to block DP attempts after you recover.")], image: "chie"
 )
 
 var samplecharacter = Character(name: "Chie Satonaka", game: .P4AU, description: "She's cool", moves: [samplemove])

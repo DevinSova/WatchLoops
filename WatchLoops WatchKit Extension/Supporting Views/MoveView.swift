@@ -13,41 +13,42 @@ struct MoveView: View {
     var version: Version
     
     var body: some View {
-        HStack {
-            VStack(alignment: .leading) {
-                ForEach(version.fields, id: \.id) { field in
-                    FieldView(field: field)
+        ScrollView {
+            HStack {
+                VStack(alignment: .leading) {
+                    ForEach(version.fields, id: \.id) { field in
+                        FieldView(field: field)
+                    }
                 }
-            }
 
-            VStack {
-                NavigationLink(destination: MoveDescription(description: "Test")) {
-                    Image(uiImage: UIImage(
-                        systemName: "text.bubble.fill",
-                        withConfiguration: UIImage.SymbolConfiguration(scale: .medium))
-                        ?? UIImage())
-                }.clipShape(Circle())
+                VStack {
+                    NavigationLink(destination: MoveDescription(description: version.description)) {
+                        Image(uiImage: UIImage(
+                            systemName: "text.bubble.fill",
+                            withConfiguration: UIImage.SymbolConfiguration(scale: .medium))
+                            ?? UIImage())
+                    }.clipShape(Circle())
 
-                NavigationLink(destination: MoveImage(image: Image(move.image))) {
-                    Image(uiImage: UIImage(
-                        systemName: "person.fill",
-                        withConfiguration: UIImage.SymbolConfiguration(scale: .medium))
-                        ?? UIImage())
-                }.clipShape(Circle())
+                    NavigationLink(destination: MoveImage(image: Image(move.image))) {
+                        Image(uiImage: UIImage(
+                            systemName: "person.fill",
+                            withConfiguration: UIImage.SymbolConfiguration(scale: .medium))
+                            ?? UIImage())
+                    }.clipShape(Circle())
 
-                Button(action: {}) {
-                    Image(uiImage: UIImage(
-                        systemName: "rectangle.fill",
-                        withConfiguration: UIImage.SymbolConfiguration(scale: .medium))
-                        ?? UIImage())
+                    Button(action: {}) {
+                        Image(uiImage: UIImage(
+                            systemName: "rectangle.fill",
+                            withConfiguration: UIImage.SymbolConfiguration(scale: .medium))
+                            ?? UIImage())
+                    }
+                    .clipShape(Circle())
                 }
-                .clipShape(Circle())
+                .scaledToFit()
             }
-            .scaledToFit()
+            .scaledToFill()
+            //TODO: Change to horizontal scroll view for verisons
         }
-        .scaledToFill()
-        .background(Color.red)
-        //TODO: Change to horizontal scroll view for verisons
     }
 }
 

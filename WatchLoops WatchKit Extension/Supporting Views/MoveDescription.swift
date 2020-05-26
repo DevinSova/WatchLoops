@@ -11,14 +11,15 @@ import SwiftUI
 struct MoveDescription: View {
     var description: String
     var body: some View {
-        Text(description)
-            .scaledToFill()
+        ScrollView {
+            Text(description)
             .font(.body)
+        }
     }
 }
 
 struct MoveDescription_Previews: PreviewProvider {
     static var previews: some View {
-        MoveDescription(description: samplecharacter.moves[0].versions[0].fields[8].value)
+        MoveDescription(description: samplecharacter.moves[0].versions[0].description)
     }
 }

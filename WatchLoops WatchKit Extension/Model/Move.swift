@@ -18,6 +18,7 @@ struct Move {
 struct Version {
     var id = UUID()
     var fields: [Field]
+    var description: String
 }
 
 struct Field {

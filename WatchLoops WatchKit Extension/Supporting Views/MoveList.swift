@@ -9,7 +9,7 @@
 import SwiftUI
 
 struct MoveList: View {
-    var moves: [MoveView]
+    var moves: [Move]
     var body: some View {
         List {
             MoveView(move: samplecharacter.moves[0], version: samplecharacter.moves[0].versions[0])

@@ -18,7 +18,6 @@ struct FieldView: View {
                 .font(.caption)
                 .foregroundColor(.gray)
         }
-        
     }
 }
 
