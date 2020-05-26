@@ -12,7 +12,7 @@ struct MoveList: View {
     var moves: [MoveView]
     var body: some View {
         List {
-            MoveView(Version: samplecharacter.Moves[0].Versions[0])
+            MoveView(move: samplecharacter.moves[0], version: samplecharacter.moves[0].versions[0])
         }
         .navigationBarTitle("Chie Satonaka")
     }

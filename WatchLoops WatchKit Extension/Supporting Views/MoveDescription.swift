@@ -19,6 +19,6 @@ struct MoveDescription: View {
 
 struct MoveDescription_Previews: PreviewProvider {
     static var previews: some View {
-        MoveDescription(description: samplecharacter.Moves[0].Versions[0].Fields[8].1)
+        MoveDescription(description: samplecharacter.moves[0].versions[0].fields[8].value)
     }
 }

@@ -9,7 +9,19 @@
 import Foundation
 
 struct Move {
-    var Name: String
-    var Comment: String?
-    var Versions: [Version]
+    var name: String
+    var comment: String?
+    var versions: [Version]
+    var image: String
+}
+
+struct Version {
+    var id = UUID()
+    var fields: [Field]
+}
+
+struct Field {
+    var id = UUID()
+    var key: String
+    var value: String
 }

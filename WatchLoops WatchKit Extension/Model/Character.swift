@@ -9,13 +9,13 @@
 import Foundation
 
 struct Character {
-    var Name: String
-    var Game: Games
-    var Description: String
-    var Moves: [Move]
+    var name: String
+    var game: Game
+    var description: String
+    var moves: [Move]
 }
 
-enum Games: String {
+enum Game: String {
     case P4AU = "P4AU"
     case DBFZ = "DBFZ"
     case GBVS = "GBVS"
@@ -25,17 +25,17 @@ enum Games: String {
     case UNICLR = "UNICLR"
 }
 
-var samplemove = Move(Name: "5A", Comment: "Normal", Versions: [Version(Fields: [
-        ("Version", "5A"),
-        ("Damage", "180"),
-        ("Guard", "All"),
-        ("Startup", "5"),
-        ("Active", "3"),
-        ("Recovery", "6"),
-        ("Frame Adv.", "0"),
-        ("Attribute", "Body"),
-        ("Description", "Short, slightly angled jab that hits crouchers. It's a staple pressure tool, since it's 0 block; input it as [4]A during pressure to block DP attempts after you recover.")
-    ])]
+var samplemove = Move(name: "5A", comment: "Normal", versions: [Version(fields: [
+    Field(key: "Version", value: "5A"),
+    Field(key: "Damage", value: "180"),
+    Field(key: "Guard", value: "All"),
+    Field(key: "Startup", value: "5"),
+    Field(key: "Active", value: "3"),
+    Field(key: "Recovery", value: "6"),
+    Field(key: "Frame Adv.", value: "0"),
+    Field(key: "Attribute", value: "Body"),
+    Field(key: "Description", value: "Short, slightly angled jab that hits crouchers. It's a staple pressure tool, since it's 0 block; input it as [4]A during pressure to block DP attempts after you recover.")
+])], image: "chie"
 )
 
-var samplecharacter = Character(Name: "Chie Satonaka", Game: .P4AU, Description: "She's cool", Moves: [samplemove])
+var samplecharacter = Character(name: "Chie Satonaka", game: .P4AU, description: "She's cool", moves: [samplemove])

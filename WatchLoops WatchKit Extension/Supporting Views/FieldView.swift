@@ -1,21 +1,20 @@
 //
-//  Field.swift
+//  FieldView.swift
 //  WatchLoops WatchKit Extension
 //
-//  Created by Devin Sova on 5/16/20.
+//  Created by Devin Sova on 5/25/20.
 //  Copyright © 2020 Devin Sova. All rights reserved.
 //
 
 import SwiftUI
 
-struct Field: View {
-    var name: String
-    var value: String
+struct FieldView: View {
+    var field: Field
     var body: some View {
         HStack {
-            Text(name + ":")
+            Text(field.key + ":")
                 .bold()
-            Text(value)
+            Text(field.value)
                 .font(.caption)
                 .foregroundColor(.gray)
         }
@@ -23,8 +22,8 @@ struct Field: View {
     }
 }
 
-struct Field_Previews: PreviewProvider {
+struct FieldView_Previews: PreviewProvider {
     static var previews: some View {
-        Field(name: "On Hit", value: "+3")
+        FieldView(field: Field(key: "On Hit", value: "+3"))
     }
 }
