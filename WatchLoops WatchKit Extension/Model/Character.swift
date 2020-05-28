@@ -13,28 +13,29 @@ struct Character {
     var game: Game
     var description: String
     var moves: [Move]
+    
+    init() {
+        self.name = "UNKNOWN"
+        self.game = .unknown
+        self.description = "UNKNOWN"
+        self.moves = []
+    }
+    
+    init(name: String, game: Game, description: String, moves: [Move]) {
+        self.name = name
+        self.game = game
+        self.description = description
+        self.moves = moves
+    }
 }
 
 enum Game: String {
-    case P4AU = "P4AU"
-    case DBFZ = "DBFZ"
-    case GBVS = "GBVS"
-    case BBTAG = "BBTAG"
-    case GGXRDREV2 = "GGXRDREV2"
-    case BBCF = "BBCF"
-    case UNICLR = "UNICLR"
+    case unknown = "UNKNOWN"
+    case p4au = "P4AU"
+    case dbfz = "DBFZ"
+    case gbvs = "GBVS"
+    case bbtag = "BBTAG"
+    case ggxrdrev2 = "GGXRDREV2"
+    case bbcf = "BBCF"
+    case uniclr = "UNICLR"
 }
-
-var samplemove = Move(name: "5A", comment: "Normal", versions: [Version(fields: [
-    Field(key: "Version", value: "5A"),
-    Field(key: "Damage", value: "180"),
-    Field(key: "Guard", value: "All"),
-    Field(key: "Startup", value: "5"),
-    Field(key: "Active", value: "3"),
-    Field(key: "Recovery", value: "6"),
-    Field(key: "Frame Adv.", value: "0"),
-    Field(key: "Attribute", value: "Body")
-], description: "Short, slightly angled jab that hits crouchers. It's a staple pressure tool, since it's 0 block; input it as [4]A during pressure to block DP attempts after you recover.")], image: "chie"
-)
-
-var samplecharacter = Character(name: "Chie Satonaka", game: .P4AU, description: "She's cool", moves: [samplemove])

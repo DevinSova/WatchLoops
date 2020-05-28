@@ -29,7 +29,7 @@ struct MoveView: View {
                             ?? UIImage())
                     }.clipShape(Circle())
 
-                    NavigationLink(destination: MoveImage(image: Image(move.image))) {
+                    NavigationLink(destination: MoveImage(image: Image(move.imageUrl))) {
                         Image(uiImage: UIImage(
                             systemName: "person.fill",
                             withConfiguration: UIImage.SymbolConfiguration(scale: .medium))

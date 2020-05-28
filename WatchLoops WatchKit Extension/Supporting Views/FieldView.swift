@@ -23,6 +23,6 @@ struct FieldView: View {
 
 struct FieldView_Previews: PreviewProvider {
     static var previews: some View {
-        FieldView(field: Field(key: "On Hit", value: "+3"))
+        FieldView(field: Field(order: 0, key: "On Hit", value: "+3"))
     }
 }
