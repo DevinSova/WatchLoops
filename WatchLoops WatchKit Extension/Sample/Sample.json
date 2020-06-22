@@ -1,777 +1,783 @@
-[
-    {
-        "Name": "5A",
-        "Comment": "Normal",
-        "Versions": [
-            {
-                "Version": "5A",
-                "Damage": "180",
-                "Guard": "All",
-                "Startup": "5",
-                "Active": "3",
-                "Recovery": "6",
-                "Frame Adv.": "0",
-                "Attribute": "Body",
-                "Description": "Short, slightly angled jab that hits crouchers. It's a staple pressure tool, since it's 0 block; input it as [4]A during pressure to block DP attempts after you recover."
-            },
-            {
-                "Version": "5AA",
-                "Damage": "260, 130",
-                "Guard": "All",
-                "Startup": "8",
-                "Active": "3(3)6",
-                "Recovery": "11",
-                "Frame Adv.": "-2",
-                "Attribute": "Body",
-                "Description": "Mostly used for hit confirming. Her new 5AA pulls the opponent back in towards her, making it a good a spot to sometimes reset pressure"
-            },
-            {
-                "Version": "5AAA",
-                "Damage": "400, 200, 200",
-                "Guard": "All",
-                "Startup": "10",
-                "Active": "2(12)3(9)5",
-                "Recovery": "19",
-                "Frame Adv.": "-5",
-                "Attribute": "Body",
-                "Description": "Her new 5AAA is kick that wall bounces. Mostly just used for auto combos route. It's also useful for CH combos on grounded opponents midscreen because you'll be able to connect 5A from the wall bounce and keep the combo going, giving more damage and corner carry."
-            }
-        ]
-    },
-    {
-        "Name": "5A",
-        "Comment": "Shadow",
-        "Versions": [
-            {
-                "Version": "5A",
-                "Damage": "180",
-                "Guard": "All",
-                "Startup": "5",
-                "Active": "3",
-                "Recovery": "6",
-                "Frame Adv.": "0",
-                "Attribute": "Body",
-                "Description": "Short, slightly angled jab that hits crouchers. Staple stagger pressure tool; input it as [4]A during pressure to block DP attempts after you recover."
-            },
-            {
-                "Version": "5AA",
-                "Damage": "250, 125x5",
-                "Guard": "All",
-                "Startup": "9",
-                "Active": "2(4)2(4)2(4)2(4)2",
-                "Recovery": "21",
-                "Frame Adv.": "-8",
-                "Attribute": "Body",
-                "Description": "Short flurry of multiple kicks. Mostly used for hitconfirming."
-            },
-            {
-                "Version": "5AAA",
-                "Damage": "600, 300",
-                "Guard": "All",
-                "Startup": "5",
-                "Active": "3, 3",
-                "Recovery": "15",
-                "Frame Adv.": "-3",
-                "Attribute": "Body",
-                "Description": "Backwards cartwheel kick. Doesn't see much use outside autocomboing for meter."
-            }
-        ]
-    },
-    {
-        "Name": "5B",
-        "Versions": [
-            {
-                "Damage": "550",
-                "Guard": "All",
-                "Startup": "7",
-                "Active": "4",
-                "Recovery": "18",
-                "Frame Adv.": "-7",
-                "Attribute": "Body",
-                "Description": "Dash Cancel is -5 on block\nBackdash Cancel is -4 on block\nQuick high heel kick. Great starter, leads to some of Chie's most damaging combos; also a reasonable poke at closer ranges, though it has less range than 2A."
-            }
-        ]
-    },
-    {
-        "Name": "2A",
-        "Versions": [
-            {
-                "Damage": "200",
-                "Guard": "L",
-                "Startup": "7",
-                "Active": "2",
-                "Recovery": "12",
-                "Frame Adv.": "-3",
-                "Attribute": "Foot",
-                "Description": "Crouching, low-hitting kick. It's arguably Chie's best poke, as it low profiles several other pokes and has better range than 5B. Additionally, it's Chie's most important low; it's used often in stagger pressure, and it's the low used in her mixups. Cancels into itself on whiff."
-            }
-        ]
-    },
-    {
-        "Name": "2B",
-        "Versions": [
-            {
-                "Damage": "400",
-                "Guard": "AUB",
-                "Startup": "10",
-                "Active": "2",
-                "Recovery": "30",
-                "Frame Adv.": "-17",
-                "Attribute": "Body",
-                "Description": "Dash Cancel is -5 on block\nBackdash Cancel is -4 on block\nHigh vertical anti-air kick. Air unblockable. On hit forces stand against crouching opponents."
-            }
-        ]
-    },
-    {
-        "Name": "j.A",
-        "Versions": [
-            {
-                "Damage": "300",
-                "Guard": "HA",
-                "Startup": "5",
-                "Active": "4",
-                "Recovery": "10",
-                "Frame Adv.": "-",
-                "Attribute": "Head",
-                "Description": "Quick aerial palm strike. Situational air to air. Hits overhead, but isn't as good for mixup as j.B. Cancels into itself, even on whiff."
-            }
-        ]
-    },
-    {
-        "Name": "j.B",
-        "Versions": [
-            {
-                "Damage": "400",
-                "Guard": "HA",
-                "Startup": "8",
-                "Active": "3",
-                "Recovery": "13",
-                "Frame Adv.": "-",
-                "Attribute": "Head",
-                "Description": "Quick jump kick that hits overhead."
-            }
-        ]
-    },
-    {
-        "Name": "j.2B and j.BB",
-        "Versions": [
-            {
-                "Version": "j.2B",
-                "Damage": "600",
-                "Guard": "HA",
-                "Startup": "9",
-                "Active": "3",
-                "Recovery": "12",
-                "Frame Adv.": "-",
-                "Attribute": "Head",
-                "Description": "Command normal version of j.BB. j.2B is mostly used in aerial combos before going into an air rampage, also hits overhead."
-            },
-            {
-                "Version": "j.BB",
-                "Damage": "600",
-                "Guard": "HA",
-                "Startup": "7",
-                "Active": "3",
-                "Recovery": "15",
-                "Frame Adv.": "-",
-                "Attribute": "Head",
-                "Description": "j.BB is mostly used in low to the ground air dash j.BB mixups from a 5DD/2DD setup in the corner."
-            }
-        ]
-    },
-    {
-        "Name": "All Out Attack",
-        "Comment": "A+B",
-        "Versions": [
-            {
-                "Damage": "300",
-                "Guard": "H",
-                "Startup": "26",
-                "Active": "1",
-                "Recovery": "39",
-                "Frame Adv.": "-21",
-                "Attribute": "Body",
-                "Description": "Chie does a front flip before slamming her heel down on her opponent. Mainly used as a corner combo ender after the opponent is frozen."
-            }
-        ]
-    },
-    {
-        "Name": "Sweep",
-        "Comment": "2A+B",
-        "Versions": [
-            {
-                "Damage": "600",
-                "Guard": "L",
-                "Startup": "9",
-                "Active": "3",
-                "Recovery": "20",
-                "Frame Adv.": "-8",
-                "Attribute": "Foot",
-                "Description": "Good combo ender for setting up safe jumps. If you have 50 meter, you can also cancel it into A Power Charge, then connect 5C to get a better combo on a grounded opponent midscreen."
-            }
-        ]
-    },
-    {
-        "Name": "5C ",
-        "Versions": [
-            {
-                "Damage": "800",
-                "Guard": "All",
-                "Startup": "12",
-                "Active": "3",
-                "Recovery": "31",
-                "Frame Adv.": "-16",
-                "Attribute": "Body",
-                "Description": "Dash Cancel is -3 on block\nDecent mid-range poke for Chie. In Ultimax, it's been adjusted so that Tomoe appears a bit further back. This gives Tomoe less reach but it also makes her safer from attack as well. Useful in corner pressure since it can be dash/jump canceled. Can be used to trade favorably with certain long-range pokes, but it shouldn't be relied on too heavily."
-            }
-        ]
-    },
-    {
-        "Name": "5D ",
-        "Versions": [
-            {
-                "Version": "5D",
-                "Damage": "200, 100x2, 900",
-                "Guard": "All",
-                "Startup": "43",
-                "Active": "2(3)2(6)2(11)3",
-                "Recovery": "61 total",
-                "Frame Adv.": "-",
-                "Attribute": "Body",
-                "Description": "Very slow spear attack. Last hit causes launch, but is not incredibly useful outside of combos. Almost exclusively canceled into 5DD oki after B Skullcracker in the corner"
-            },
-            {
-                "Version": "5DD",
-                "Damage": "200, 100x2, 30x15, 200",
-                "Guard": "All",
-                "Startup": "43",
-                "Active": "2(3)2(6)2(7)30[15 hits](9)3",
-                "Recovery": "61 total",
-                "Frame Adv.": "-",
-                "Attribute": "Body",
-                "Description": "Tomoe spins spear. Standing version is slower but makes Tomoe move forward. Use while opponent is waking up in oki setup and they will be forced to block, leaving Chie free to mix-up the opponent or go for other set-ups. Tomoe can be hit if the opponent wakes up at the correct time or if they F-Action.\nNote that the 2nd D can (and usually should) be delayed to force the opponent to change their wakeup timing and allow Chie more time to pressure."
-            }
-        ]
-    },
-    {
-        "Name": "2C ",
-        "Versions": [
-            {
-                "Damage": "400,200",
-                "Guard": "All",
-                "Startup": "23",
-                "Active": "7(2)2",
-                "Recovery": "26",
-                "Frame Adv.": "-11",
-                "Attribute": "Body",
-                "Description": "Dash Cancel is -3 on block\nFreezes the opponent on hit\nMostly used in some of Chie's higher damaging combos due to the freeze effect giving more time to follow up with stuff you normally wouldn't be able to."
-            }
-        ]
-    },
-    {
-        "Name": "2D ",
-        "Versions": [
-            {
-                "Version": "2D",
-                "Damage": "200, 900",
-                "Guard": "All",
-                "Startup": "26",
-                "Active": "7(11)3",
-                "Recovery": "56 total",
-                "Frame Adv.": "+27",
-                "Attribute": "Body",
-                "Description": "Very slow spear attack. Last hit causes launch, but is not incredibly useful outside of combos. Almost exclusively canceled into 2DD oki after B Skullcracker"
-            },
-            {
-                "Version": "2DD",
-                "Damage": "200, 50x15, 300",
-                "Guard": "All",
-                "Startup": "26",
-                "Active": "2(7)30[15 hits](9)3",
-                "Recovery": "56 total",
-                "Frame Adv.": "+62",
-                "Attribute": "Body",
-                "Description": "Tomoe spins spear. Starts-up immediately but Tomoe will stay in place. Use while opponent is waking up (after B skullcracker in corner) and they will be forced to block, leaving Chie free to mix-up the opponent or go for other set-ups. Tomoe can be hit if the opponent wakes up at the correct time or if they F-Action.\nNote that the 2nd D can (and usually should) be delayed to force the opponent to change their wakeup timing and allow Chie more time to pressure"
-            }
-        ]
-    },
-    {
-        "Name": "j.C ",
-        "Versions": [
-            {
-                "Damage": "700",
-                "Guard": "All",
-                "Startup": "11",
-                "Active": "4",
-                "Recovery": "11",
-                "Frame Adv.": "-",
-                "Attribute": "Body",
-                "Description": "Tomoe slashes in midair. A move with a surprising amount of utility, and Chie's best air-to-air option. It actually has a deceptively massive forward hitbox (by Chie standards) and a scrunched hurtbox, and can be canceled into D Dragon Kick for easy damage. Against a grounded opponent, it allows for ambiguous crossups in combination with air turn, and halts Chie's downward momentum which can sometimes cause AA's to whiff. Note that it does not hit overhead."
-            }
-        ]
-    },
-    {
-        "Name": "j.5/4/2/8D ",
-        "Versions": [
-            {
-                "Damage": "100, 50x11, 500, 4",
-                "Guard": "All",
-                "Startup": "24",
-                "Active": "24[12 hits](13)3",
-                "Recovery": "52 total",
-                "Frame Adv.": "-",
-                "Attribute": "Head",
-                "Description": "Tomoe leaps up and spins her spear, followed by a downward thrust which causes knockdown. Each version summons Tomoe at a slightly different point. Primarily used in combos, but j.2D and j.5D can be useful for covering your approach."
-            }
-        ]
-    },
-    {
-        "Name": "Ground Throw",
-        "Comment": "C+D",
-        "Versions": [
-            {
-                "Damage": "0,0,1200, 1, 4",
-                "Guard": "Throw",
-                "Startup": "5",
-                "Active": "3",
-                "Recovery": "25",
-                "Frame Adv.": "-",
-                "Attribute": "Throw",
-                "Description": "Can be comboed after with a One-More cancel. On counter hit can be comboed after with 2A."
-            }
-        ]
-    },
-    {
-        "Name": "Air Throw",
-        "Comment": "j.C+D",
-        "Versions": [
-            {
-                "Damage": "0,1600, 4",
-                "Guard": "Throw",
-                "Startup": "4",
-                "Active": "3",
-                "Recovery": "12",
-                "Frame Adv.": "-",
-                "Attribute": "Throw",
-                "Description": "An air throw that ends with Chie slamming them directly down into the ground, giving good positioning to start pressure. You can OMC and convert it into a combo if you have meter."
-            }
-        ]
-    },
-    {
-        "Name": "Counter",
-        "Comment": "B+D (air OK)",
-        "Versions": [
-            {
-                "Version": "Ground Catch",
-                "Damage": "-",
-                "Guard": "-",
-                "Startup": "-",
-                "Active": "1-9 Catch",
-                "Recovery": "24 Total",
-                "Frame Adv.": "-",
-                "Attribute": "-",
-                "Description": "Chie summons a shield, and if hit or grabbed she'll kick in the air diagonally upward. Starts up and recovers quickly, but the counter isn't active for long. This makes it harder to time than most other f-actions. Can be spammed to force awakening, giving Chie 50 SP and access to Agneyastra. Keep in mind that Chie is in Fatal Recovery state during recovery.\nAir version does the kicks immediately, and has full invincibility on startup."
-            },
-            {
-                "Version": "Ground Attack",
-                "Damage": "720, 190x4, 4",
-                "Guard": "Low, All",
-                "Startup": "7",
-                "Active": "2(9)3(5)3(5)3(5)3",
-                "Recovery": "18+15 after landing",
-                "Frame Adv.": "-24",
-                "Attribute": "Body",
-                "Description": "Chie summons a shield, and if hit or grabbed she'll kick in the air diagonally upward. Starts up and recovers quickly, but the counter isn't active for long. This makes it harder to time than most other f-actions. Can be spammed to force awakening, giving Chie 50 SP and access to Agneyastra. Keep in mind that Chie is in Fatal Recovery state during recovery.\nAir version does the kicks immediately, and has full invincibility on startup."
-            },
-            {
-                "Version": "Air",
-                "Damage": "320, 160x3",
-                "Guard": "All",
-                "Startup": "6",
-                "Active": "3(5)3(5)3(5)3",
-                "Recovery": "15 after landing",
-                "Frame Adv.": "-",
-                "Attribute": "Head",
-                "Description": "Chie summons a shield, and if hit or grabbed she'll kick in the air diagonally upward. Starts up and recovers quickly, but the counter isn't active for long. This makes it harder to time than most other f-actions. Can be spammed to force awakening, giving Chie 50 SP and access to Agneyastra. Keep in mind that Chie is in Fatal Recovery state during recovery.\nAir version does the kicks immediately, and has full invincibility on startup."
-            }
-        ]
-    },
-    {
-        "Name": "Guard Cancel Attack",
-        "Comment": "6A+B",
-        "Versions": [
-            {
-                "Damage": "0",
-                "Guard": "All",
-                "Startup": "-",
-                "Active": "-",
-                "Recovery": "-",
-                "Frame Adv.": "-",
-                "Attribute": "-",
-                "Description": "Chie's Guard Cancel Attack. It utilizes Chie's 5B animation, and knocks the opponent away on hit. It has limited practicality due to its awful range."
-            }
-        ]
-    },
-    {
-        "Name": "Rampage",
-        "Comment": "236A/B (air OK)",
-        "Versions": [
-            {
-                "Version": "A ground",
-                "Damage": "240,120*2",
-                "Guard": "All",
-                "Startup": "11",
-                "Active": "2(6)3(6)3",
-                "Recovery": "3+17 after landing",
-                "Frame Adv.": "-8",
-                "Attribute": "Head",
-                "Description": "A short flurry of jump kicks; Mostly used in combos. Causes fatal counter while power charged"
-            },
-            {
-                "Version": "B ground",
-                "Damage": "320,160*4",
-                "Guard": "All",
-                "Startup": "19",
-                "Active": "2(6)3(6)3(6)3(6)3",
-                "Recovery": "1+11 after landing",
-                "Frame Adv.": "+2",
-                "Attribute": "Head",
-                "Description": "A higher flurry of jump kicks, safe on block."
-            },
-            {
-                "Version": "SB ground",
-                "Damage": "320,160*5",
-                "Guard": "All",
-                "Startup": "12",
-                "Active": "2(4)2(4)2(4)2(4)2(4)2",
-                "Recovery": "11 after landing",
-                "Frame Adv.": "+6",
-                "Attribute": "Head",
-                "Description": "Startup of A Rampage with the damage of B Rampage, plus extra kicks. Can link 5A after. Very plus on block, nice tool to reset pressure."
-            },
-            {
-                "Version": "A air",
-                "Damage": "240,120*N",
-                "Guard": "All",
-                "Startup": "6",
-                "Active": "2(6)3(6)3...",
-                "Recovery": "17 after landing",
-                "Frame Adv.": "-8",
-                "Attribute": "Head",
-                "Description": "List what the move is used for\nList interesting properties in bullet points like invul, fatal\nFollow the Help:Writing_Character_Pages guidelines"
-            },
-            {
-                "Version": "B air",
-                "Damage": "200,100*N",
-                "Guard": "All",
-                "Startup": "9",
-                "Active": "2(4)2(4)2...",
-                "Recovery": "11 after landing",
-                "Frame Adv.": "-",
-                "Attribute": "Head",
-                "Description": "List what the move is used for\nList interesting properties in bullet points like invul, fatal\nFollow the Help:Writing_Character_Pages guidelines"
-            },
-            {
-                "Version": "SB air",
-                "Damage": "320,160*N",
-                "Guard": "All",
-                "Startup": "7",
-                "Active": "2(4)2(4)2...",
-                "Recovery": "11 after landing",
-                "Frame Adv.": "-",
-                "Attribute": "Head",
-                "Description": "List what the move is used for\nList interesting properties in bullet points like invul, fatal\nFollow the Help:Writing_Character_Pages guidelines"
-            }
-        ]
-    },
-    {
-        "Name": "Skull Cracker",
-        "Comment": "236A/B after Rampage",
-        "Versions": [
-            {
-                "Version": "A",
-                "Damage": "400, 200",
-                "Guard": "H,L",
-                "Startup": "6",
-                "Active": "2(9)3",
-                "Recovery": "26",
-                "Frame Adv.": "-12",
-                "Attribute": "Body, Foot",
-                "Description": "First hit is an overhead, second hit is low. Can be followed up with Dragon Kick or Black Spot. Can be replaced with 2A after Rampage for a good 50/50 situation. Good use of OMC during/after Skull Cracker can create powerful mixups, and or make the move safe."
-            },
-            {
-                "Version": "B",
-                "Damage": "800, 400",
-                "Guard": "H,L",
-                "Startup": "10",
-                "Active": "2(9)3",
-                "Recovery": "21",
-                "Frame Adv.": "-7",
-                "Attribute": "Body, Foot",
-                "Description": "First hit overhead, second hit low. Good for combos or to set up 5DD/2DD oki in the corner. Doesn't combo after A version of Rampage, allowing for a reset."
-            },
-            {
-                "Version": "SB",
-                "Damage": "800, 400",
-                "Guard": "H,L",
-                "Startup": "5",
-                "Active": "2(9)3",
-                "Recovery": "25",
-                "Frame Adv.": "-11",
-                "Attribute": "Body, Foot",
-                "Description": "First hit overhead, second hit low. Mostly not used unless you have meter to burn to add damage to a combo."
-            }
-        ]
-    },
-    {
-        "Name": "Dragon Kick ",
-        "Comment": "236C/D (air OK)",
-        "Versions": [
-            {
-                "Version": "C",
-                "Damage": "2000 (1800)",
-                "Guard": "All",
-                "Startup": "18 (14)",
-                "Active": "21 (17)",
-                "Recovery": "23 (23) +9 (9) after landing",
-                "Frame Adv.": "-34 (0)",
-                "Attribute": "Head",
-                "Description": "Tomoe launches Chie in the air for a flying kick. High damage, usually used as a combo ender. Occasionally useful as a surprise, or a method to punish unsafe moves in the air. Can follow up with another Dragon Kick in the air after using SB version."
-            },
-            {
-                "Version": "D",
-                "Damage": "3000 (2520)",
-                "Guard": "All",
-                "Startup": "30 (16)",
-                "Active": "18 (16)",
-                "Recovery": "23 (0) +9 (16) after landing",
-                "Frame Adv.": "-31 (0)",
-                "Attribute": "Head",
-                "Description": "Tomoe launches Chie in the air for a flying kick. High damage, usually used as a combo ender. Occasionally useful as a surprise, or a method to punish unsafe moves in the air. Can follow up with another Dragon Kick in the air after using SB version."
-            },
-            {
-                "Version": "SB",
-                "Damage": "2400 (2400)",
-                "Guard": "All",
-                "Startup": "30 (13)",
-                "Active": "17 (16)",
-                "Recovery": "4 (4) +9 (9) after landing",
-                "Frame Adv.": "-2 (0)",
-                "Attribute": "Head",
-                "Description": "Tomoe launches Chie in the air for a flying kick. High damage, usually used as a combo ender. Occasionally useful as a surprise, or a method to punish unsafe moves in the air. Can follow up with another Dragon Kick in the air after using SB version."
-            }
-        ]
-    },
-    {
-        "Name": "Herculean Strike",
-        "Comment": "214A/B",
-        "Versions": [
-            {
-                "Version": "A",
-                "Damage": "600",
-                "Guard": "All",
-                "Startup": "15",
-                "Active": "6",
-                "Recovery": "23",
-                "Frame Adv.": "-14 ~ -9",
-                "Attribute": "Chest",
-                "Description": "A forward lunging palm strike.\nA Version is typically used as a combo ender midscreen for Chie's smaller and simpler combos"
-            },
-            {
-                "Version": "B",
-                "Damage": "1000",
-                "Guard": "All",
-                "Startup": "31",
-                "Active": "10",
-                "Recovery": "21",
-                "Frame Adv.": "-11 ~ -3",
-                "Attribute": "Chest",
-                "Description": "B version covers more ground than the A version but doesn't currently see much use."
-            },
-            {
-                "Version": "SB",
-                "Damage": "900, 450",
-                "Guard": "All",
-                "Startup": "17",
-                "Active": "10,1",
-                "Recovery": "15",
-                "Frame Adv.": "+3",
-                "Attribute": "Chest",
-                "Description": "SB version is + on block, making it a valid means to reset pressure. It's somewhat better for this than SB Rampage because the single, quick hit isn't as easy a point to guard cancel out of as Rampage."
-            }
-        ]
-    },
-    {
-        "Name": "Black Spot ",
-        "Comment": "214C/D",
-        "Versions": [
-            {
-                "Version": "C",
-                "Damage": "800",
-                "Guard": "All",
-                "Startup": "13",
-                "Active": "12",
-                "Recovery": "24",
-                "Frame Adv.": "-7",
-                "Attribute": "Projectile, Chest",
-                "Description": "Dash Cancel is -6 on block"
-            },
-            {
-                "Version": "D",
-                "Damage": "1200",
-                "Guard": "All",
-                "Startup": "26",
-                "Active": "12",
-                "Recovery": "18",
-                "Frame Adv.": "+2",
-                "Attribute": "Projectile, Chest",
-                "Description": "Dash Cancel is -3 on block"
-            },
-            {
-                "Version": "SB",
-                "Damage": "1400",
-                "Guard": "All",
-                "Startup": "21",
-                "Active": "12",
-                "Recovery": "26",
-                "Frame Adv.": "-6",
-                "Attribute": "Projectile, Chest",
-                "Description": "Dash Cancel is -3 on block\nChie and her Persona do a double palm attack. C/D versions will FC on Counter Hit. SB version has super armor on frames 9-32, shielding Chie from attacks. Nice move to throw into corner pressure sometimes if you think you can get a FC off of it, and the D/SB versions are good when the enemy is approaching."
-            }
-        ]
-    },
-    {
-        "Name": "Power Charge",
-        "Comment": "236236A/B",
-        "Versions": [
-            {
-                "Version": "A",
-                "Damage": "-",
-                "Guard": "-",
-                "Startup": "-",
-                "Active": "-",
-                "Recovery": "5 Total",
-                "Frame Adv.": "-",
-                "Attribute": "-",
-                "Description": "Chie charges up, boosting the damage of her special moves. In addition, special moves will now FC on Counter Hit. This move is useful in combos or pressure as a sort of \"extra\" OMC, since it can be canceled into from virtually anything and has only 5 total frames (all of which have invincibility). In addition, it freezes the screen, so you can use it when you are disoriented to get your bearings, or to tell if you have clearance to go for a throw/punish a move with long startup/etc. Very useful."
-            },
-            {
-                "Version": "B",
-                "Damage": "-",
-                "Guard": "-",
-                "Startup": "-",
-                "Active": "-",
-                "Recovery": "20 Total",
-                "Frame Adv.": "-",
-                "Attribute": "-",
-                "Description": "Puts Chie into level 2. Similar to the A version, but the charge adds an extra boost to damage. Has longer recovery time so it is usually used during combos or after a counter hit."
-            },
-            {
-                "Version": "SB",
-                "Damage": "-",
-                "Guard": "-",
-                "Startup": "-",
-                "Active": "-",
-                "Recovery": "35 Total",
-                "Frame Adv.": "-",
-                "Attribute": "-",
-                "Description": "Puts Chie into level 3, adds an even bigger damage boost. Due to the long recovery time it's rarely used outside of specific combos/setups."
-            }
-        ]
-    },
-    {
-        "Name": "God's Hand ",
-        "Comment": "236236C/D",
-        "Versions": [
-            {
-                "Version": "C",
-                "Damage": "3000",
-                "Guard": "H",
-                "Startup": "4+11",
-                "Active": "6",
-                "Recovery": "42",
-                "Frame Adv.": "-16",
-                "Attribute": "Body",
-                "Description": "Tomoe summons a giant golden fist from the heavens that slams down onto the opponent. This is Chie's best combo ender when going for damage. C version is quicker and puts the fist in front of Chie; Can also be used as a strong reversal."
-            },
-            {
-                "Version": "D",
-                "Damage": "3360",
-                "Guard": "H",
-                "Startup": "4+19",
-                "Active": "6",
-                "Recovery": "42",
-                "Frame Adv.": "-16",
-                "Attribute": "Body",
-                "Description": "D version puts the fist mid screen and adds more damage."
-            },
-            {
-                "Version": "SB",
-                "Damage": "3000*2",
-                "Guard": "H",
-                "Startup": "4+19",
-                "Active": "6(276)",
-                "Recovery": "42",
-                "Frame Adv.": "-16",
-                "Attribute": "Body",
-                "Description": "SB God's Hand causes 2 fists to come down, one after the other to add even more damage."
-            }
-        ]
-    },
-    {
-        "Name": "Agneyastra ",
-        "Comment": "214214C/D (air OK)",
-        "Versions": [
-            {
-                "Version": "C",
-                "Damage": "520*N",
-                "Guard": "All",
-                "Startup": "11+~8",
-                "Active": "-",
-                "Recovery": "35 Total",
-                "Frame Adv.": "-",
-                "Attribute": "Projectile, Body",
-                "Description": "Tomoe causes a large swarm of Meteors to rain from the sky.In Ultimax, the amount of meteors that rain down has been lessened. This makes it harder for Agneyastra to lockdown an opponent to cover an approach from full screen. If you're using it for this purpose, usually you'll have to use Agneyastra twice now to get the same effect. Agneyastra is now more commonly used as a means to boost the damage on midscreen combos since it's air OK unlike God Hand. \nC verion puts meteors close to Chie"
-            },
-            {
-                "Version": "D",
-                "Damage": "520*N",
-                "Guard": "All",
-                "Startup": "11+~14",
-                "Active": "-",
-                "Recovery": "34 Total",
-                "Frame Adv.": "-",
-                "Attribute": "Projectile, Body",
-                "Description": "D version makes the meteors come down at a full screen distance away."
-            },
-            {
-                "Version": "SB",
-                "Damage": "520*N",
-                "Guard": "All",
-                "Startup": "11+~6",
-                "Active": "-",
-                "Recovery": "34 Total",
-                "Frame Adv.": "-",
-                "Attribute": "Projectile, Body",
-                "Description": "SB Version has the meteor raining down towards Chie\nAgneyastra instantly ends if Chie/Tomoe gets hit."
-            }
-        ]
-    },
-    {
-        "Name": "Galactic Punt ",
-        "Comment": "222C+D",
-        "Versions": [
-            {
-                "Version": "222CD",
-                "Damage": "K.O.",
-                "Guard": "All",
-                "Startup": "13+51",
-                "Active": "22",
-                "Recovery": "66",
-                "Frame Adv.": "-52",
-                "Attribute": "Projectile, Body",
-                "Description": "Tomoe summons a large stream of energy to knock her opponent airborne. On the way down, Chie then raises her power level over 9000 to deliver a powerful kick that launches her opponent into outer space! She then quotes Bruce Lee and the battle is over."
-            }
-        ]
-    }
-]
+{
+    "Name": "Chie Satonaka",
+    "Game": "P4AU",
+    "ImageURL": "www.dustloop.com/wiki/index.php?title=File:P4U_Chie_Portrait.png",
+    "Attributes": "\n\nHealth: 9,500\nCombo Rate: 60%\nPersona Cards: 3\nBackdash Time: 19\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nRushdown\n",
+    "Moves": [
+        {
+            "Name": "5A",
+            "Comment": "Normal",
+            "Versions": [
+                {
+                    "Version": "5A",
+                    "Damage": "180",
+                    "Guard": "All",
+                    "Startup": "5",
+                    "Active": "3",
+                    "Recovery": "6",
+                    "Frame Adv.": "0",
+                    "Attribute": "Body",
+                    "Description": "Short, slightly angled jab that hits crouchers. It's a staple pressure tool, since it's 0 block; input it as [4]A during pressure to block DP attempts after you recover."
+                },
+                {
+                    "Version": "5AA",
+                    "Damage": "260, 130",
+                    "Guard": "All",
+                    "Startup": "8",
+                    "Active": "3(3)6",
+                    "Recovery": "11",
+                    "Frame Adv.": "-2",
+                    "Attribute": "Body",
+                    "Description": "Mostly used for hit confirming. Her new 5AA pulls the opponent back in towards her, making it a good a spot to sometimes reset pressure"
+                },
+                {
+                    "Version": "5AAA",
+                    "Damage": "400, 200, 200",
+                    "Guard": "All",
+                    "Startup": "10",
+                    "Active": "2(12)3(9)5",
+                    "Recovery": "19",
+                    "Frame Adv.": "-5",
+                    "Attribute": "Body",
+                    "Description": "Her new 5AAA is kick that wall bounces. Mostly just used for auto combos route. It's also useful for CH combos on grounded opponents midscreen because you'll be able to connect 5A from the wall bounce and keep the combo going, giving more damage and corner carry."
+                }
+            ]
+        },
+        {
+            "Name": "5A",
+            "Comment": "Shadow",
+            "Versions": [
+                {
+                    "Version": "5A",
+                    "Damage": "180",
+                    "Guard": "All",
+                    "Startup": "5",
+                    "Active": "3",
+                    "Recovery": "6",
+                    "Frame Adv.": "0",
+                    "Attribute": "Body",
+                    "Description": "Short, slightly angled jab that hits crouchers. Staple stagger pressure tool; input it as [4]A during pressure to block DP attempts after you recover."
+                },
+                {
+                    "Version": "5AA",
+                    "Damage": "250, 125x5",
+                    "Guard": "All",
+                    "Startup": "9",
+                    "Active": "2(4)2(4)2(4)2(4)2",
+                    "Recovery": "21",
+                    "Frame Adv.": "-8",
+                    "Attribute": "Body",
+                    "Description": "Short flurry of multiple kicks. Mostly used for hitconfirming."
+                },
+                {
+                    "Version": "5AAA",
+                    "Damage": "600, 300",
+                    "Guard": "All",
+                    "Startup": "5",
+                    "Active": "3, 3",
+                    "Recovery": "15",
+                    "Frame Adv.": "-3",
+                    "Attribute": "Body",
+                    "Description": "Backwards cartwheel kick. Doesn't see much use outside autocomboing for meter."
+                }
+            ]
+        },
+        {
+            "Name": "5B",
+            "Versions": [
+                {
+                    "Damage": "550",
+                    "Guard": "All",
+                    "Startup": "7",
+                    "Active": "4",
+                    "Recovery": "18",
+                    "Frame Adv.": "-7",
+                    "Attribute": "Body",
+                    "Description": "Dash Cancel is -5 on block\nBackdash Cancel is -4 on block\nQuick high heel kick. Great starter, leads to some of Chie's most damaging combos; also a reasonable poke at closer ranges, though it has less range than 2A."
+                }
+            ]
+        },
+        {
+            "Name": "2A",
+            "Versions": [
+                {
+                    "Damage": "200",
+                    "Guard": "L",
+                    "Startup": "7",
+                    "Active": "2",
+                    "Recovery": "12",
+                    "Frame Adv.": "-3",
+                    "Attribute": "Foot",
+                    "Description": "Crouching, low-hitting kick. It's arguably Chie's best poke, as it low profiles several other pokes and has better range than 5B. Additionally, it's Chie's most important low; it's used often in stagger pressure, and it's the low used in her mixups. Cancels into itself on whiff."
+                }
+            ]
+        },
+        {
+            "Name": "2B",
+            "Versions": [
+                {
+                    "Damage": "400",
+                    "Guard": "AUB",
+                    "Startup": "10",
+                    "Active": "2",
+                    "Recovery": "30",
+                    "Frame Adv.": "-17",
+                    "Attribute": "Body",
+                    "Description": "Dash Cancel is -5 on block\nBackdash Cancel is -4 on block\nHigh vertical anti-air kick. Air unblockable. On hit forces stand against crouching opponents."
+                }
+            ]
+        },
+        {
+            "Name": "j.A",
+            "Versions": [
+                {
+                    "Damage": "300",
+                    "Guard": "HA",
+                    "Startup": "5",
+                    "Active": "4",
+                    "Recovery": "10",
+                    "Frame Adv.": "-",
+                    "Attribute": "Head",
+                    "Description": "Quick aerial palm strike. Situational air to air. Hits overhead, but isn't as good for mixup as j.B. Cancels into itself, even on whiff."
+                }
+            ]
+        },
+        {
+            "Name": "j.B",
+            "Versions": [
+                {
+                    "Damage": "400",
+                    "Guard": "HA",
+                    "Startup": "8",
+                    "Active": "3",
+                    "Recovery": "13",
+                    "Frame Adv.": "-",
+                    "Attribute": "Head",
+                    "Description": "Quick jump kick that hits overhead."
+                }
+            ]
+        },
+        {
+            "Name": "j.2B and j.BB",
+            "Versions": [
+                {
+                    "Version": "j.2B",
+                    "Damage": "600",
+                    "Guard": "HA",
+                    "Startup": "9",
+                    "Active": "3",
+                    "Recovery": "12",
+                    "Frame Adv.": "-",
+                    "Attribute": "Head",
+                    "Description": "Command normal version of j.BB. j.2B is mostly used in aerial combos before going into an air rampage, also hits overhead."
+                },
+                {
+                    "Version": "j.BB",
+                    "Damage": "600",
+                    "Guard": "HA",
+                    "Startup": "7",
+                    "Active": "3",
+                    "Recovery": "15",
+                    "Frame Adv.": "-",
+                    "Attribute": "Head",
+                    "Description": "j.BB is mostly used in low to the ground air dash j.BB mixups from a 5DD/2DD setup in the corner."
+                }
+            ]
+        },
+        {
+            "Name": "All Out Attack",
+            "Comment": "A+B",
+            "Versions": [
+                {
+                    "Damage": "300",
+                    "Guard": "H",
+                    "Startup": "26",
+                    "Active": "1",
+                    "Recovery": "39",
+                    "Frame Adv.": "-21",
+                    "Attribute": "Body",
+                    "Description": "Chie does a front flip before slamming her heel down on her opponent. Mainly used as a corner combo ender after the opponent is frozen."
+                }
+            ]
+        },
+        {
+            "Name": "Sweep",
+            "Comment": "2A+B",
+            "Versions": [
+                {
+                    "Damage": "600",
+                    "Guard": "L",
+                    "Startup": "9",
+                    "Active": "3",
+                    "Recovery": "20",
+                    "Frame Adv.": "-8",
+                    "Attribute": "Foot",
+                    "Description": "Good combo ender for setting up safe jumps. If you have 50 meter, you can also cancel it into A Power Charge, then connect 5C to get a better combo on a grounded opponent midscreen."
+                }
+            ]
+        },
+        {
+            "Name": "5C ",
+            "Versions": [
+                {
+                    "Damage": "800",
+                    "Guard": "All",
+                    "Startup": "12",
+                    "Active": "3",
+                    "Recovery": "31",
+                    "Frame Adv.": "-16",
+                    "Attribute": "Body",
+                    "Description": "Dash Cancel is -3 on block\nDecent mid-range poke for Chie. In Ultimax, it's been adjusted so that Tomoe appears a bit further back. This gives Tomoe less reach but it also makes her safer from attack as well. Useful in corner pressure since it can be dash/jump canceled. Can be used to trade favorably with certain long-range pokes, but it shouldn't be relied on too heavily."
+                }
+            ]
+        },
+        {
+            "Name": "5D ",
+            "Versions": [
+                {
+                    "Version": "5D",
+                    "Damage": "200, 100x2, 900",
+                    "Guard": "All",
+                    "Startup": "43",
+                    "Active": "2(3)2(6)2(11)3",
+                    "Recovery": "61 total",
+                    "Frame Adv.": "-",
+                    "Attribute": "Body",
+                    "Description": "Very slow spear attack. Last hit causes launch, but is not incredibly useful outside of combos. Almost exclusively canceled into 5DD oki after B Skullcracker in the corner"
+                },
+                {
+                    "Version": "5DD",
+                    "Damage": "200, 100x2, 30x15, 200",
+                    "Guard": "All",
+                    "Startup": "43",
+                    "Active": "2(3)2(6)2(7)30[15 hits](9)3",
+                    "Recovery": "61 total",
+                    "Frame Adv.": "-",
+                    "Attribute": "Body",
+                    "Description": "Tomoe spins spear. Standing version is slower but makes Tomoe move forward. Use while opponent is waking up in oki setup and they will be forced to block, leaving Chie free to mix-up the opponent or go for other set-ups. Tomoe can be hit if the opponent wakes up at the correct time or if they F-Action.\nNote that the 2nd D can (and usually should) be delayed to force the opponent to change their wakeup timing and allow Chie more time to pressure."
+                }
+            ]
+        },
+        {
+            "Name": "2C ",
+            "Versions": [
+                {
+                    "Damage": "400,200",
+                    "Guard": "All",
+                    "Startup": "23",
+                    "Active": "7(2)2",
+                    "Recovery": "26",
+                    "Frame Adv.": "-11",
+                    "Attribute": "Body",
+                    "Description": "Dash Cancel is -3 on block\nFreezes the opponent on hit\nMostly used in some of Chie's higher damaging combos due to the freeze effect giving more time to follow up with stuff you normally wouldn't be able to."
+                }
+            ]
+        },
+        {
+            "Name": "2D ",
+            "Versions": [
+                {
+                    "Version": "2D",
+                    "Damage": "200, 900",
+                    "Guard": "All",
+                    "Startup": "26",
+                    "Active": "7(11)3",
+                    "Recovery": "56 total",
+                    "Frame Adv.": "+27",
+                    "Attribute": "Body",
+                    "Description": "Very slow spear attack. Last hit causes launch, but is not incredibly useful outside of combos. Almost exclusively canceled into 2DD oki after B Skullcracker"
+                },
+                {
+                    "Version": "2DD",
+                    "Damage": "200, 50x15, 300",
+                    "Guard": "All",
+                    "Startup": "26",
+                    "Active": "2(7)30[15 hits](9)3",
+                    "Recovery": "56 total",
+                    "Frame Adv.": "+62",
+                    "Attribute": "Body",
+                    "Description": "Tomoe spins spear. Starts-up immediately but Tomoe will stay in place. Use while opponent is waking up (after B skullcracker in corner) and they will be forced to block, leaving Chie free to mix-up the opponent or go for other set-ups. Tomoe can be hit if the opponent wakes up at the correct time or if they F-Action.\nNote that the 2nd D can (and usually should) be delayed to force the opponent to change their wakeup timing and allow Chie more time to pressure"
+                }
+            ]
+        },
+        {
+            "Name": "j.C ",
+            "Versions": [
+                {
+                    "Damage": "700",
+                    "Guard": "All",
+                    "Startup": "11",
+                    "Active": "4",
+                    "Recovery": "11",
+                    "Frame Adv.": "-",
+                    "Attribute": "Body",
+                    "Description": "Tomoe slashes in midair. A move with a surprising amount of utility, and Chie's best air-to-air option. It actually has a deceptively massive forward hitbox (by Chie standards) and a scrunched hurtbox, and can be canceled into D Dragon Kick for easy damage. Against a grounded opponent, it allows for ambiguous crossups in combination with air turn, and halts Chie's downward momentum which can sometimes cause AA's to whiff. Note that it does not hit overhead."
+                }
+            ]
+        },
+        {
+            "Name": "j.5/4/2/8D ",
+            "Versions": [
+                {
+                    "Damage": "100, 50x11, 500, 4",
+                    "Guard": "All",
+                    "Startup": "24",
+                    "Active": "24[12 hits](13)3",
+                    "Recovery": "52 total",
+                    "Frame Adv.": "-",
+                    "Attribute": "Head",
+                    "Description": "Tomoe leaps up and spins her spear, followed by a downward thrust which causes knockdown. Each version summons Tomoe at a slightly different point. Primarily used in combos, but j.2D and j.5D can be useful for covering your approach."
+                }
+            ]
+        },
+        {
+            "Name": "Ground Throw",
+            "Comment": "C+D",
+            "Versions": [
+                {
+                    "Damage": "0,0,1200, 1, 4",
+                    "Guard": "Throw",
+                    "Startup": "5",
+                    "Active": "3",
+                    "Recovery": "25",
+                    "Frame Adv.": "-",
+                    "Attribute": "Throw",
+                    "Description": "Can be comboed after with a One-More cancel. On counter hit can be comboed after with 2A."
+                }
+            ]
+        },
+        {
+            "Name": "Air Throw",
+            "Comment": "j.C+D",
+            "Versions": [
+                {
+                    "Damage": "0,1600, 4",
+                    "Guard": "Throw",
+                    "Startup": "4",
+                    "Active": "3",
+                    "Recovery": "12",
+                    "Frame Adv.": "-",
+                    "Attribute": "Throw",
+                    "Description": "An air throw that ends with Chie slamming them directly down into the ground, giving good positioning to start pressure. You can OMC and convert it into a combo if you have meter."
+                }
+            ]
+        },
+        {
+            "Name": "Counter",
+            "Comment": "B+D (air OK)",
+            "Versions": [
+                {
+                    "Version": "Ground Catch",
+                    "Damage": "-",
+                    "Guard": "-",
+                    "Startup": "-",
+                    "Active": "1-9 Catch",
+                    "Recovery": "24 Total",
+                    "Frame Adv.": "-",
+                    "Attribute": "-",
+                    "Description": "Chie summons a shield, and if hit or grabbed she'll kick in the air diagonally upward. Starts up and recovers quickly, but the counter isn't active for long. This makes it harder to time than most other f-actions. Can be spammed to force awakening, giving Chie 50 SP and access to Agneyastra. Keep in mind that Chie is in Fatal Recovery state during recovery.\nAir version does the kicks immediately, and has full invincibility on startup."
+                },
+                {
+                    "Version": "Ground Attack",
+                    "Damage": "720, 190x4, 4",
+                    "Guard": "Low, All",
+                    "Startup": "7",
+                    "Active": "2(9)3(5)3(5)3(5)3",
+                    "Recovery": "18+15 after landing",
+                    "Frame Adv.": "-24",
+                    "Attribute": "Body",
+                    "Description": "Chie summons a shield, and if hit or grabbed she'll kick in the air diagonally upward. Starts up and recovers quickly, but the counter isn't active for long. This makes it harder to time than most other f-actions. Can be spammed to force awakening, giving Chie 50 SP and access to Agneyastra. Keep in mind that Chie is in Fatal Recovery state during recovery.\nAir version does the kicks immediately, and has full invincibility on startup."
+                },
+                {
+                    "Version": "Air",
+                    "Damage": "320, 160x3",
+                    "Guard": "All",
+                    "Startup": "6",
+                    "Active": "3(5)3(5)3(5)3",
+                    "Recovery": "15 after landing",
+                    "Frame Adv.": "-",
+                    "Attribute": "Head",
+                    "Description": "Chie summons a shield, and if hit or grabbed she'll kick in the air diagonally upward. Starts up and recovers quickly, but the counter isn't active for long. This makes it harder to time than most other f-actions. Can be spammed to force awakening, giving Chie 50 SP and access to Agneyastra. Keep in mind that Chie is in Fatal Recovery state during recovery.\nAir version does the kicks immediately, and has full invincibility on startup."
+                }
+            ]
+        },
+        {
+            "Name": "Guard Cancel Attack",
+            "Comment": "6A+B",
+            "Versions": [
+                {
+                    "Damage": "0",
+                    "Guard": "All",
+                    "Startup": "-",
+                    "Active": "-",
+                    "Recovery": "-",
+                    "Frame Adv.": "-",
+                    "Attribute": "-",
+                    "Description": "Chie's Guard Cancel Attack. It utilizes Chie's 5B animation, and knocks the opponent away on hit. It has limited practicality due to its awful range."
+                }
+            ]
+        },
+        {
+            "Name": "Rampage",
+            "Comment": "236A/B (air OK)",
+            "Versions": [
+                {
+                    "Version": "A ground",
+                    "Damage": "240,120*2",
+                    "Guard": "All",
+                    "Startup": "11",
+                    "Active": "2(6)3(6)3",
+                    "Recovery": "3+17 after landing",
+                    "Frame Adv.": "-8",
+                    "Attribute": "Head",
+                    "Description": "A short flurry of jump kicks; Mostly used in combos. Causes fatal counter while power charged"
+                },
+                {
+                    "Version": "B ground",
+                    "Damage": "320,160*4",
+                    "Guard": "All",
+                    "Startup": "19",
+                    "Active": "2(6)3(6)3(6)3(6)3",
+                    "Recovery": "1+11 after landing",
+                    "Frame Adv.": "+2",
+                    "Attribute": "Head",
+                    "Description": "A higher flurry of jump kicks, safe on block."
+                },
+                {
+                    "Version": "SB ground",
+                    "Damage": "320,160*5",
+                    "Guard": "All",
+                    "Startup": "12",
+                    "Active": "2(4)2(4)2(4)2(4)2(4)2",
+                    "Recovery": "11 after landing",
+                    "Frame Adv.": "+6",
+                    "Attribute": "Head",
+                    "Description": "Startup of A Rampage with the damage of B Rampage, plus extra kicks. Can link 5A after. Very plus on block, nice tool to reset pressure."
+                },
+                {
+                    "Version": "A air",
+                    "Damage": "240,120*N",
+                    "Guard": "All",
+                    "Startup": "6",
+                    "Active": "2(6)3(6)3...",
+                    "Recovery": "17 after landing",
+                    "Frame Adv.": "-8",
+                    "Attribute": "Head",
+                    "Description": "List what the move is used for\nList interesting properties in bullet points like invul, fatal\nFollow the Help:Writing_Character_Pages guidelines"
+                },
+                {
+                    "Version": "B air",
+                    "Damage": "200,100*N",
+                    "Guard": "All",
+                    "Startup": "9",
+                    "Active": "2(4)2(4)2...",
+                    "Recovery": "11 after landing",
+                    "Frame Adv.": "-",
+                    "Attribute": "Head",
+                    "Description": "List what the move is used for\nList interesting properties in bullet points like invul, fatal\nFollow the Help:Writing_Character_Pages guidelines"
+                },
+                {
+                    "Version": "SB air",
+                    "Damage": "320,160*N",
+                    "Guard": "All",
+                    "Startup": "7",
+                    "Active": "2(4)2(4)2...",
+                    "Recovery": "11 after landing",
+                    "Frame Adv.": "-",
+                    "Attribute": "Head",
+                    "Description": "List what the move is used for\nList interesting properties in bullet points like invul, fatal\nFollow the Help:Writing_Character_Pages guidelines"
+                }
+            ]
+        },
+        {
+            "Name": "Skull Cracker",
+            "Comment": "236A/B after Rampage",
+            "Versions": [
+                {
+                    "Version": "A",
+                    "Damage": "400, 200",
+                    "Guard": "H,L",
+                    "Startup": "6",
+                    "Active": "2(9)3",
+                    "Recovery": "26",
+                    "Frame Adv.": "-12",
+                    "Attribute": "Body, Foot",
+                    "Description": "First hit is an overhead, second hit is low. Can be followed up with Dragon Kick or Black Spot. Can be replaced with 2A after Rampage for a good 50/50 situation. Good use of OMC during/after Skull Cracker can create powerful mixups, and or make the move safe."
+                },
+                {
+                    "Version": "B",
+                    "Damage": "800, 400",
+                    "Guard": "H,L",
+                    "Startup": "10",
+                    "Active": "2(9)3",
+                    "Recovery": "21",
+                    "Frame Adv.": "-7",
+                    "Attribute": "Body, Foot",
+                    "Description": "First hit overhead, second hit low. Good for combos or to set up 5DD/2DD oki in the corner. Doesn't combo after A version of Rampage, allowing for a reset."
+                },
+                {
+                    "Version": "SB",
+                    "Damage": "800, 400",
+                    "Guard": "H,L",
+                    "Startup": "5",
+                    "Active": "2(9)3",
+                    "Recovery": "25",
+                    "Frame Adv.": "-11",
+                    "Attribute": "Body, Foot",
+                    "Description": "First hit overhead, second hit low. Mostly not used unless you have meter to burn to add damage to a combo."
+                }
+            ]
+        },
+        {
+            "Name": "Dragon Kick ",
+            "Comment": "236C/D (air OK)",
+            "Versions": [
+                {
+                    "Version": "C",
+                    "Damage": "2000 (1800)",
+                    "Guard": "All",
+                    "Startup": "18 (14)",
+                    "Active": "21 (17)",
+                    "Recovery": "23 (23) +9 (9) after landing",
+                    "Frame Adv.": "-34 (0)",
+                    "Attribute": "Head",
+                    "Description": "Tomoe launches Chie in the air for a flying kick. High damage, usually used as a combo ender. Occasionally useful as a surprise, or a method to punish unsafe moves in the air. Can follow up with another Dragon Kick in the air after using SB version."
+                },
+                {
+                    "Version": "D",
+                    "Damage": "3000 (2520)",
+                    "Guard": "All",
+                    "Startup": "30 (16)",
+                    "Active": "18 (16)",
+                    "Recovery": "23 (0) +9 (16) after landing",
+                    "Frame Adv.": "-31 (0)",
+                    "Attribute": "Head",
+                    "Description": "Tomoe launches Chie in the air for a flying kick. High damage, usually used as a combo ender. Occasionally useful as a surprise, or a method to punish unsafe moves in the air. Can follow up with another Dragon Kick in the air after using SB version."
+                },
+                {
+                    "Version": "SB",
+                    "Damage": "2400 (2400)",
+                    "Guard": "All",
+                    "Startup": "30 (13)",
+                    "Active": "17 (16)",
+                    "Recovery": "4 (4) +9 (9) after landing",
+                    "Frame Adv.": "-2 (0)",
+                    "Attribute": "Head",
+                    "Description": "Tomoe launches Chie in the air for a flying kick. High damage, usually used as a combo ender. Occasionally useful as a surprise, or a method to punish unsafe moves in the air. Can follow up with another Dragon Kick in the air after using SB version."
+                }
+            ]
+        },
+        {
+            "Name": "Herculean Strike",
+            "Comment": "214A/B",
+            "Versions": [
+                {
+                    "Version": "A",
+                    "Damage": "600",
+                    "Guard": "All",
+                    "Startup": "15",
+                    "Active": "6",
+                    "Recovery": "23",
+                    "Frame Adv.": "-14 ~ -9",
+                    "Attribute": "Chest",
+                    "Description": "A forward lunging palm strike.\nA Version is typically used as a combo ender midscreen for Chie's smaller and simpler combos"
+                },
+                {
+                    "Version": "B",
+                    "Damage": "1000",
+                    "Guard": "All",
+                    "Startup": "31",
+                    "Active": "10",
+                    "Recovery": "21",
+                    "Frame Adv.": "-11 ~ -3",
+                    "Attribute": "Chest",
+                    "Description": "B version covers more ground than the A version but doesn't currently see much use."
+                },
+                {
+                    "Version": "SB",
+                    "Damage": "900, 450",
+                    "Guard": "All",
+                    "Startup": "17",
+                    "Active": "10,1",
+                    "Recovery": "15",
+                    "Frame Adv.": "+3",
+                    "Attribute": "Chest",
+                    "Description": "SB version is + on block, making it a valid means to reset pressure. It's somewhat better for this than SB Rampage because the single, quick hit isn't as easy a point to guard cancel out of as Rampage."
+                }
+            ]
+        },
+        {
+            "Name": "Black Spot ",
+            "Comment": "214C/D",
+            "Versions": [
+                {
+                    "Version": "C",
+                    "Damage": "800",
+                    "Guard": "All",
+                    "Startup": "13",
+                    "Active": "12",
+                    "Recovery": "24",
+                    "Frame Adv.": "-7",
+                    "Attribute": "Projectile, Chest",
+                    "Description": "Dash Cancel is -6 on block"
+                },
+                {
+                    "Version": "D",
+                    "Damage": "1200",
+                    "Guard": "All",
+                    "Startup": "26",
+                    "Active": "12",
+                    "Recovery": "18",
+                    "Frame Adv.": "+2",
+                    "Attribute": "Projectile, Chest",
+                    "Description": "Dash Cancel is -3 on block"
+                },
+                {
+                    "Version": "SB",
+                    "Damage": "1400",
+                    "Guard": "All",
+                    "Startup": "21",
+                    "Active": "12",
+                    "Recovery": "26",
+                    "Frame Adv.": "-6",
+                    "Attribute": "Projectile, Chest",
+                    "Description": "Dash Cancel is -3 on block\nChie and her Persona do a double palm attack. C/D versions will FC on Counter Hit. SB version has super armor on frames 9-32, shielding Chie from attacks. Nice move to throw into corner pressure sometimes if you think you can get a FC off of it, and the D/SB versions are good when the enemy is approaching."
+                }
+            ]
+        },
+        {
+            "Name": "Power Charge",
+            "Comment": "236236A/B",
+            "Versions": [
+                {
+                    "Version": "A",
+                    "Damage": "-",
+                    "Guard": "-",
+                    "Startup": "-",
+                    "Active": "-",
+                    "Recovery": "5 Total",
+                    "Frame Adv.": "-",
+                    "Attribute": "-",
+                    "Description": "Chie charges up, boosting the damage of her special moves. In addition, special moves will now FC on Counter Hit. This move is useful in combos or pressure as a sort of \"extra\" OMC, since it can be canceled into from virtually anything and has only 5 total frames (all of which have invincibility). In addition, it freezes the screen, so you can use it when you are disoriented to get your bearings, or to tell if you have clearance to go for a throw/punish a move with long startup/etc. Very useful."
+                },
+                {
+                    "Version": "B",
+                    "Damage": "-",
+                    "Guard": "-",
+                    "Startup": "-",
+                    "Active": "-",
+                    "Recovery": "20 Total",
+                    "Frame Adv.": "-",
+                    "Attribute": "-",
+                    "Description": "Puts Chie into level 2. Similar to the A version, but the charge adds an extra boost to damage. Has longer recovery time so it is usually used during combos or after a counter hit."
+                },
+                {
+                    "Version": "SB",
+                    "Damage": "-",
+                    "Guard": "-",
+                    "Startup": "-",
+                    "Active": "-",
+                    "Recovery": "35 Total",
+                    "Frame Adv.": "-",
+                    "Attribute": "-",
+                    "Description": "Puts Chie into level 3, adds an even bigger damage boost. Due to the long recovery time it's rarely used outside of specific combos/setups."
+                }
+            ]
+        },
+        {
+            "Name": "God's Hand ",
+            "Comment": "236236C/D",
+            "Versions": [
+                {
+                    "Version": "C",
+                    "Damage": "3000",
+                    "Guard": "H",
+                    "Startup": "4+11",
+                    "Active": "6",
+                    "Recovery": "42",
+                    "Frame Adv.": "-16",
+                    "Attribute": "Body",
+                    "Description": "Tomoe summons a giant golden fist from the heavens that slams down onto the opponent. This is Chie's best combo ender when going for damage. C version is quicker and puts the fist in front of Chie; Can also be used as a strong reversal."
+                },
+                {
+                    "Version": "D",
+                    "Damage": "3360",
+                    "Guard": "H",
+                    "Startup": "4+19",
+                    "Active": "6",
+                    "Recovery": "42",
+                    "Frame Adv.": "-16",
+                    "Attribute": "Body",
+                    "Description": "D version puts the fist mid screen and adds more damage."
+                },
+                {
+                    "Version": "SB",
+                    "Damage": "3000*2",
+                    "Guard": "H",
+                    "Startup": "4+19",
+                    "Active": "6(276)",
+                    "Recovery": "42",
+                    "Frame Adv.": "-16",
+                    "Attribute": "Body",
+                    "Description": "SB God's Hand causes 2 fists to come down, one after the other to add even more damage."
+                }
+            ]
+        },
+        {
+            "Name": "Agneyastra ",
+            "Comment": "214214C/D (air OK)",
+            "Versions": [
+                {
+                    "Version": "C",
+                    "Damage": "520*N",
+                    "Guard": "All",
+                    "Startup": "11+~8",
+                    "Active": "-",
+                    "Recovery": "35 Total",
+                    "Frame Adv.": "-",
+                    "Attribute": "Projectile, Body",
+                    "Description": "Tomoe causes a large swarm of Meteors to rain from the sky.In Ultimax, the amount of meteors that rain down has been lessened. This makes it harder for Agneyastra to lockdown an opponent to cover an approach from full screen. If you're using it for this purpose, usually you'll have to use Agneyastra twice now to get the same effect. Agneyastra is now more commonly used as a means to boost the damage on midscreen combos since it's air OK unlike God Hand. \nC verion puts meteors close to Chie"
+                },
+                {
+                    "Version": "D",
+                    "Damage": "520*N",
+                    "Guard": "All",
+                    "Startup": "11+~14",
+                    "Active": "-",
+                    "Recovery": "34 Total",
+                    "Frame Adv.": "-",
+                    "Attribute": "Projectile, Body",
+                    "Description": "D version makes the meteors come down at a full screen distance away."
+                },
+                {
+                    "Version": "SB",
+                    "Damage": "520*N",
+                    "Guard": "All",
+                    "Startup": "11+~6",
+                    "Active": "-",
+                    "Recovery": "34 Total",
+                    "Frame Adv.": "-",
+                    "Attribute": "Projectile, Body",
+                    "Description": "SB Version has the meteor raining down towards Chie\nAgneyastra instantly ends if Chie/Tomoe gets hit."
+                }
+            ]
+        },
+        {
+            "Name": "Galactic Punt ",
+            "Comment": "222C+D",
+            "Versions": [
+                {
+                    "Version": "222CD",
+                    "Damage": "K.O.",
+                    "Guard": "All",
+                    "Startup": "13+51",
+                    "Active": "22",
+                    "Recovery": "66",
+                    "Frame Adv.": "-52",
+                    "Attribute": "Projectile, Body",
+                    "Description": "Tomoe summons a large stream of energy to knock her opponent airborne. On the way down, Chie then raises her power level over 9000 to deliver a powerful kick that launches her opponent into outer space! She then quotes Bruce Lee and the battle is over."
+                }
+            ]
+        }
+    ]
+}

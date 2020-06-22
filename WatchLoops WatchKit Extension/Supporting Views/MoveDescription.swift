@@ -20,6 +20,6 @@ struct MoveDescription: View {
 
 struct MoveDescription_Previews: PreviewProvider {
     static var previews: some View {
-        MoveDescription(description: samplecharacter.moves[0].versions[0].description)
+        MoveDescription(description: samplecharacter.Moves[0].Versions[0]["Description"] ?? "Description not available")
     }
 }

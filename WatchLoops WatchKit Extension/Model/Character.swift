@@ -8,28 +8,31 @@
 
 import Foundation
 
-struct Character {
-    var name: String
-    var game: Game
-    var description: String
-    var moves: [Move]
+struct Character : Codable {
+    var Name: String
+    var Game: Game
+    var Attributes: String
+    var ImageURL : URL?
+    var Moves: [Move]
     
     init() {
-        self.name = "UNKNOWN"
-        self.game = .unknown
-        self.description = "UNKNOWN"
-        self.moves = []
+        self.Name = "UNKNOWN"
+        self.Game = .unknown
+        self.ImageURL = nil
+        self.Attributes = "UNKNOWN"
+        self.Moves = []
     }
     
-    init(name: String, game: Game, description: String, moves: [Move]) {
-        self.name = name
-        self.game = game
-        self.description = description
-        self.moves = moves
+    init(Name: String, Game: Game, Attributes: String, ImageURL: URL?, Moves: [Move]) {
+        self.Name = Name
+        self.Game = Game
+        self.Attributes = Attributes
+        self.ImageURL = ImageURL
+        self.Moves = Moves
     }
 }
 
-enum Game: String {
+enum Game: String, Codable {
     case unknown = "UNKNOWN"
     case p4au = "P4AU"
     case dbfz = "DBFZ"
@@ -39,3 +42,5 @@ enum Game: String {
     case bbcf = "BBCF"
     case uniclr = "UNICLR"
 }
+
+// TODO: Create Sorter of fields for each game! Have it be it's own dict where you pass the game in

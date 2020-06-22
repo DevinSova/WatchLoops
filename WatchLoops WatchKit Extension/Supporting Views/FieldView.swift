@@ -9,12 +9,13 @@
 import SwiftUI
 
 struct FieldView: View {
-    var field: Field
+    var key: String
+    var value: String
     var body: some View {
         HStack {
-            Text(field.key + ":")
+            Text(key + ":")
                 .bold()
-            Text(field.value)
+            Text(value)
                 .font(.caption)
                 .foregroundColor(.gray)
         }
@@ -23,6 +24,6 @@ struct FieldView: View {
 
 struct FieldView_Previews: PreviewProvider {
     static var previews: some View {
-        FieldView(field: Field(order: 0, key: "On Hit", value: "+3"))
+        FieldView(key: "On Hit", value: "+3")
     }
 }

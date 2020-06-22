@@ -10,10 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        MoveView(move: samplecharacter.moves[0], version: samplecharacter.moves[0].versions[0])
-        //.frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: .infinity)
-        //.edgesIgnoringSafeArea(.all)
-        .background(Color.blue)
+        MoveList(moves: samplecharacter.Moves)
     }
 }
 

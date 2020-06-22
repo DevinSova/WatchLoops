@@ -10,54 +10,24 @@ import SwiftUI
 
 struct MoveView: View {
     var move: Move
-    var version: Version
+    var version: [String: String]
     
     var body: some View {
-        ScrollView {
-            HStack {
-                VStack(alignment: .leading) {
-                    ForEach(version.fields, id: \.id) { field in
-                        FieldView(field: field)
-                    }
-                }
-
-                VStack {
-                    NavigationLink(destination: MoveDescription(description: version.description)) {
-                        Image(uiImage: UIImage(
-                            systemName: "text.bubble.fill",
-                            withConfiguration: UIImage.SymbolConfiguration(scale: .medium))
-                            ?? UIImage())
-                    }.clipShape(Circle())
-
-                    NavigationLink(destination: MoveImage(image: Image(move.imageUrl))) {
-                        Image(uiImage: UIImage(
-                            systemName: "person.fill",
-                            withConfiguration: UIImage.SymbolConfiguration(scale: .medium))
-                            ?? UIImage())
-                    }.clipShape(Circle())
-
-                    Button(action: {}) {
-                        Image(uiImage: UIImage(
-                            systemName: "rectangle.fill",
-                            withConfiguration: UIImage.SymbolConfiguration(scale: .medium))
-                            ?? UIImage())
-                    }
-                    .clipShape(Circle())
-                }
-                .scaledToFit()
+        VStack(alignment: .leading) {
+            ForEach(version.sorted(by: >), id:\.key) { key, value in
+                FieldView(key: key, value: value)
             }
-            .scaledToFill()
-            //TODO: Change to horizontal scroll view for verisons
         }
+        //TODO: Fuck the buttons and do a tap on card to view 90% view of pic followed by desc??
     }
 }
 
 struct MoveView_Previews: PreviewProvider {
     static var previews: some View {
         Group {
-            MoveView(move: samplecharacter.moves[0], version: samplecharacter.moves[0].versions[0])
+            MoveView(move: samplecharacter.Moves[0], version: samplecharacter.Moves[0].Versions[0])
                 .previewDevice("Apple Watch Series 4 - 44mm")
-            MoveView(move: samplecharacter.moves[1], version: samplecharacter.moves[1].versions[0])
+            MoveView(move: samplecharacter.Moves[1], version: samplecharacter.Moves[1].Versions[0])
                 .previewDevice("Apple Watch Series 2 - 38mm")
         }
     }

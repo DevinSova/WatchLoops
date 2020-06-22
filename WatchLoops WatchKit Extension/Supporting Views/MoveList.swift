@@ -11,10 +11,12 @@ import SwiftUI
 struct MoveList: View {
     var moves: [Move]
     var body: some View {
-        List {
-            MoveView(move: samplecharacter.moves[0], version: samplecharacter.moves[0].versions[0])
+        ScrollView {
+            MoveView(move: samplecharacter.Moves[0], version: samplecharacter.Moves[0].Versions[0]).padding()
+            //MoveView(move: samplecharacter.moves[0], version: samplecharacter.moves[0].Versions[1]).padding()
+            //MoveView(move: samplecharacter.moves[0], version: samplecharacter.moves[0].Versions[2]).padding()
         }
-        .navigationBarTitle("Chie Satonaka")
+        .navigationBarTitle(samplecharacter.Name)
     }
 }
 
