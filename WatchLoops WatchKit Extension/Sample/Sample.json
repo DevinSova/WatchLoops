@@ -7,6 +7,11 @@
         {
             "Name": "5A",
             "Comment": "Normal",
+            "ImageURLs": [
+                "https://www.dustloop.com/wiki/images/thumb/d/d8/P4Arena_Chie_5A.png/156px-P4Arena_Chie_5A.png",
+                "https://www.dustloop.com/wiki/images/thumb/c/ca/P4AU_Chie_5AA.png/175px-P4AU_Chie_5AA.png",
+                "https://www.dustloop.com/wiki/images/thumb/f/fe/P4AU_Chie_5AAA.png/175px-P4AU_Chie_5AAA.png"
+            ],
             "Versions": [
                 {
                     "Version": "5A",
@@ -46,6 +51,11 @@
         {
             "Name": "5A",
             "Comment": "Shadow",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/thumb/d/d8/P4Arena_Chie_5A.png/156px-P4Arena_Chie_5A.png",
+                "www.dustloop.com/wiki/images/thumb/a/af/P4Arena_Chie_5AA.png/175px-P4Arena_Chie_5AA.png",
+                "www.dustloop.com/wiki/images/thumb/4/49/P4Arena_Chie_5AAA.png/175px-P4Arena_Chie_5AAA.png"
+            ],
             "Versions": [
                 {
                     "Version": "5A",
@@ -84,6 +94,9 @@
         },
         {
             "Name": "5B",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/thumb/f/fe/P4Arena_Chie_5B.png/171px-P4Arena_Chie_5B.png"
+            ],
             "Versions": [
                 {
                     "Damage": "550",
@@ -99,6 +112,9 @@
         },
         {
             "Name": "2A",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/thumb/8/83/P4Arena_Chie_2A.png/175px-P4Arena_Chie_2A.png"
+            ],
             "Versions": [
                 {
                     "Damage": "200",
@@ -114,6 +130,9 @@
         },
         {
             "Name": "2B",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/thumb/1/16/P4Arena_Chie_2B.png/118px-P4Arena_Chie_2B.png"
+            ],
             "Versions": [
                 {
                     "Damage": "400",
@@ -129,6 +148,9 @@
         },
         {
             "Name": "j.A",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/thumb/5/56/P4Arena_Chie_jA.png/175px-P4Arena_Chie_jA.png"
+            ],
             "Versions": [
                 {
                     "Damage": "300",
@@ -144,6 +166,9 @@
         },
         {
             "Name": "j.B",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/thumb/7/7b/P4Arena_Chie_jB.png/175px-P4Arena_Chie_jB.png"
+            ],
             "Versions": [
                 {
                     "Damage": "400",
@@ -159,6 +184,9 @@
         },
         {
             "Name": "j.2B and j.BB",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/thumb/5/58/P4Arena_Chie_jBB.png/175px-P4Arena_Chie_jBB.png"
+            ],
             "Versions": [
                 {
                     "Version": "j.2B",
@@ -187,6 +215,9 @@
         {
             "Name": "All Out Attack",
             "Comment": "A+B",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/thumb/a/a0/P4Arena_Chie_AOA.png/175px-P4Arena_Chie_AOA.png"
+            ],
             "Versions": [
                 {
                     "Damage": "300",
@@ -203,6 +234,9 @@
         {
             "Name": "Sweep",
             "Comment": "2A+B",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/thumb/0/02/P4Arena_Chie_Sweep.png/175px-P4Arena_Chie_Sweep.png"
+            ],
             "Versions": [
                 {
                     "Damage": "600",
@@ -218,6 +252,10 @@
         },
         {
             "Name": "5C ",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/1/1b/Persona_Icon.png",
+                "www.dustloop.com/wiki/images/thumb/a/a6/P4Arena_Chie_5C.png/175px-P4Arena_Chie_5C.png"
+            ],
             "Versions": [
                 {
                     "Damage": "800",
@@ -233,6 +271,10 @@
         },
         {
             "Name": "5D ",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/1/1b/Persona_Icon.png",
+                "www.dustloop.com/wiki/images/thumb/e/e0/P4Arena_Chie_5D.png/175px-P4Arena_Chie_5D.png"
+            ],
             "Versions": [
                 {
                     "Version": "5D",
@@ -260,6 +302,11 @@
         },
         {
             "Name": "2C ",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/1/1b/Persona_Icon.png",
+                "www.dustloop.com/wiki/images/thumb/8/87/P4AU_Chie_2C.png/175px-P4AU_Chie_2C.png",
+                "www.dustloop.com/wiki/images/thumb/3/33/P4AU_Chie_2C%282%29.png/175px-P4AU_Chie_2C%282%29.png"
+            ],
             "Versions": [
                 {
                     "Damage": "400,200",
@@ -275,6 +322,10 @@
         },
         {
             "Name": "2D ",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/1/1b/Persona_Icon.png",
+                "www.dustloop.com/wiki/images/thumb/d/d3/P4Arena_Chie_5DD.png/175px-P4Arena_Chie_5DD.png"
+            ],
             "Versions": [
                 {
                     "Version": "2D",
@@ -302,6 +353,10 @@
         },
         {
             "Name": "j.C ",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/1/1b/Persona_Icon.png",
+                "www.dustloop.com/wiki/images/thumb/7/76/P4Arena_Chie_jC.png/134px-P4Arena_Chie_jC.png"
+            ],
             "Versions": [
                 {
                     "Damage": "700",
@@ -317,6 +372,10 @@
         },
         {
             "Name": "j.5/4/2/8D ",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/1/1b/Persona_Icon.png",
+                "www.dustloop.com/wiki/images/thumb/e/e9/P4Arena_Chie_jD.png/175px-P4Arena_Chie_jD.png"
+            ],
             "Versions": [
                 {
                     "Damage": "100, 50x11, 500, 4",
@@ -333,6 +392,9 @@
         {
             "Name": "Ground Throw",
             "Comment": "C+D",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/thumb/b/be/P4Arena_Chie_GroundThrow.png/136px-P4Arena_Chie_GroundThrow.png"
+            ],
             "Versions": [
                 {
                     "Damage": "0,0,1200, 1, 4",
@@ -349,6 +411,9 @@
         {
             "Name": "Air Throw",
             "Comment": "j.C+D",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/thumb/f/f0/P4Arena_Chie_AirThrow.png/175px-P4Arena_Chie_AirThrow.png"
+            ],
             "Versions": [
                 {
                     "Damage": "0,1600, 4",
@@ -365,6 +430,10 @@
         {
             "Name": "Counter",
             "Comment": "B+D (air OK)",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/thumb/1/1d/P4Arena_Chie_BD.png/105px-P4Arena_Chie_BD.png",
+                "www.dustloop.com/wiki/images/thumb/e/e5/P4Arena_Chie_BD2.png/175px-P4Arena_Chie_BD2.png"
+            ],
             "Versions": [
                 {
                     "Version": "Ground Catch",
@@ -404,6 +473,9 @@
         {
             "Name": "Guard Cancel Attack",
             "Comment": "6A+B",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/thumb/f/fe/P4Arena_Chie_5B.png/171px-P4Arena_Chie_5B.png"
+            ],
             "Versions": [
                 {
                     "Damage": "0",
@@ -420,6 +492,9 @@
         {
             "Name": "Rampage",
             "Comment": "236A/B (air OK)",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/thumb/4/42/P4Arena_Chie_Rampage.png/175px-P4Arena_Chie_Rampage.png"
+            ],
             "Versions": [
                 {
                     "Version": "A ground",
@@ -492,6 +567,9 @@
         {
             "Name": "Skull Cracker",
             "Comment": "236A/B after Rampage",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/thumb/8/8d/P4Arena_Chie_SkullCracker.png/175px-P4Arena_Chie_SkullCracker.png"
+            ],
             "Versions": [
                 {
                     "Version": "A",
@@ -531,6 +609,10 @@
         {
             "Name": "Dragon Kick ",
             "Comment": "236C/D (air OK)",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/1/1b/Persona_Icon.png",
+                "www.dustloop.com/wiki/images/thumb/9/92/P4Arena_Chie_DragonKick.png/175px-P4Arena_Chie_DragonKick.png"
+            ],
             "Versions": [
                 {
                     "Version": "C",
@@ -570,6 +652,9 @@
         {
             "Name": "Herculean Strike",
             "Comment": "214A/B",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/thumb/1/15/P4AU_Chie_HerculeanStrike.png/175px-P4AU_Chie_HerculeanStrike.png"
+            ],
             "Versions": [
                 {
                     "Version": "A",
@@ -609,6 +694,10 @@
         {
             "Name": "Black Spot ",
             "Comment": "214C/D",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/1/1b/Persona_Icon.png",
+                "www.dustloop.com/wiki/images/thumb/4/48/P4Arena_Chie_BlackSpot.png/175px-P4Arena_Chie_BlackSpot.png"
+            ],
             "Versions": [
                 {
                     "Version": "C",
@@ -648,6 +737,9 @@
         {
             "Name": "Power Charge",
             "Comment": "236236A/B",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/thumb/8/87/P4Arena_Chie_PowerCharge.png/175px-P4Arena_Chie_PowerCharge.png"
+            ],
             "Versions": [
                 {
                     "Version": "A",
@@ -687,6 +779,10 @@
         {
             "Name": "God's Hand ",
             "Comment": "236236C/D",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/1/1b/Persona_Icon.png",
+                "www.dustloop.com/wiki/images/thumb/3/3a/P4Arena_Chie_GodsHand.png/175px-P4Arena_Chie_GodsHand.png"
+            ],
             "Versions": [
                 {
                     "Version": "C",
@@ -726,6 +822,10 @@
         {
             "Name": "Agneyastra ",
             "Comment": "214214C/D (air OK)",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/1/1b/Persona_Icon.png",
+                "www.dustloop.com/wiki/images/thumb/b/bd/P4Arena_Chie_Agneyastra.png/175px-P4Arena_Chie_Agneyastra.png"
+            ],
             "Versions": [
                 {
                     "Version": "C",
@@ -765,6 +865,11 @@
         {
             "Name": "Galactic Punt ",
             "Comment": "222C+D",
+            "ImageURLs": [
+                "www.dustloop.com/wiki/images/1/1b/Persona_Icon.png",
+                "www.dustloop.com/wiki/images/thumb/b/b3/P4Arena_Chie_GalacticPunt.png/175px-P4Arena_Chie_GalacticPunt.png",
+                "www.dustloop.com/wiki/images/thumb/d/dc/P4Arena_Chie_GalacticPunt2.png/175px-P4Arena_Chie_GalacticPunt2.png"
+            ],
             "Versions": [
                 {
                     "Version": "222CD",

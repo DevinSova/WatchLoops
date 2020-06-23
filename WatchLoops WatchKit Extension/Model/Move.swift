@@ -11,20 +11,23 @@ import Foundation
 struct Move : Codable {
     var Name: String
     var Comment: String?
+    var ImageURLs: [URL]
     var Versions: [[String: String]]
     //var imageUrl: String
     
     init() {
         self.Name = "UNKNOWN"
         self.Comment = "UNKNOWN"
+        self.ImageURLs = []
         self.Versions = []
         //self.imageUrl = "UNKNOWN"
-        #warning("Change to be a default image and URL Field")
+        //TODO: "Change to be a default image and URL Field
     }
     
-    init(Name: String, Comment: String?, Versions: [[String: String]], imageUrl: String) {
+    init(Name: String, Comment: String?, ImageURLs: [URL], Versions: [[String: String]], imageUrl: String) {
         self.Name = Name
         self.Comment = Comment
+        self.ImageURLs = ImageURLs
         self.Versions = Versions
         //self.imageUrl = imageUrl
     }

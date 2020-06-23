@@ -13,9 +13,11 @@ struct MoveView: View {
     var version: [String: String]
     
     var body: some View {
-        VStack(alignment: .leading) {
-            ForEach(version.sorted(by: >), id:\.key) { key, value in
-                FieldView(key: key, value: value)
+        NavigationLink(destination: MoveDescription(images: move.ImageURLs, description: version["Description"]!)) {
+            VStack(alignment: .leading) {
+                ForEach(version.sorted(by: >), id:\.key) { key, value in
+                    FieldView(key: key, value: value)
+                }
             }
         }
         //TODO: Fuck the buttons and do a tap on card to view 90% view of pic followed by desc??
