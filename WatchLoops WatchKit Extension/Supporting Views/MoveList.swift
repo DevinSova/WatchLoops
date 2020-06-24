@@ -12,9 +12,11 @@ struct MoveList: View {
     var moves: [Move]
     var body: some View {
         ScrollView {
-            MoveView(move: samplecharacter.Moves[0], version: samplecharacter.Moves[0].Versions[0]).padding()
-            //MoveView(move: samplecharacter.moves[0], version: samplecharacter.moves[0].Versions[1]).padding()
-            //MoveView(move: samplecharacter.moves[0], version: samplecharacter.moves[0].Versions[2]).padding()
+            ForEach(samplecharacter.Moves, id:\.Name) { move in
+                ForEach(move.Versions, id:\.self) { version in
+                    MoveView(move: move, version: version).padding()
+                }
+            }
         }
         .navigationBarTitle(samplecharacter.Name)
     }
