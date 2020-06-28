@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		035B333A2470B3DD006A59A0 /* MoveDescription.swift in Sources */ = {isa = PBXBuildFile; fileRef = 035B33392470B3DD006A59A0 /* MoveDescription.swift */; };
 		038249E6247CCD970028FE48 /* FieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 038249E5247CCD970028FE48 /* FieldView.swift */; };
 		0386275D23FD19110054598F /* WatchLoops WatchKit App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 0386275C23FD19110054598F /* WatchLoops WatchKit App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		0386276323FD19110054598F /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0386276123FD19110054598F /* Interface.storyboard */; };
@@ -28,6 +27,9 @@
 		038D6143247F6D0600ACFD5A /* Sample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 038D6142247F6D0600ACFD5A /* Sample.swift */; };
 		038D6145247F6D5A00ACFD5A /* Sample.json in Resources */ = {isa = PBXBuildFile; fileRef = 038D6144247F6D5A00ACFD5A /* Sample.json */; };
 		03921E64245F3AE600651A5C /* MoveList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03921E63245F3AE600651A5C /* MoveList.swift */; };
+		03E2021524A80B7E000B1E29 /* MoveCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03E2021424A80B7E000B1E29 /* MoveCard.swift */; };
+		03E2021724A83A1E000B1E29 /* AttributesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03E2021624A83A1E000B1E29 /* AttributesView.swift */; };
+		03E2021924A83D21000B1E29 /* ImagesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03E2021824A83D21000B1E29 /* ImagesView.swift */; };
 		65839662174D457601498901 /* Pods_WatchLoops_WatchKit_Extension.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E547CDC877F189C27E874649 /* Pods_WatchLoops_WatchKit_Extension.framework */; };
 /* End PBXBuildFile section */
 
@@ -75,7 +77,6 @@
 
 /* Begin PBXFileReference section */
 		02CFEDE72A42D20FF4682504 /* Pods-WatchLoops WatchKit Extension.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WatchLoops WatchKit Extension.debug.xcconfig"; path = "Target Support Files/Pods-WatchLoops WatchKit Extension/Pods-WatchLoops WatchKit Extension.debug.xcconfig"; sourceTree = "<group>"; };
-		035B33392470B3DD006A59A0 /* MoveDescription.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveDescription.swift; sourceTree = "<group>"; };
 		038249E5247CCD970028FE48 /* FieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FieldView.swift; sourceTree = "<group>"; };
 		0386275823FD19100054598F /* WatchLoops.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WatchLoops.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0386275C23FD19110054598F /* WatchLoops WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WatchLoops WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -100,6 +101,9 @@
 		038D6142247F6D0600ACFD5A /* Sample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample.swift; sourceTree = "<group>"; };
 		038D6144247F6D5A00ACFD5A /* Sample.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Sample.json; sourceTree = "<group>"; };
 		03921E63245F3AE600651A5C /* MoveList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveList.swift; sourceTree = "<group>"; };
+		03E2021424A80B7E000B1E29 /* MoveCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveCard.swift; sourceTree = "<group>"; };
+		03E2021624A83A1E000B1E29 /* AttributesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttributesView.swift; sourceTree = "<group>"; };
+		03E2021824A83D21000B1E29 /* ImagesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesView.swift; sourceTree = "<group>"; };
 		E547CDC877F189C27E874649 /* Pods_WatchLoops_WatchKit_Extension.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WatchLoops_WatchKit_Extension.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0FABD82299804859E1B9518 /* Pods-WatchLoops WatchKit Extension.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WatchLoops WatchKit Extension.release.xcconfig"; path = "Target Support Files/Pods-WatchLoops WatchKit Extension/Pods-WatchLoops WatchKit Extension.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -195,8 +199,10 @@
 			children = (
 				0386279223FD19B40054598F /* MoveView.swift */,
 				03921E63245F3AE600651A5C /* MoveList.swift */,
-				035B33392470B3DD006A59A0 /* MoveDescription.swift */,
 				038249E5247CCD970028FE48 /* FieldView.swift */,
+				03E2021424A80B7E000B1E29 /* MoveCard.swift */,
+				03E2021624A83A1E000B1E29 /* AttributesView.swift */,
+				03E2021824A83D21000B1E29 /* ImagesView.swift */,
 			);
 			path = "Supporting Views";
 			sourceTree = "<group>";
@@ -421,9 +427,11 @@
 				0386277723FD19110054598F /* NotificationController.swift in Sources */,
 				0386277523FD19110054598F /* ExtensionDelegate.swift in Sources */,
 				0386277923FD19110054598F /* NotificationView.swift in Sources */,
+				03E2021724A83A1E000B1E29 /* AttributesView.swift in Sources */,
+				03E2021524A80B7E000B1E29 /* MoveCard.swift in Sources */,
 				0386277B23FD19110054598F /* ComplicationController.swift in Sources */,
+				03E2021924A83D21000B1E29 /* ImagesView.swift in Sources */,
 				038D6143247F6D0600ACFD5A /* Sample.swift in Sources */,
-				035B333A2470B3DD006A59A0 /* MoveDescription.swift in Sources */,
 				03921E64245F3AE600651A5C /* MoveList.swift in Sources */,
 				038249E6247CCD970028FE48 /* FieldView.swift in Sources */,
 			);

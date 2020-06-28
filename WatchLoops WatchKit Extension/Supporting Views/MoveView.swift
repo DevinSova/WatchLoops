@@ -7,29 +7,37 @@
 //
 
 import SwiftUI
-
+import URLImage
+//TODO: Change sorting to custom method
 struct MoveView: View {
     var move: Move
-    var version: [String: String]
-    
     var body: some View {
-        NavigationLink(destination: MoveDescription(images: move.ImageURLs, description: version["Description"]!)) {
-            VStack(alignment: .leading) {
-                ForEach(version.sorted(by: >), id:\.key) { key, value in
-                    FieldView(key: key, value: value)
+        ScrollView {
+            VStack(alignment: .leading, spacing: 3.0) {
+                Text(move.Name).font(.system(size: 20)).bold()
+                if move.Comment != nil {
+                    Text(move.Comment!).font(.system(size: 14)).foregroundColor(.gray)
                 }
             }
-        }
-        //TODO: Fuck the buttons and do a tap on card to view 90% view of pic followed by desc??
+            ForEach(move.Versions, id:\.self) { version in
+                VStack(alignment: .leading, spacing: 2.0) {
+                    AttributesView(attributes: version.Attributes)
+                    Text(version.Description).lineLimit(nil).font(.caption)
+                    if(version.ImageURLs != nil) {
+                        ImagesView(imageURLs: version.ImageURLs!)
+                    }
+                }
+            }
+        }.navigationBarTitle(move.Name)
     }
 }
 
 struct MoveView_Previews: PreviewProvider {
     static var previews: some View {
         Group {
-            MoveView(move: samplecharacter.Moves[0], version: samplecharacter.Moves[0].Versions[0])
+            MoveView(move: samplecharacter.Moves[0])
                 .previewDevice("Apple Watch Series 4 - 44mm")
-            MoveView(move: samplecharacter.Moves[1], version: samplecharacter.Moves[1].Versions[0])
+            MoveView(move: samplecharacter.Moves[1])
                 .previewDevice("Apple Watch Series 2 - 38mm")
         }
     }

@@ -11,11 +11,9 @@ import SwiftUI
 struct MoveList: View {
     var moves: [Move]
     var body: some View {
-        ScrollView {
+        List {
             ForEach(samplecharacter.Moves, id:\.Name) { move in
-                ForEach(move.Versions, id:\.self) { version in
-                    MoveView(move: move, version: version).padding()
-                }
+                MoveCard(move: move)
             }
         }
         .navigationBarTitle(samplecharacter.Name)

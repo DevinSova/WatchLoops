@@ -8,27 +8,29 @@
 
 import Foundation
 
-struct Move : Codable {
+struct Move : Codable, Hashable {
     var Name: String
     var Comment: String?
-    var ImageURLs: [URL]
-    var Versions: [[String: String]]
-    //var imageUrl: String
-    
+    var Versions: [Version]
+
     init() {
         self.Name = "UNKNOWN"
         self.Comment = "UNKNOWN"
-        self.ImageURLs = []
         self.Versions = []
-        //self.imageUrl = "UNKNOWN"
         //TODO: "Change to be a default image and URL Field
     }
     
-    init(Name: String, Comment: String?, ImageURLs: [URL], Versions: [[String: String]], imageUrl: String) {
+    init(Name: String, Comment: String?, ImageURLs: [URL], Versions: [Version], imageUrl: String) {
         self.Name = Name
         self.Comment = Comment
-        self.ImageURLs = ImageURLs
         self.Versions = Versions
-        //self.imageUrl = imageUrl
     }
+}
+
+typealias Attributes = [String: String]
+
+struct Version: Codable, Hashable {
+    var Attributes: Attributes
+    var Description: String
+    var ImageURLs: [URL]?
 }
