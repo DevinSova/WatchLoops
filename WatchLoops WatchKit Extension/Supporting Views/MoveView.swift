@@ -13,20 +13,21 @@ struct MoveView: View {
     var move: Move
     var body: some View {
         ScrollView {
-            VStack(alignment: .leading, spacing: 3.0) {
-                Text(move.Name).font(.system(size: 20)).bold()
-                if move.Comment != nil {
-                    Text(move.Comment!).font(.system(size: 14)).foregroundColor(.gray)
-                }
+            Text(move.Name).font(.system(size: 20)).bold()
+            if move.Comment != nil {
+                Text(move.Comment!).font(.system(size: 14)).foregroundColor(.gray)
             }
             ForEach(move.Versions, id:\.self) { version in
-                VStack(alignment: .leading, spacing: 2.0) {
+                VStack(alignment: .leading, spacing: 5.0) {
                     AttributesView(attributes: version.Attributes)
                     Text(version.Description).lineLimit(nil).font(.caption)
-                    if(version.ImageURLs != nil) {
+                    if version.ImageURLs != nil {
                         ImagesView(imageURLs: version.ImageURLs!)
                     }
-                }
+                    if version != self.move.Versions.last {
+                        Divider()
+                    }
+                }.padding([.top, .bottom], 4.0)
             }
         }.navigationBarTitle(move.Name)
     }

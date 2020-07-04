@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		037F88BE24B001DC00E44C3A /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 037F88BD24B001DC00E44C3A /* Game.swift */; };
 		038249E6247CCD970028FE48 /* FieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 038249E5247CCD970028FE48 /* FieldView.swift */; };
 		0386275D23FD19110054598F /* WatchLoops WatchKit App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 0386275C23FD19110054598F /* WatchLoops WatchKit App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		0386276323FD19110054598F /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0386276123FD19110054598F /* Interface.storyboard */; };
@@ -77,6 +78,7 @@
 
 /* Begin PBXFileReference section */
 		02CFEDE72A42D20FF4682504 /* Pods-WatchLoops WatchKit Extension.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WatchLoops WatchKit Extension.debug.xcconfig"; path = "Target Support Files/Pods-WatchLoops WatchKit Extension/Pods-WatchLoops WatchKit Extension.debug.xcconfig"; sourceTree = "<group>"; };
+		037F88BD24B001DC00E44C3A /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 		038249E5247CCD970028FE48 /* FieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FieldView.swift; sourceTree = "<group>"; };
 		0386275823FD19100054598F /* WatchLoops.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WatchLoops.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0386275C23FD19110054598F /* WatchLoops WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WatchLoops WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -213,6 +215,7 @@
 				0386279723FD1C920054598F /* Move.swift */,
 				0386279923FD1C9C0054598F /* Character.swift */,
 				038D613F247F6C0900ACFD5A /* JSON.swift */,
+				037F88BD24B001DC00E44C3A /* Game.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -431,6 +434,7 @@
 				03E2021524A80B7E000B1E29 /* MoveCard.swift in Sources */,
 				0386277B23FD19110054598F /* ComplicationController.swift in Sources */,
 				03E2021924A83D21000B1E29 /* ImagesView.swift in Sources */,
+				037F88BE24B001DC00E44C3A /* Game.swift in Sources */,
 				038D6143247F6D0600ACFD5A /* Sample.swift in Sources */,
 				03921E64245F3AE600651A5C /* MoveList.swift in Sources */,
 				038249E6247CCD970028FE48 /* FieldView.swift in Sources */,

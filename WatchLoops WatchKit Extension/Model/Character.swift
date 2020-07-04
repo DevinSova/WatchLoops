@@ -31,16 +31,3 @@ struct Character : Codable {
         self.Moves = Moves
     }
 }
-
-enum Game: String, Codable {
-    case unknown = "UNKNOWN"
-    case p4au = "P4AU"
-    case dbfz = "DBFZ"
-    case gbvs = "GBVS"
-    case bbtag = "BBTAG"
-    case ggxrdrev2 = "GGXRDREV2"
-    case bbcf = "BBCF"
-    case uniclr = "UNICLR"
-}
-
-// TODO: Create Sorter of fields for each game! Have it be it's own dict where you pass the game in

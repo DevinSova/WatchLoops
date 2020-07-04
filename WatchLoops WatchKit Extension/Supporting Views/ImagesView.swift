@@ -14,7 +14,7 @@ struct ImagesView: View {
     var body: some View {
         VStack(alignment: .center, spacing: 2.0) {
             ForEach(imageURLs, id:\.self) { imageURL in
-                URLImage(imageURL, placeholder: Image(systemName: "circle")).scaledToFit()
+                URLImage(imageURL, placeholder: Image(systemName: "circle")).scaledToFit() //TODO: Update placeholder
             }
         }.scaledToFit()
     }

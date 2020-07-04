@@ -12,7 +12,7 @@ struct MoveList: View {
     var moves: [Move]
     var body: some View {
         List {
-            ForEach(samplecharacter.Moves, id:\.Name) { move in
+            ForEach(samplecharacter.Moves, id:\.self) { move in
                 MoveCard(move: move)
             }
         }

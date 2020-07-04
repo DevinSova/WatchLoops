@@ -27,10 +27,31 @@ struct Move : Codable, Hashable {
     }
 }
 
-typealias Attributes = [String: String]
-
 struct Version: Codable, Hashable {
     var Attributes: Attributes
     var Description: String
     var ImageURLs: [URL]?
 }
+
+typealias Attributes = [String: String]
+
+let attributeSortDict = [
+    "Version": 0,
+    "Damage": 1,
+    "Guard": 2,
+    "Smash": 3,
+    "Startup": 4,
+    "Active": 5,
+    "Recovery": 6,
+    "On Block": 7,
+    "On Hit": 8,
+    "Frame Adv.": 9, //TODO Sometimes with or without the peroid
+    "Attribute": 10,
+    "Inv.": 11,
+]
+
+// TODO: Create Sorter of fields for each game! Have it be it's own dict where you pass the game in
+func attributeSortOrder(name: String) -> Int {
+    attributeSortDict[name] ?? 0
+}
+

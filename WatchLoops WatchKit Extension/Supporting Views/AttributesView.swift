@@ -12,7 +12,9 @@ struct AttributesView: View {
     var attributes: Attributes
     var body: some View {
         VStack(alignment: .leading) {
-            ForEach(attributes.sorted(by: <), id:\.key) { key, value in
+            ForEach(attributes.sorted(by: {
+                attributeSortDict[$0.key] ?? 0 < attributeSortDict[$1.key] ?? 0
+            }), id:\.key) { key, value in
                 FieldView(key: key, value: value)
             }
         }

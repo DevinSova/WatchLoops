@@ -14,7 +14,7 @@ struct MoveCard: View {
         NavigationLink(destination: MoveView(move: move)) {
             VStack(alignment: .leading, spacing: 0.5) {
                 Text(move.Name).font(.system(size: 15)).bold()
-                if (move.Comment != nil) {
+                if move.Comment != nil {
                     Text(move.Comment!).font(.caption)
                 }
                 
