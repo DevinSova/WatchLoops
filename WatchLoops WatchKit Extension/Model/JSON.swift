@@ -7,10 +7,9 @@
 //
 
 import Foundation
+import UIKit
 
-func jsonToCharacter(forResource: String, withExtension: String) -> Character? {
-    guard let mainUrl = Bundle.main.url(forResource: forResource, withExtension: withExtension) else { return nil }
-    guard let jsonData = try? Data(contentsOf: mainUrl, options: .mappedIfSafe) else { return nil }
-    let decoder = JSONDecoder()
-    return try! decoder.decode(Character.self, from: jsonData)
+func charactersFromGame(game: Game) -> [Character] {
+    guard let asset = NSDataAsset(name: game.rawValue) else { print("not found"); return [] }
+    return try! JSONDecoder().decode([Character].self, from: asset.data)
 }

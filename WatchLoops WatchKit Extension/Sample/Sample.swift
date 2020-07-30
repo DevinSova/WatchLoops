@@ -8,4 +8,5 @@
 
 import Foundation
 
-var samplecharacter = jsonToCharacter(forResource: "Sample", withExtension: "json") ?? Character()
+let samplecharacters = charactersFromGame(game: .p4au)
+let samplecharacter = samplecharacters[0]

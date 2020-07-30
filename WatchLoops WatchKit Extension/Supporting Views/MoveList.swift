@@ -9,19 +9,19 @@
 import SwiftUI
 
 struct MoveList: View {
-    var moves: [Move]
+    var character: Character
     var body: some View {
         List {
-            ForEach(samplecharacter.Moves, id:\.self) { move in
+            ForEach(character.Moves, id:\.self) { move in
                 MoveCard(move: move)
             }
         }
-        .navigationBarTitle(samplecharacter.Name)
+        .navigationBarTitle(character.Name)
     }
 }
 
 struct MoveList_Previews: PreviewProvider {
     static var previews: some View {
-        MoveList(moves: [])
+        MoveList(character: samplecharacter)
     }
 }

@@ -8,7 +8,7 @@
 
 import Foundation
 
-struct Character : Codable {
+struct Character : Codable, Hashable {
     var Name: String
     var Game: Game
     var Attributes: String
