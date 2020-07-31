@@ -7,13 +7,19 @@
 //
 
 import SwiftUI
+import URLImage
 
 struct CharacterCard: View {
     var character: Character
     var body: some View {
         NavigationLink(destination: MoveList(character: character)) {
             VStack(alignment: .leading, spacing: 0.5) {
-                Text(character.Name).font(.system(size: 15)).bold()
+                HStack {
+                    if character.IconURL != nil {
+                        URLImage(character.IconURL!)
+                    }
+                    Text(character.Name).font(.system(size: 15)).bold()
+                }
             }
             .cornerRadius(10)
             .padding([.all])

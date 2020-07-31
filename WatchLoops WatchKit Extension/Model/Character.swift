@@ -11,23 +11,26 @@ import Foundation
 struct Character : Codable, Hashable {
     var Name: String
     var Game: Game
-    var Attributes: String
-    var ImageURL : URL?
+    var Attributes: String?
+    var IconURL: URL?
+    var PortraitURL: URL?
     var Moves: [Move]
     
     init() {
         self.Name = "UNKNOWN"
         self.Game = .unknown
-        self.ImageURL = nil
-        self.Attributes = "UNKNOWN"
+        self.PortraitURL = nil
+        self.IconURL = nil
+        self.Attributes = nil
         self.Moves = []
     }
     
-    init(Name: String, Game: Game, Attributes: String, ImageURL: URL?, Moves: [Move]) {
+    init(Name: String, Game: Game, Attributes: String?, PortraitURL: URL?, IconURL: URL?, Moves: [Move]) {
         self.Name = Name
         self.Game = Game
         self.Attributes = Attributes
-        self.ImageURL = ImageURL
+        self.PortraitURL = PortraitURL
+        self.IconURL = IconURL
         self.Moves = Moves
     }
 }

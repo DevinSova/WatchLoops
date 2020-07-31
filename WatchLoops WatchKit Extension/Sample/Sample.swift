@@ -8,5 +8,5 @@
 
 import Foundation
 
-let samplecharacters = charactersFromGame(game: .p4au)
+let samplecharacters = charactersFromGame(game: .ggxrdrev2)
 let samplecharacter = samplecharacters[0]
