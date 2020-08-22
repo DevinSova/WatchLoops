@@ -12,16 +12,27 @@ import URLImage
 struct ImagesView: View {
     var imageURLs: [URL]
     var body: some View {
-        VStack(alignment: .center, spacing: 2.0) {
+        VStack(alignment: .leading, spacing: 2.0) {
             ForEach(imageURLs, id:\.self) { imageURL in
-                URLImage(imageURL, placeholder: Image(systemName: "circle")).scaledToFit() //TODO: Update placeholder
+                URLImage(imageURL,
+                    placeholder: Image(systemName: "circle"),
+                    content:  {
+                        $0.image
+                        .resizable()
+                        .aspectRatio(contentMode: .fit)
+                })
             }
-        }.scaledToFit()
+        }
     }
 }
 
 struct ImagesView_Previews: PreviewProvider {
     static var previews: some View {
-        ImagesView(imageURLs: samplecharacter.Moves[0].Versions[0].ImageURLs!)
+        Group {
+            ImagesView(imageURLs: samplecharacter.Moves[2].Versions[0].ImageURLs!)
+                .previewDevice("Apple Watch Series 4 - 44mm")
+            ImagesView(imageURLs: samplecharacter.Moves[2].Versions[0].ImageURLs!)
+                .previewDevice("Apple Watch Series 2 - 38mm")
+        }
     }
 }

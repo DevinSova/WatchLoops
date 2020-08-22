@@ -2,7 +2,8 @@
   "data" : [
     {
       "filename" : "BBCF.json",
-      "idiom" : "universal"
+      "idiom" : "universal",
+      "universal-type-identifier" : "public.json"
     }
   ],
   "info" : {

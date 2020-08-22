@@ -2,8 +2,9 @@
     {
         "Name": "Ragna the Bloodedge",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Ragna_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 22F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nOffense, Balanced\nTeam Role\n\nPoint, Support\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/0/05/BBTag_Ragna_Portrait.png/300px-BBTag_Ragna_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -828,8 +829,9 @@
     {
         "Name": "Jin Kisaragi",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Jin_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 22F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nBalanced, Neutral-focused\nTeam Role\n\nAnchor, Support\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/2/26/BBTag_Jin_Portrait.png/300px-BBTag_Jin_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -1665,8 +1667,9 @@
     {
         "Name": "Noel Vermillion",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Noel_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 22F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nAggressive, Mixup, Rekka(kinda?), Gimmick\nTeam Role\n\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/9/9d/BBTag_Noel_Portrait.png/300px-BBTag_Noel_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -2462,8 +2465,9 @@
     {
         "Name": "Rachel Alucard",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Rachel_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 46F / Invul: 1-7F All\n*Backdash can cancel into all actions except back walk 26F onward\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nZoner\nTeam role\nPoint, Support\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/6/65/BBTag_Rachel_Portrait.png/300px-BBTag_Rachel_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -3222,8 +3226,9 @@
     {
         "Name": "Iron Tager",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Tager_Portrait.png",
-        "Attributes": "\nHealth: 20,000\nPrejump: 6F\nBackdash Time 41F / Invul: 1-20F All\n*Backdash can cancel into all actions except back walk 30F onward\n\nMovement Options\nBackdash\nPlaystyle\nGrappler, Aggressive, Close-ranged, Reactive\nTeam Role\n\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/1/14/BBTag_Tager_Portrait.png/300px-BBTag_Tager_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -3949,8 +3954,9 @@
     {
         "Name": "Hakumen",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Hakumen_Portrait.png",
-        "Attributes": "\n\nHealth: 18,000\nPrejump: 4F\nBackdash Time 15F / Invul: 1-7F All\nForward Dash Time 16 / Invul: NoneCan cancel forward dash into all actions except walk on 12F\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Hop\nPlaystyle\nAggressive, mid-range\nTeam Role\n\nPoint, Support\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/0/02/BBTag_Hakumen_Portrait.png/291px-BBTag_Hakumen_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -4763,8 +4769,9 @@
     {
         "Name": "Nu-13",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Nu_Portrait.png",
-        "Attributes": "\nHealth: 16,000\nPrejump: 4F\nBackdash Time 25F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nZoner, Aggressive, Long-range\nTeam role\nPoint, Support(Situational)\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/0/0b/BBTag_Nu_Portrait.png/300px-BBTag_Nu_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -5692,8 +5699,9 @@
     {
         "Name": "Hazama",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Hazama_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 25F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Step\nPlaystyle\nNeutral-focused, Hit and run\nTeam Role\n\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/a/aa/BBTag_Hazama_Portrait.png/300px-BBTag_Hazama_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -6519,8 +6527,9 @@
     {
         "Name": "Makoto Nanaya",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Makoto_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 22F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nAggressive, Pressure, Mixups\nTeam Role\n\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/0/08/BBTag_Makoto_Portrait.png/271px-BBTag_Makoto_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -7428,8 +7437,9 @@
     {
         "Name": "Platinum the Trinity",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Platinum_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 22F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nMid-range, Neutral-focused\nTeam role\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/7/72/BBTag_Platinum_Portrait.png/300px-BBTag_Platinum_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -8298,8 +8308,9 @@
     {
         "Name": "Izayoi",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Izayoi_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 22F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\n[playstyle archetypes]\nTeam Role\n\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/9/9b/BBTag_Izayoi_Portrait.png/300px-BBTag_Izayoi_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -9102,8 +9113,9 @@
     {
         "Name": "Azrael",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Azrael_Portrait.png",
-        "Attributes": "\n\nHealth: 18,000\nPrejump: 4F\nBackdash Time 28F / Invul: 1-20F All\nForward Dash Time 25F / Invul: 7-15F All\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Teleport\nPlaystyle\nAggressive, close-range\nTeam role\n\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/d/d7/BBTag_Azrael_Portrait.png/300px-BBTag_Azrael_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -9832,8 +9844,9 @@
     {
         "Name": "Celica A. Mercury",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Celica_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 25F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nMid-range, Aggressive\nTeam role\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/b/b5/BBTag_Celica_Portrait.png/300px-BBTag_Celica_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -10474,8 +10487,9 @@
     {
         "Name": "Nine the Phantom",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Nine_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 42F / Invul: 1-4 P, 5-32F All\n\n\nMovement Options\nDouble Jump, Teleport Airdash, Dash Type: Step\nPlaystyle\nZoner, Aggressive, Tricky\nTeam Role\n\nPoint, Support\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e1/BBTag_Nine_Portrait.png/300px-BBTag_Nine_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -11456,8 +11470,9 @@
     {
         "Name": "Naoto Kurogane",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_NaotoK_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 25F / Invul: 1-7 All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nplaystyle archetypes\nTeam Role\n\nAnchor\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/c/c4/BBTag_NaotoK_Portrait.png/284px-BBTag_NaotoK_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -12245,8 +12260,9 @@
     {
         "Name": "Susano'o",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Susanoo_Portrait.png",
-        "Attributes": "\n\nHealth: 18,000\nPrejump: 4F\nBackdash Time 22F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nMid-range, Aggressive, Unga\nTeam role\nSupport, Point\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/1/1b/BBTag_Susanoo_Portrait.png/300px-BBTag_Susanoo_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -12896,8 +12912,9 @@
     {
         "Name": "Es",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Es_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 25F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nPassive, Neutral-focused\nTeam Role\n\nSupport\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/1/1e/BBTag_Es_Portrait.png/300px-BBTag_Es_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -13637,8 +13654,9 @@
     {
         "Name": "Mai Natsume",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Mai_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 25F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nNeutral-focused, Mid-range\nTeam Role\n\nPoint, Support\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/7/7e/BBTag_Mai_Portrait.png/244px-BBTag_Mai_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -14396,8 +14414,9 @@
     {
         "Name": "Jubei",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Jubei_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 25 / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nAggressive, Tricky, Close-range\nTeam Role\n\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/d/db/BBTag_Jubei_Portrait.png/300px-BBTag_Jubei_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -15375,8 +15394,9 @@
     {
         "Name": "Yu Narukami",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Yu_Portrait.png",
-        "Attributes": "\nHealth: 17,000\nPrejump: 4F\nBackdash Time 23F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nBalanced, Neutral-focused, Electric Jin\nTeam role\nPoint, Support\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e0/BBTag_Yu_Portrait.png/300px-BBTag_Yu_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -16126,8 +16146,9 @@
     {
         "Name": "Yosuke Hanamura",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Yosuke_Portrait.png",
-        "Attributes": "\n\nHealth: 16,000\nPrejump: 4F\nBackdash Time 23F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nTricky, Mixup, Hit and run\nTeam role\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/a/a6/BBTag_Yosuke_Portrait.png/300px-BBTag_Yosuke_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -16480,7 +16501,7 @@
                             "Frame Adv.": "-",
                             "Inv.": "-"
                         },
-                        "Description": "Special cancellable on hit and block\nMainly used to combo into Moonsault-Cresent Slash after j.A. Very punishable on whiff.",
+                        "Description": "Special cancellable on hit and block\nThe angle sadly makes it mostly unfit for neutral use, mainly used to combo into Moonsault-Cresent Slash after j.A. Very punishable on whiff.",
                         "ImageURLs": [
                             "https://www.dustloop.com/wiki/images/thumb/1/1e/P4Arena_Yosuke_FlyingKunai.png/175px-P4Arena_Yosuke_FlyingKunai.png"
                         ]
@@ -16706,27 +16727,6 @@
                 ]
             },
             {
-                "Name": "6P",
-                "Comment": "P4A 5D",
-                "Versions": [
-                    {
-                        "Attributes": {
-                            "Damage": "700*4",
-                            "Guard": "All",
-                            "Startup": "(18)+31",
-                            "Active": "15 [(9)3,3,4]",
-                            "Recovery": "Total: 94 [Total: +70]",
-                            "Frame Adv.": "-",
-                            "Inv.": "-"
-                        },
-                        "Description": "Jiraiya rushes forward with his fist extended. Goes full screen. If it connects with the point character, Jiraiya does an uppercut launching the opponent into the air.",
-                        "ImageURLs": [
-                            "https://www.dustloop.com/wiki/images/thumb/7/79/P4Arena_Yosuke_5D.png/175px-P4Arena_Yosuke_5D.png"
-                        ]
-                    }
-                ]
-            },
-            {
                 "Name": "5P",
                 "Comment": "Dash Spring",
                 "Versions": [
@@ -16743,6 +16743,27 @@
                         "Description": "Works the same as the A version of Dash Spring",
                         "ImageURLs": [
                             "https://www.dustloop.com/wiki/images/thumb/e/e1/P4Arena_Yosuke_DashSpring.png/175px-P4Arena_Yosuke_DashSpring.png"
+                        ]
+                    }
+                ]
+            },
+            {
+                "Name": "6P",
+                "Comment": "P4A 5D",
+                "Versions": [
+                    {
+                        "Attributes": {
+                            "Damage": "700*4",
+                            "Guard": "All",
+                            "Startup": "(18)+31",
+                            "Active": "15 [(9)3,3,4]",
+                            "Recovery": "Total: 94 [Total: +70]",
+                            "Frame Adv.": "-",
+                            "Inv.": "-"
+                        },
+                        "Description": "Jiraiya rushes forward with his fist extended. Goes full screen. If it connects with the point character, Jiraiya does an uppercut launching the opponent into the air.",
+                        "ImageURLs": [
+                            "https://www.dustloop.com/wiki/images/thumb/7/79/P4Arena_Yosuke_5D.png/175px-P4Arena_Yosuke_5D.png"
                         ]
                     }
                 ]
@@ -16859,8 +16880,9 @@
     {
         "Name": "Chie Satonaka",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Chie_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 24F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nAggressive, Mixup, Speedy\nTeam role\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/f/fb/BBTag_Chie_Portrait.png/300px-BBTag_Chie_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -17631,8 +17653,9 @@
     {
         "Name": "Yukiko Amagi",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Yukiko_Portrait.png",
-        "Attributes": "\nHealth: 16,000\nPrejump: 4F\nBackdash Time 29F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nZoner, Resource Management\nTeam role\nSupport\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/b/b8/BBTag_Yukiko_Portrait.png/247px-BBTag_Yukiko_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -18359,8 +18382,9 @@
     {
         "Name": "Kanji Tatsumi",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Kanji_Portrait.png",
-        "Attributes": "\n\nHealth: 18,000\nPrejump: 4F\nBackdash Time 24F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nGrappler, Mid-range, Reactive\nTeam role\nPoint, Support\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/4/45/BBTag_Kanji_Portrait.png/300px-BBTag_Kanji_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -19150,8 +19174,9 @@
     {
         "Name": "Teddie",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Teddie_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 23F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nTrickster/Items\nTeam role\nSupport\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/d/d3/BBTag_Teddie_Portrait.png/300px-BBTag_Teddie_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -20174,8 +20199,9 @@
     {
         "Name": "Naoto Shirogane",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_NaotoShirogane_Portrait.png",
-        "Attributes": "\n\nHealth: 16,000\nPrejump: 4F\nBackdash Time 23F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nHybrid Mixup/Zoner\nTeam role\nPoint, Support\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/6/6a/BBTag_NaotoShirogane_Portrait.png/300px-BBTag_NaotoShirogane_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -21082,8 +21108,9 @@
     {
         "Name": "Mitsuru Kirijo",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Mitsuru_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 23F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nMid-range, Neutral-focused, Defensive\nTeam role\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/5/52/BBTag_Mitsuru_Portrait.png/300px-BBTag_Mitsuru_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -21733,8 +21760,9 @@
     {
         "Name": "Akihiko Sanada",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Akihiko_Portrait.png",
-        "Attributes": "\n\nHealth: 18,000\nPrejump: 4F\nBackdash Time 23F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run, Ducking\nPlaystyle\nAggressive, Short-range, Avalanche\nTeam role\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/9/97/BBTag_Akihiko_Portrait.png/300px-BBTag_Akihiko_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -22521,8 +22549,9 @@
     {
         "Name": "Aegis",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Aegis_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 29F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run, Flight (Orgia Boost)\nPlaystyle\nAggressive, Explosive\nTeam role\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/1/11/BBTag_Aegis_Portrait.png/300px-BBTag_Aegis_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -23309,8 +23338,9 @@
     {
         "Name": "Elizabeth",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Elizabeth_Portrait.png",
-        "Attributes": "\n\nHealth: 16,000\nPrejump: 4F\nBackdash Time 29F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nMid-range, Aggressive\nTeam role\n\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/6/60/BBTag_Elizabeth_Portrait.png/300px-BBTag_Elizabeth_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -24107,8 +24137,9 @@
     {
         "Name": "Labrys",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Labrys_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 23F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nAggressive, Mid-range, Big D*ck Damage\nTeam role\nPoint, Support\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/8/87/BBTag_Labrys_Portrait.png/300px-BBTag_Labrys_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -24886,8 +24917,9 @@
     {
         "Name": "Tohru Adachi",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Adachi_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 23F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nRushdown,Trickster \n\nTeam role\n\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e4/BBTag_Adachi_Portrait.png/300px-BBTag_Adachi_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -25624,8 +25656,9 @@
     {
         "Name": "Hyde",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Hyde_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 22F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nBalanced, Aggressive, Mid-range\nTeam role\nPoint, Support\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/c/cb/BBTag_Hyde_Portrait.png/243px-BBTag_Hyde_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -26362,8 +26395,9 @@
     {
         "Name": "Linne",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Linne_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 22F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nSpeedy, Neutral-focused\nTeam role\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/a/a9/BBTag_Linne_Portrait.png/300px-BBTag_Linne_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -27128,8 +27162,9 @@
     {
         "Name": "Waldstein",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Waldstein_Portrait.png",
-        "Attributes": "\n\nHealth: 20,000\nPrejump: 6F\nBackdash Time 29F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash\nPlaystyle\nMid-range, Grappler, Neutral-focused\nTeam role\nSupport, Anchor\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/d/d6/BBTag_Waldstein_Portrait.png/300px-BBTag_Waldstein_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -27783,8 +27818,9 @@
     {
         "Name": "Carmine",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Carmine_Portrait.png",
-        "Attributes": "\n\nHealth: 18,000\nPrejump: 4F\nBackdash Time 32F / Invul: 1-7F All\n*Animation lasts for 41F but can cancel into all actions on 33F\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nMid-range, Aggressive, Glass cannon\nTeam role\nPoint, Support\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/8/88/BBTag_Carmine_Portrait.png/284px-BBTag_Carmine_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -28449,8 +28485,9 @@
     {
         "Name": "Orie",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Orie_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 41F / Invul: 1-11F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nMid-range, Aggressive\nTeam role\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/0/05/BBTag_Orie_Portrait.png/300px-BBTag_Orie_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -29174,8 +29211,9 @@
     {
         "Name": "Gordeau",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Gordeau_Portrait.png",
-        "Attributes": "\n\nHealth: 18,000\nPrejump: 4F\nBackdash Time 22F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nLong-range, Aggressive, Mixup, Pressure\nTeam role\nAnchor, Support\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/a/aa/BBTag_Gordeau_Portrait.png/300px-BBTag_Gordeau_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -29775,8 +29813,9 @@
     {
         "Name": "Merkava",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Merkava_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 6F\nBackdash Time 37F / Invul: 1-7F All\n\n\nMovement Options\nGlide, Dash Type: Run\nPlaystyle\nTricky, Long range\nTeam role\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/3/3b/BBTag_Merkava_Portrait.png/300px-BBTag_Merkava_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -30513,8 +30552,9 @@
     {
         "Name": "Vatista",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Vatista_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 27F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nBalanced, Zoner\nTeam role\nPoint, Anchor\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/8/81/BBTag_Vatista_Portrait.png/300px-BBTag_Vatista_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -31236,8 +31276,9 @@
     {
         "Name": "Seth",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Seth_Portrait.png",
-        "Attributes": "\n\nHealth: 16,000\nPrejump: 4F\nBackdash Time 35F (Air)/ 41F (Ground) / Invul: 1-7 All\nTied for fastest movement speed\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nAggressive, Mixup, Speedy\nTeam role\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/9/91/BBTag_Seth_Portrait.png/300px-BBTag_Seth_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -31981,8 +32022,9 @@
     {
         "Name": "Yuzuriha",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Yuzuriha_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 22F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run, Teleport\nPlaystyle\nZoner, Space Control\nTeam role\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/4/4c/BBTag_Yuzuriha_Portrait.png/300px-BBTag_Yuzuriha_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -32838,8 +32880,9 @@
     {
         "Name": "Hilda",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Hilda_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 28F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nLong-range, Pressure\n\nTeam role\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/c/c3/BBTag_Hilda_Portrait.png/300px-BBTag_Hilda_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -33564,8 +33607,9 @@
     {
         "Name": "Mika",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Mika_Portrait.png",
-        "Attributes": "\n\nHealth: 18,000\nPrejump: 4F\nBackdash Time 22F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nAggressive, Short Range, Pressure, Grappler\nTeam role\nPoint, Support(Situational)\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/b/b1/BBTag_Mika_Portrait.png/300px-BBTag_Mika_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -34253,8 +34297,9 @@
     {
         "Name": "Ruby Rose",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Ruby_Portrait.png",
-        "Attributes": "\n\nHealth: 16,000\nPrejump: 4F\nBackdash Time 22F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nAggressive, Mid-range, Speedy\nTeam role\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/0/0c/BBTag_Ruby_Portrait.png/300px-BBTag_Ruby_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -34965,8 +35010,9 @@
     {
         "Name": "Weiss Schnee",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Weiss_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 23F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nMid-range flexible\nTeam role\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/2/25/BBTag_Weiss_Portrait.png/300px-BBTag_Weiss_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -35815,8 +35861,9 @@
     {
         "Name": "Blake Belladonna",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Blake_Portrait.png",
-        "Attributes": "\n\nHealth: 16,000\nPrejump: 4F\nBackdash Time 23F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nAggressive, Long-range\nTeam role\nSupport\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/6/64/BBTag_Blake_Portrait.png/300px-BBTag_Blake_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -36660,8 +36707,9 @@
     {
         "Name": "Yang Xiao Long",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Yang_Portrait.png",
-        "Attributes": "\nHealth: 18,000\nPrejump: 4F\nBackdash Time 24F / Invul: 1-8F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nAggressive, Short-range, Explosive\nTeam role\nAnchor/Point (team-dependent)\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/a/ab/BBTag_Yang_Portrait.png/300px-BBTag_Yang_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -37424,8 +37472,9 @@
     {
         "Name": "Neo Politan",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Neo_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 22F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nMid-range, Aggressive\nTeam role\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/d/db/BBTag_Neo_Portrait.png/263px-BBTag_Neo_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -38193,8 +38242,9 @@
     {
         "Name": "Heart Aino",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Heart_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 21F / Invul: 1-7 All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run, Homing Dash\nPlaystyle\nRushdown, pressure\nTeam role\nPoint\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/4/41/BBTag_Heart_Portrait.png/300px-BBTag_Heart_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -39071,8 +39121,9 @@
     {
         "Name": "Yumi",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Yumi_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 23F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nHybrid Zoner, Mix-Up, Aggressive\nTeam role\nPoint, Support\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/8/8b/BBTag_Yumi_Portrait.png/300px-BBTag_Yumi_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -39967,8 +40018,9 @@
     {
         "Name": "Akatsuki",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Akatsuki_Portrait.png",
-        "Attributes": "\n\nHealth: 17,000\nPrejump: 4F\nBackdash Time 22F / Invul: 1-7F All\n\n\nMovement Options\nDouble Jump, 1 Airdash, Dash Type: Run\nPlaystyle\nMid-range, Aggressive\nTeam role\nSupport\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/3/30/BBTag_Akatsuki_Portrait.png/300px-BBTag_Akatsuki_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "4A",
@@ -40746,8 +40798,9 @@
     {
         "Name": "Blitztank",
         "Game": "BBTAG",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBTag_Blitztank_Portrait.png",
-        "Attributes": "\n\nHealth: 20,000\nPrejump: 6F\nBackdash Time 23F / Invul: 7F\n\n\nMovement Options\n1 Jump, Dash Type: damaging step\nPlaystyle\nZoner\nTeam role\nAnchor, Support\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/3/31/BBTag_Blitztank_Portrait.png/300px-BBTag_Blitztank_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",

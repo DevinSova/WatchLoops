@@ -2,8 +2,9 @@
     {
         "Name": "Aigis",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U_Aigis_Portrait.png",
-        "Attributes": "\n\nHealth: 9,000\nCombo Rate: 65%\nPersona Cards: 4\nBackdash Time: 20\nBackdash Invincibility: 1-6 (Normal) / 1-7 (Orgia)\n\n\n\nPlay-style\nRushdown, Zoning Capabilities\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/2/2e/P4U_Aigis_Portrait.png/300px-P4U_Aigis_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -315,7 +316,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -336,7 +337,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -357,7 +358,7 @@
                 ]
             },
             {
-                "Name": "222C ",
+                "Name": "222C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -379,7 +380,7 @@
                 ]
             },
             {
-                "Name": "5D ",
+                "Name": "5D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -416,7 +417,7 @@
                 ]
             },
             {
-                "Name": "2D ",
+                "Name": "2D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -453,7 +454,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -474,7 +475,7 @@
                 ]
             },
             {
-                "Name": "j.2C ",
+                "Name": "j.2C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -495,7 +496,7 @@
                 ]
             },
             {
-                "Name": "j.D ",
+                "Name": "j.D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -532,7 +533,7 @@
                 ]
             },
             {
-                "Name": "j.2D ",
+                "Name": "j.2D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -959,7 +960,7 @@
                 ]
             },
             {
-                "Name": "Megido Fire ",
+                "Name": "Megido Fire",
                 "Comment": "236C/D in Orgia Mode (air OK)",
                 "Versions": [
                     {
@@ -1095,7 +1096,7 @@
                 ]
             },
             {
-                "Name": "Goddess Shield ",
+                "Name": "Goddess Shield",
                 "Comment": "236236C/D (air OK)",
                 "Versions": [
                     {
@@ -1231,7 +1232,7 @@
                 ]
             },
             {
-                "Name": "Heavenly Spear ",
+                "Name": "Heavenly Spear",
                 "Comment": "236236C/D",
                 "Versions": [
                     {
@@ -1301,7 +1302,7 @@
                 ]
             },
             {
-                "Name": "Heritage Liberator Palladion ",
+                "Name": "Heritage Liberator Palladion",
                 "Comment": "j.222C+D",
                 "Versions": [
                     {
@@ -1327,8 +1328,9 @@
     {
         "Name": "Akihiko Sanada",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U_Akihiko_Portrait.png",
-        "Attributes": "\n\nHealth: 10,000\nCombo Rate: 75%\nPersona Cards: 2\nBackdash Time: 23\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nOffensive Rushdown/Rekka\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/6/63/P4U_Akihiko_Portrait.png/300px-P4U_Akihiko_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -1586,7 +1588,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Comment": "CAAESSAAAAR",
                 "Versions": [
                     {
@@ -1608,7 +1610,7 @@
                 ]
             },
             {
-                "Name": "5D ",
+                "Name": "5D",
                 "Comment": "Gravity",
                 "Versions": [
                     {
@@ -1630,7 +1632,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Comment": "Shocking new move, isn't it? ...Wait, this doesn't Shock?",
                 "Versions": [
                     {
@@ -1652,7 +1654,7 @@
                 ]
             },
             {
-                "Name": "2D ",
+                "Name": "2D",
                 "Comment": "Get over here. But take your time.",
                 "Versions": [
                     {
@@ -1674,7 +1676,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Comment": "Chop",
                 "Versions": [
                     {
@@ -1696,7 +1698,7 @@
                 ]
             },
             {
-                "Name": "j.D ",
+                "Name": "j.D",
                 "Comment": "Oh. I'm in the open.",
                 "Versions": [
                     {
@@ -2234,7 +2236,7 @@
                 ]
             },
             {
-                "Name": "Thunder Fists ",
+                "Name": "Thunder Fists",
                 "Comment": "236236C/D",
                 "Versions": [
                     {
@@ -2283,7 +2285,7 @@
                 ]
             },
             {
-                "Name": "Maziodyne ",
+                "Name": "Maziodyne",
                 "Comment": "214214C/D",
                 "Versions": [
                     {
@@ -2332,7 +2334,7 @@
                 ]
             },
             {
-                "Name": "Earth Breaker ",
+                "Name": "Earth Breaker",
                 "Comment": "222C+D",
                 "Versions": [
                     {
@@ -2359,8 +2361,9 @@
     {
         "Name": "Chie Satonaka",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U_Chie_Portrait.png",
-        "Attributes": "\n\nHealth: 9,500\nCombo Rate: 60%\nPersona Cards: 3\nBackdash Time: 19\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nRushdown\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/5/5b/P4U_Chie_Portrait.png/242px-P4U_Chie_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -2647,7 +2650,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -2668,7 +2671,7 @@
                 ]
             },
             {
-                "Name": "5D ",
+                "Name": "5D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -2705,7 +2708,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -2727,7 +2730,7 @@
                 ]
             },
             {
-                "Name": "2D ",
+                "Name": "2D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -2764,7 +2767,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -2785,7 +2788,7 @@
                 ]
             },
             {
-                "Name": "j.5/4/2/8D ",
+                "Name": "j.5/4/2/8D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -3053,7 +3056,7 @@
                 ]
             },
             {
-                "Name": "Dragon Kick ",
+                "Name": "Dragon Kick",
                 "Comment": "236C/D (air OK)",
                 "Versions": [
                     {
@@ -3150,7 +3153,7 @@
                 ]
             },
             {
-                "Name": "Black Spot ",
+                "Name": "Black Spot",
                 "Comment": "214C/D",
                 "Versions": [
                     {
@@ -3247,7 +3250,7 @@
                 ]
             },
             {
-                "Name": "God's Hand ",
+                "Name": "God's Hand",
                 "Comment": "236236C/D",
                 "Versions": [
                     {
@@ -3296,7 +3299,7 @@
                 ]
             },
             {
-                "Name": "Agneyastra ",
+                "Name": "Agneyastra",
                 "Comment": "214214C/D (air OK)",
                 "Versions": [
                     {
@@ -3345,7 +3348,7 @@
                 ]
             },
             {
-                "Name": "Galactic Punt ",
+                "Name": "Galactic Punt",
                 "Comment": "222C+D",
                 "Versions": [
                     {
@@ -3373,8 +3376,9 @@
     {
         "Name": "Elizabeth",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U_Elizabeth_Portrait.png",
-        "Attributes": "\n\nHealth: 8,000\nCombo Rate: 65%\nPersona Cards: 6\nBackdash Time: 29\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nZoning/Punish Character\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/5/5f/P4U_Elizabeth_Portrait.png/291px-P4U_Elizabeth_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -3625,7 +3629,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -3646,7 +3650,7 @@
                 ]
             },
             {
-                "Name": "5D ",
+                "Name": "5D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -3667,7 +3671,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Comment": "hold button to charge",
                 "Versions": [
                     {
@@ -3705,7 +3709,7 @@
                 ]
             },
             {
-                "Name": "2D ",
+                "Name": "2D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -3726,7 +3730,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -3747,7 +3751,7 @@
                 ]
             },
             {
-                "Name": "j.D ",
+                "Name": "j.D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -3883,7 +3887,7 @@
                 ]
             },
             {
-                "Name": "Maziodyne ",
+                "Name": "Maziodyne",
                 "Comment": "236A/B (air OK)",
                 "Versions": [
                     {
@@ -4049,7 +4053,7 @@
                 ]
             },
             {
-                "Name": "Mabufudyne ",
+                "Name": "Mabufudyne",
                 "Comment": "214A/B",
                 "Versions": [
                     {
@@ -4137,7 +4141,7 @@
                 ]
             },
             {
-                "Name": "Magarudyne ",
+                "Name": "Magarudyne",
                 "Comment": "236C/D (air OK)",
                 "Versions": [
                     {
@@ -4303,7 +4307,7 @@
                 ]
             },
             {
-                "Name": "Maragidyne ",
+                "Name": "Maragidyne",
                 "Comment": "214C/D",
                 "Versions": [
                     {
@@ -4501,7 +4505,7 @@
                 ]
             },
             {
-                "Name": "Mahamaon ",
+                "Name": "Mahamaon",
                 "Comment": "236236C",
                 "Versions": [
                     {
@@ -4523,7 +4527,7 @@
                 ]
             },
             {
-                "Name": "Mamudoon ",
+                "Name": "Mamudoon",
                 "Comment": "236236D",
                 "Versions": [
                     {
@@ -4561,7 +4565,7 @@
                 ]
             },
             {
-                "Name": "Diarahan ",
+                "Name": "Diarahan",
                 "Comment": "214214A/B",
                 "Versions": [
                     {
@@ -4610,7 +4614,7 @@
                 ]
             },
             {
-                "Name": "Ghastly Wail ",
+                "Name": "Ghastly Wail",
                 "Comment": "214214C/D",
                 "Versions": [
                     {
@@ -4659,7 +4663,7 @@
                 ]
             },
             {
-                "Name": "Megidolaon ",
+                "Name": "Megidolaon",
                 "Comment": "222C+D",
                 "Versions": [
                     {
@@ -4701,8 +4705,9 @@
     {
         "Name": "Junpei Iori",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U2_Junpei_Portrait.png",
-        "Attributes": "\n\nHealth: 9,500\nCombo Rate: 70%\nPersona Cards: 4\nBackdash Time: 23\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nRushdown\\Power Up\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/6/61/P4U2_Junpei_Portrait.png/300px-P4U2_Junpei_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -4928,7 +4933,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Comment": "Fire! Combo tool and mid range poke.",
                 "Versions": [
                     {
@@ -4950,7 +4955,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Comment": "Great for Victory Cry combos.",
                 "Versions": [
                     {
@@ -4972,7 +4977,7 @@
                 ]
             },
             {
-                "Name": "5D ",
+                "Name": "5D",
                 "Comment": "Okizeme tool.",
                 "Versions": [
                     {
@@ -4994,7 +4999,7 @@
                 ]
             },
             {
-                "Name": "2D ",
+                "Name": "2D",
                 "Comment": "Controls space in the air.",
                 "Versions": [
                     {
@@ -5016,7 +5021,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Comment": "Combo tool and air-to-air poke.",
                 "Versions": [
                     {
@@ -5038,7 +5043,7 @@
                 ]
             },
             {
-                "Name": "j.D ",
+                "Name": "j.D",
                 "Comment": "Same as 5D, sends Persona downwards.",
                 "Versions": [
                     {
@@ -5060,7 +5065,7 @@
                 ]
             },
             {
-                "Name": "j.2D ",
+                "Name": "j.2D",
                 "Comment": "Same as 2D, sends Persona upwards.",
                 "Versions": [
                     {
@@ -5310,7 +5315,7 @@
                 ]
             },
             {
-                "Name": "Deathbound ",
+                "Name": "Deathbound",
                 "Comment": "214C/D air OK",
                 "Versions": [
                     {
@@ -5396,7 +5401,7 @@
                 ]
             },
             {
-                "Name": "Comeback Grand Slam ",
+                "Name": "Comeback Grand Slam",
                 "Comment": "236236C/D Follow with A~D",
                 "Versions": [
                     {
@@ -5466,7 +5471,7 @@
                 ]
             },
             {
-                "Name": "Super Vorpal Bat ",
+                "Name": "Super Vorpal Bat",
                 "Comment": "214214C/D Follow with A~D",
                 "Versions": [
                     {
@@ -5515,7 +5520,7 @@
                 ]
             },
             {
-                "Name": "Explosive Level-Up Grand Slam ",
+                "Name": "Explosive Level-Up Grand Slam",
                 "Comment": "222C+D",
                 "Versions": [
                     {
@@ -5541,8 +5546,9 @@
     {
         "Name": "Kanji Tatsumi",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U_Kanji_Portrait.png",
-        "Attributes": "\n\nHealth: 10,500\nCombo Rate: 60%\nPersona Cards: 3\nBackdash Time: 26\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nGrappler\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/c/c5/P4U_Kanji_Portrait.png/300px-P4U_Kanji_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -5810,7 +5816,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -5834,7 +5840,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -5855,7 +5861,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -5876,7 +5882,7 @@
                 ]
             },
             {
-                "Name": "5D, 2D, j.D ",
+                "Name": "5D, 2D, j.D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -5939,7 +5945,7 @@
                 ]
             },
             {
-                "Name": "What A Pain! ",
+                "Name": "What A Pain!",
                 "Comment": "B+D",
                 "Versions": [
                     {
@@ -6104,7 +6110,7 @@
                 ]
             },
             {
-                "Name": "This'll Hurt! ",
+                "Name": "This'll Hurt!",
                 "Comment": "214C/D",
                 "Versions": [
                     {
@@ -6158,7 +6164,7 @@
                 ]
             },
             {
-                "Name": "Gotcha! ",
+                "Name": "Gotcha!",
                 "Comment": "236C/D",
                 "Versions": [
                     {
@@ -6341,7 +6347,7 @@
                 ]
             },
             {
-                "Name": "Burn To A Crisp! ",
+                "Name": "Burn To A Crisp!",
                 "Comment": "214214C/D",
                 "Versions": [
                     {
@@ -6395,7 +6401,7 @@
                 ]
             },
             {
-                "Name": "The Man Series: Brofist ",
+                "Name": "The Man Series: Brofist",
                 "Comment": "222C+D",
                 "Versions": [
                     {
@@ -6422,8 +6428,9 @@
     {
         "Name": "Ken Amada",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U2_Ken_Portrait.png",
-        "Attributes": "\n\nHealth: 8,500\nCombo Rate: 60%\nPersona Cards: 2\nBackdash Time:\u00a0??\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nPuppet Character\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/5/5f/P4U2_Ken_Portrait.png/300px-P4U2_Ken_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -6889,7 +6896,7 @@
                 ]
             },
             {
-                "Name": "Gigantic Impact ",
+                "Name": "Gigantic Impact",
                 "Comment": "A/B after Charge Thrust",
                 "Versions": [
                     {
@@ -6938,7 +6945,7 @@
                 ]
             },
             {
-                "Name": "Mediarama ",
+                "Name": "Mediarama",
                 "Comment": "214A/B",
                 "Versions": [
                     {
@@ -7083,7 +7090,7 @@
                 ]
             },
             {
-                "Name": "Thunder Reign ",
+                "Name": "Thunder Reign",
                 "Comment": "236236A/B",
                 "Versions": [
                     {
@@ -7132,7 +7139,7 @@
                 ]
             },
             {
-                "Name": "Fire Breath ",
+                "Name": "Fire Breath",
                 "Comment": "236236C/D air OK",
                 "Versions": [
                     {
@@ -7230,7 +7237,7 @@
                 ]
             },
             {
-                "Name": "Baptism of Light and Darkness ",
+                "Name": "Baptism of Light and Darkness",
                 "Comment": "222C+D",
                 "Versions": [
                     {
@@ -7257,8 +7264,9 @@
     {
         "Name": "Labrys",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U_Labrys_Portrait.png",
-        "Attributes": "\n\nHealth: 9,500\nCombo Rate: 60%\nPersona Cards: 3\nBackdash Time: 21\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nOffensive Rushdown/Momentum/Power-Up\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/0/0b/P4U_Labrys_Portrait.png/300px-P4U_Labrys_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -7599,7 +7607,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -7620,7 +7628,7 @@
                 ]
             },
             {
-                "Name": "5D ",
+                "Name": "5D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -7657,7 +7665,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -7678,7 +7686,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -7699,7 +7707,7 @@
                 ]
             },
             {
-                "Name": "j.D ",
+                "Name": "j.D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -8003,7 +8011,7 @@
                 ]
             },
             {
-                "Name": "Weaver's Art: Sword ",
+                "Name": "Weaver's Art: Sword",
                 "Comment": "22A/B/C/D",
                 "Versions": [
                     {
@@ -8025,7 +8033,7 @@
                 ]
             },
             {
-                "Name": "Weaver's Art: Orb ",
+                "Name": "Weaver's Art: Orb",
                 "Comment": "236C/D",
                 "Versions": [
                     {
@@ -8074,7 +8082,7 @@
                 ]
             },
             {
-                "Name": "Weaver's Art: Beast ",
+                "Name": "Weaver's Art: Beast",
                 "Comment": "236236C/D",
                 "Versions": [
                     {
@@ -8123,7 +8131,7 @@
                 ]
             },
             {
-                "Name": "Weaver's Art: Breaking Wheel ",
+                "Name": "Weaver's Art: Breaking Wheel",
                 "Comment": "214214C/D",
                 "Versions": [
                     {
@@ -8210,7 +8218,7 @@
                 ]
             },
             {
-                "Name": "Weaver's Art: Inquisition ",
+                "Name": "Weaver's Art: Inquisition",
                 "Comment": "222C+D",
                 "Versions": [
                     {
@@ -8237,8 +8245,9 @@
     {
         "Name": "Margaret",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U2_Margaret_Portrait.png",
-        "Attributes": "\n\nHealth: 9500\nCombo Rate: 60%\nPersona Cards: 8\nBackdash Time:\u00a0??\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nMixed\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/b/b5/P4U2_Margaret_Portrait.png/283px-P4U2_Margaret_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -8476,7 +8485,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -8497,7 +8506,7 @@
                 ]
             },
             {
-                "Name": "5D ",
+                "Name": "5D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -8518,7 +8527,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -8539,7 +8548,7 @@
                 ]
             },
             {
-                "Name": "2D ",
+                "Name": "2D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -8560,7 +8569,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -8581,7 +8590,7 @@
                 ]
             },
             {
-                "Name": "j.D ",
+                "Name": "j.D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -8602,7 +8611,7 @@
                 ]
             },
             {
-                "Name": "j.2C ",
+                "Name": "j.2C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -8623,8 +8632,8 @@
                 ]
             },
             {
-                "Name": "j.22C ",
-                "Comment": "Can control how far it moves by holding ",
+                "Name": "j.22C",
+                "Comment": "Can control how far it moves by holding",
                 "Versions": [
                     {
                         "Attributes": {
@@ -8646,7 +8655,7 @@
                 ]
             },
             {
-                "Name": "j.2D ",
+                "Name": "j.2D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -8667,7 +8676,7 @@
                 ]
             },
             {
-                "Name": "j.22D ",
+                "Name": "j.22D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -8821,7 +8830,7 @@
                 ]
             },
             {
-                "Name": "Gale Slash ",
+                "Name": "Gale Slash",
                 "Comment": "214A/B (air OK)",
                 "Versions": [
                     {
@@ -8959,7 +8968,7 @@
                 ]
             },
             {
-                "Name": "Power Slash ",
+                "Name": "Power Slash",
                 "Comment": "236236A/B",
                 "Versions": [
                     {
@@ -9008,7 +9017,7 @@
                 ]
             },
             {
-                "Name": "Panta Rhei ",
+                "Name": "Panta Rhei",
                 "Comment": "236236C/D (Air OK)",
                 "Versions": [
                     {
@@ -9057,7 +9066,7 @@
                 ]
             },
             {
-                "Name": "Hassou Tobi ",
+                "Name": "Hassou Tobi",
                 "Comment": "214214A/B",
                 "Versions": [
                     {
@@ -9106,7 +9115,7 @@
                 ]
             },
             {
-                "Name": "Mediarahan ",
+                "Name": "Mediarahan",
                 "Comment": "214214C/D",
                 "Versions": [
                     {
@@ -9181,8 +9190,9 @@
     {
         "Name": "Marie",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U2_Marie_Portrait.png",
-        "Attributes": "\n\nHealth: 9000\nCombo Rate: 60%\nPersona Cards: 5\nBackdash Time:\u00a0??\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nSetplay\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/5/52/P4U2_Marie_Portrait.png/281px-P4U2_Marie_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -9417,7 +9427,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -9438,7 +9448,7 @@
                 ]
             },
             {
-                "Name": "5D ",
+                "Name": "5D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -9459,7 +9469,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -9480,7 +9490,7 @@
                 ]
             },
             {
-                "Name": "2D ",
+                "Name": "2D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -9501,7 +9511,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -9522,7 +9532,7 @@
                 ]
             },
             {
-                "Name": "j.D ",
+                "Name": "j.D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -9585,7 +9595,7 @@
                 ]
             },
             {
-                "Name": "Hot Lightning ",
+                "Name": "Hot Lightning",
                 "Comment": "B+D (air OK)",
                 "Versions": [
                     {
@@ -9765,7 +9775,7 @@
                 ]
             },
             {
-                "Name": "Stigma of Condemnation ",
+                "Name": "Stigma of Condemnation",
                 "Comment": "236C/D",
                 "Versions": [
                     {
@@ -9924,7 +9934,7 @@
                 ]
             },
             {
-                "Name": "ShutupIhateyouyoustupidjerk ",
+                "Name": "ShutupIhateyouyoustupidjerk",
                 "Comment": "236236C/D",
                 "Versions": [
                     {
@@ -9973,7 +9983,7 @@
                 ]
             },
             {
-                "Name": "Shining Arrows ",
+                "Name": "Shining Arrows",
                 "Comment": "214214C/D (air OK)",
                 "Versions": [
                     {
@@ -10022,7 +10032,7 @@
                 ]
             },
             {
-                "Name": "Musubi no Ikazuchi ",
+                "Name": "Musubi no Ikazuchi",
                 "Comment": "222C+D",
                 "Versions": [
                     {
@@ -10048,8 +10058,9 @@
     {
         "Name": "Sho MINAZUKI",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U2_P-Sho_Portrait.png",
-        "Attributes": "\n\nHealth: 9,000\nCombo Rate: 70%\nPersona Cards: 4\nBackdash Time: Placeholder\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run Teleports\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nRushdown/Balanced\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/7/74/P4U2_P-Sho_Portrait.png/300px-P4U2_P-Sho_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -10253,7 +10264,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Comment": "Has a small range",
                 "Versions": [
                     {
@@ -10275,7 +10286,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Comment": "Tsukiyomi appears behind the opponent",
                 "Versions": [
                     {
@@ -10297,7 +10308,7 @@
                 ]
             },
             {
-                "Name": "5D ",
+                "Name": "5D",
                 "Comment": "Its range can be extended by holding D",
                 "Versions": [
                     {
@@ -10319,7 +10330,7 @@
                 ]
             },
             {
-                "Name": "2D ",
+                "Name": "2D",
                 "Comment": "Tsukiyomi appears far from SHO",
                 "Versions": [
                     {
@@ -10341,7 +10352,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Comment": "Tsukiyomi launches the opponent downwards",
                 "Versions": [
                     {
@@ -10363,7 +10374,7 @@
                 ]
             },
             {
-                "Name": "j.D ",
+                "Name": "j.D",
                 "Comment": "Same as 5D",
                 "Versions": [
                     {
@@ -10385,7 +10396,7 @@
                 ]
             },
             {
-                "Name": "j.2D ",
+                "Name": "j.2D",
                 "Comment": "Same as 2D",
                 "Versions": [
                     {
@@ -10614,7 +10625,7 @@
                 ]
             },
             {
-                "Name": "Tsukiyomi ",
+                "Name": "Tsukiyomi",
                 "Comment": "236C/D (air OK)",
                 "Versions": [
                     {
@@ -10652,7 +10663,7 @@
                 ]
             },
             {
-                "Name": "Drain  ",
+                "Name": "Drain",
                 "Comment": "214C/D",
                 "Versions": [
                     {
@@ -10701,7 +10712,7 @@
                 ]
             },
             {
-                "Name": "Wings of Purgatory ",
+                "Name": "Wings of Purgatory",
                 "Comment": "236236C/D (air OK)",
                 "Versions": [
                     {
@@ -10798,7 +10809,7 @@
                 ]
             },
             {
-                "Name": "Dream Fog ",
+                "Name": "Dream Fog",
                 "Comment": "214214C/D",
                 "Versions": [
                     {
@@ -10872,8 +10883,9 @@
     {
         "Name": "Mitsuru Kirijo",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U_Mitsuru_Portrait.png",
-        "Attributes": "\n\nHealth: 9,500\nCombo Rate: 70%\nPersona Cards: 4\nBackdash Time: 23\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nWell-rounded, Charge, Footsies\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/5/54/P4U_Mitsuru_Portrait.png/300px-P4U_Mitsuru_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -11233,7 +11245,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -11254,7 +11266,7 @@
                 ]
             },
             {
-                "Name": "5D ",
+                "Name": "5D",
                 "Comment": "Has a dead zone right in front of Mitsuru",
                 "Versions": [
                     {
@@ -11292,7 +11304,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Comment": "Marin Karin!",
                 "Versions": [
                     {
@@ -11314,7 +11326,7 @@
                 ]
             },
             {
-                "Name": "2D ",
+                "Name": "2D",
                 "Comment": "Get over here!",
                 "Versions": [
                     {
@@ -11352,7 +11364,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -11373,7 +11385,7 @@
                 ]
             },
             {
-                "Name": "j.D ",
+                "Name": "j.D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -11610,7 +11622,7 @@
                 ]
             },
             {
-                "Name": "Bufula ",
+                "Name": "Bufula",
                 "Comment": "[2]8C/D",
                 "Versions": [
                     {
@@ -11659,7 +11671,7 @@
                 ]
             },
             {
-                "Name": "Tentarafoo ",
+                "Name": "Tentarafoo",
                 "Comment": "[4]6C/D",
                 "Versions": [
                     {
@@ -11784,7 +11796,7 @@
                 ]
             },
             {
-                "Name": "Bufudyne ",
+                "Name": "Bufudyne",
                 "Comment": "236236C/D",
                 "Versions": [
                     {
@@ -11833,7 +11845,7 @@
                 ]
             },
             {
-                "Name": "Mabufudyne ",
+                "Name": "Mabufudyne",
                 "Comment": "214214C/D then C/D",
                 "Versions": [
                     {
@@ -11870,7 +11882,7 @@
                 ]
             },
             {
-                "Name": "Niflheim ",
+                "Name": "Niflheim",
                 "Comment": "222C+D",
                 "Versions": [
                     {
@@ -11897,8 +11909,9 @@
     {
         "Name": "Naoto Shirogane",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U_Naoto_Portrait.png",
-        "Attributes": "\n\nHealth: 8,500\nCombo Rate: 60%\nPersona Cards: 4\nBackdash Time: 23\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nMixture between Zoning/Keepaway and Rushdown\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e9/P4U_Naoto_Portrait.png/242px-P4U_Naoto_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -12151,7 +12164,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -12172,7 +12185,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -12193,7 +12206,7 @@
                 ]
             },
             {
-                "Name": "2[C] ",
+                "Name": "2[C]",
                 "Versions": [
                     {
                         "Attributes": {
@@ -12214,7 +12227,7 @@
                 ]
             },
             {
-                "Name": "5D ",
+                "Name": "5D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -12250,7 +12263,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -12272,7 +12285,7 @@
                 ]
             },
             {
-                "Name": "j.D ",
+                "Name": "j.D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -12349,7 +12362,7 @@
                 ]
             },
             {
-                "Name": "Shield of Justice ",
+                "Name": "Shield of Justice",
                 "Comment": "B+D",
                 "Versions": [
                     {
@@ -12716,7 +12729,7 @@
                 ]
             },
             {
-                "Name": "Hair-Trigger Megido ",
+                "Name": "Hair-Trigger Megido",
                 "Comment": "214C/D (air OK)",
                 "Versions": [
                     {
@@ -12765,7 +12778,7 @@
                 ]
             },
             {
-                "Name": "Blight ",
+                "Name": "Blight",
                 "Comment": "236C/D (air OK)",
                 "Versions": [
                     {
@@ -12863,7 +12876,7 @@
                 ]
             },
             {
-                "Name": "Hamaon ",
+                "Name": "Hamaon",
                 "Comment": "236236C",
                 "Versions": [
                     {
@@ -12901,7 +12914,7 @@
                 ]
             },
             {
-                "Name": "Mudoon ",
+                "Name": "Mudoon",
                 "Comment": "236236D",
                 "Versions": [
                     {
@@ -13019,7 +13032,7 @@
                 ]
             },
             {
-                "Name": "Judge of Hell ",
+                "Name": "Judge of Hell",
                 "Comment": "222C+D",
                 "Versions": [
                     {
@@ -13045,8 +13058,9 @@
     {
         "Name": "Rise Kujikawa",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U2_Rise_Portrait.png",
-        "Attributes": "\n\nHealth: 9,000\nCombo Rate: 70%\nPersona Cards: 4\nBackdash Time:\u00a0??\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nHybrid Mixup/Zoning\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/5/59/P4U2_Rise_Portrait.png/300px-P4U2_Rise_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -13264,7 +13278,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -13285,7 +13299,7 @@
                 ]
             },
             {
-                "Name": "5D ",
+                "Name": "5D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -13306,7 +13320,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -13327,7 +13341,7 @@
                 ]
             },
             {
-                "Name": "2D ",
+                "Name": "2D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -13348,7 +13362,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -13369,7 +13383,7 @@
                 ]
             },
             {
-                "Name": "j.D ",
+                "Name": "j.D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -13390,7 +13404,7 @@
                 ]
             },
             {
-                "Name": "j.2D ",
+                "Name": "j.2D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -13494,7 +13508,7 @@
                 ]
             },
             {
-                "Name": "ROCK YOU! ",
+                "Name": "ROCK YOU!",
                 "Comment": "236A/B",
                 "Versions": [
                     {
@@ -13591,7 +13605,7 @@
                 ]
             },
             {
-                "Name": "Platinum Disc ",
+                "Name": "Platinum Disc",
                 "Comment": "236C/D (Air OK)",
                 "Versions": [
                     {
@@ -13640,7 +13654,7 @@
                 ]
             },
             {
-                "Name": "Tetrakarn/Makarakarn ",
+                "Name": "Tetrakarn/Makarakarn",
                 "Comment": "214C/D",
                 "Versions": [
                     {
@@ -13694,7 +13708,7 @@
                 ]
             },
             {
-                "Name": "Arrow Rain ",
+                "Name": "Arrow Rain",
                 "Comment": "22A/B",
                 "Versions": [
                     {
@@ -13791,7 +13805,7 @@
                 ]
             },
             {
-                "Name": "Risette Field ",
+                "Name": "Risette Field",
                 "Comment": "236236C/D",
                 "Versions": [
                     {
@@ -13840,7 +13854,7 @@
                 ]
             },
             {
-                "Name": "Risette: Live on Stage ",
+                "Name": "Risette: Live on Stage",
                 "Comment": "214214C/D",
                 "Versions": [
                     {
@@ -13889,7 +13903,7 @@
                 ]
             },
             {
-                "Name": "True \u2665 Story ",
+                "Name": "True \u2665 Story",
                 "Comment": "222C+D",
                 "Versions": [
                     {
@@ -13915,8 +13929,9 @@
     {
         "Name": "Shadow Labrys",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U_Shadow_Labrys_Portrait.png",
-        "Attributes": "\n\nHealth: 8,000\nCombo Rate: 60%\nPersona Cards: 6\nBackdash Time: 23\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nQuasi-Puppet Character/Rushdown\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/c/c5/P4U_Shadow_Labrys_Portrait.png/300px-P4U_Shadow_Labrys_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -14148,7 +14163,7 @@
                 ]
             },
             {
-                "Name": "Knuckle Train ",
+                "Name": "Knuckle Train",
                 "Comment": "5C",
                 "Versions": [
                     {
@@ -14170,7 +14185,7 @@
                 ]
             },
             {
-                "Name": "Cliff of Creta ",
+                "Name": "Cliff of Creta",
                 "Comment": "5D/2D/j.D",
                 "Versions": [
                     {
@@ -14192,7 +14207,7 @@
                 ]
             },
             {
-                "Name": "Terra's Eruption ",
+                "Name": "Terra's Eruption",
                 "Comment": "8C",
                 "Versions": [
                     {
@@ -14214,7 +14229,7 @@
                 ]
             },
             {
-                "Name": "Hammer Uppercut ",
+                "Name": "Hammer Uppercut",
                 "Comment": "2C",
                 "Versions": [
                     {
@@ -14464,7 +14479,7 @@
                 ]
             },
             {
-                "Name": "Buffalo Hammer ",
+                "Name": "Buffalo Hammer",
                 "Comment": "214C/D",
                 "Versions": [
                     {
@@ -14526,7 +14541,7 @@
                 ]
             },
             {
-                "Name": "Flame of Hades ",
+                "Name": "Flame of Hades",
                 "Comment": "236C/D",
                 "Versions": [
                     {
@@ -14575,7 +14590,7 @@
                 ]
             },
             {
-                "Name": "Massive Slaughter ",
+                "Name": "Massive Slaughter",
                 "Comment": "[4]6C/D",
                 "Versions": [
                     {
@@ -14624,7 +14639,7 @@
                 ]
             },
             {
-                "Name": "Public Execution ",
+                "Name": "Public Execution",
                 "Comment": "[2]8C/D",
                 "Versions": [
                     {
@@ -14673,7 +14688,7 @@
                 ]
             },
             {
-                "Name": "Challenge Authority ",
+                "Name": "Challenge Authority",
                 "Comment": "236236C/D (air OK)",
                 "Versions": [
                     {
@@ -14771,7 +14786,7 @@
                 ]
             },
             {
-                "Name": "Titanomachia ",
+                "Name": "Titanomachia",
                 "Comment": "214214C/D air OK",
                 "Versions": [
                     {
@@ -14825,7 +14840,7 @@
                 ]
             },
             {
-                "Name": "Labyrinthos Gate ",
+                "Name": "Labyrinthos Gate",
                 "Comment": "222A+B",
                 "Versions": [
                     {
@@ -14866,8 +14881,9 @@
     {
         "Name": "SHO Minazuki",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U2_Sho_Portrait.png",
-        "Attributes": "\n\nHealth: 8,500\nCombo Rate: 65%\nPersona Cards: -\nBackdash Time: Placeholder\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run, Command Dash\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nRushdown\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/3/30/P4U2_Sho_Portrait.png/300px-P4U2_Sho_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -15632,8 +15648,9 @@
     {
         "Name": "Teddie",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U_Teddie_Portrait.png",
-        "Attributes": "\n\nHealth: 9,500\nCombo Rate: 65%\nPersona Cards: 5\nBackdash Time: 23\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run, Teddievision teleport\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nTrickster/Item usage\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/b/b8/P4U_Teddie_Portrait.png/300px-P4U_Teddie_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -15900,7 +15917,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -15921,7 +15938,7 @@
                 ]
             },
             {
-                "Name": "5D/2D ",
+                "Name": "5D/2D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -15942,7 +15959,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -15963,7 +15980,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -15984,7 +16001,7 @@
                 ]
             },
             {
-                "Name": "j.D/j.2D ",
+                "Name": "j.D/j.2D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -16580,7 +16597,7 @@
                 ]
             },
             {
-                "Name": "Teddievision ",
+                "Name": "Teddievision",
                 "Comment": "236C/D",
                 "Versions": [
                     {
@@ -16629,7 +16646,7 @@
                 ]
             },
             {
-                "Name": "Teddie Warp ",
+                "Name": "Teddie Warp",
                 "Comment": "236C/D with Teddievision out",
                 "Versions": [
                     {
@@ -16739,7 +16756,7 @@
                 ]
             },
             {
-                "Name": "Tomahawk ",
+                "Name": "Tomahawk",
                 "Comment": "236236C/D (air OK)",
                 "Versions": [
                     {
@@ -16828,7 +16845,7 @@
                 ]
             },
             {
-                "Name": "Mystery Teddie SP ",
+                "Name": "Mystery Teddie SP",
                 "Comment": "236236A/B (air OK)",
                 "Versions": [
                     {
@@ -16927,7 +16944,7 @@
                 ]
             },
             {
-                "Name": "Circus Bear ",
+                "Name": "Circus Bear",
                 "Comment": "214214C/D",
                 "Versions": [
                     {
@@ -16976,7 +16993,7 @@
                 ]
             },
             {
-                "Name": "Kamui Kablooey ",
+                "Name": "Kamui Kablooey",
                 "Comment": "222C+D",
                 "Versions": [
                     {
@@ -17003,8 +17020,9 @@
     {
         "Name": "Tohru Adachi",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U2_Adachi_Portrait.png",
-        "Attributes": "\n\nHealth: 9,500\nCombo Rate: 60%\nPersona Cards: 4\nBackdash Time:\u00a0??\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nRushdown, Trickster\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/8/81/P4U2_Adachi_Portrait.png/232px-P4U2_Adachi_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -17222,7 +17240,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Comment": "Stab...",
                 "Versions": [
                     {
@@ -17246,7 +17264,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Comment": "\"Let's get to work!\"",
                 "Versions": [
                     {
@@ -17269,7 +17287,7 @@
                 ]
             },
             {
-                "Name": "5D ",
+                "Name": "5D",
                 "Comment": "\"Goood Byeeeeeee!\"",
                 "Versions": [
                     {
@@ -17291,7 +17309,7 @@
                 ]
             },
             {
-                "Name": "2D ",
+                "Name": "2D",
                 "Comment": "\"Mangle them, Magatsu Izanagi!\"",
                 "Versions": [
                     {
@@ -17313,7 +17331,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Comment": "\"Live through this!\"",
                 "Versions": [
                     {
@@ -17335,7 +17353,7 @@
                 ]
             },
             {
-                "Name": "j.2C ",
+                "Name": "j.2C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -17357,7 +17375,7 @@
                 ]
             },
             {
-                "Name": "j.D ",
+                "Name": "j.D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -17378,7 +17396,7 @@
                 ]
             },
             {
-                "Name": "j.2D ",
+                "Name": "j.2D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -17484,7 +17502,7 @@
             },
             {
                 "Name": "Pain in the Ass!",
-                "Comment": "236A/B followed by A/B\n",
+                "Comment": "236A/B followed by A/B",
                 "Versions": [
                     {
                         "Attributes": {
@@ -17594,7 +17612,7 @@
                 ]
             },
             {
-                "Name": "Evil Smile ",
+                "Name": "Evil Smile",
                 "Comment": "236C/D",
                 "Versions": [
                     {
@@ -17643,7 +17661,7 @@
                 ]
             },
             {
-                "Name": "Megidola ",
+                "Name": "Megidola",
                 "Comment": "214C/D",
                 "Versions": [
                     {
@@ -17697,7 +17715,7 @@
                 ]
             },
             {
-                "Name": "Heat Riser ",
+                "Name": "Heat Riser",
                 "Comment": "236236A/B",
                 "Versions": [
                     {
@@ -17746,7 +17764,7 @@
                 ]
             },
             {
-                "Name": "Atom Smasher ",
+                "Name": "Atom Smasher",
                 "Comment": "236236C/D (air OK)",
                 "Versions": [
                     {
@@ -17795,7 +17813,7 @@
                 ]
             },
             {
-                "Name": "Magatsu Mandala ",
+                "Name": "Magatsu Mandala",
                 "Comment": "214214A/B",
                 "Versions": [
                     {
@@ -17844,7 +17862,7 @@
                 ]
             },
             {
-                "Name": "Ghastly Wail ",
+                "Name": "Ghastly Wail",
                 "Comment": "214214C/D",
                 "Versions": [
                     {
@@ -17963,7 +17981,7 @@
                 ]
             },
             {
-                "Name": "Yomi Drop ",
+                "Name": "Yomi Drop",
                 "Comment": "222C+D",
                 "Versions": [
                     {
@@ -17989,8 +18007,9 @@
     {
         "Name": "Yosuke Hanamura",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U_Yosuke_Portrait.png",
-        "Attributes": "\n\nHealth: 8,500\nCombo Rate: 70%\nPersona Cards: 3\nBackdash Time: 23\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nRushdown, Aerial Rekka, Vortex\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/eb/P4U_Yosuke_Portrait.png/300px-P4U_Yosuke_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -18367,7 +18386,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -18388,7 +18407,7 @@
                 ]
             },
             {
-                "Name": "5D/2D ",
+                "Name": "5D/2D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -18424,7 +18443,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -18445,7 +18464,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -18466,7 +18485,7 @@
                 ]
             },
             {
-                "Name": "j.D ",
+                "Name": "j.D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -18742,7 +18761,7 @@
                 ]
             },
             {
-                "Name": "Mirage Slash ",
+                "Name": "Mirage Slash",
                 "Comment": "j.2C/D",
                 "Versions": [
                     {
@@ -18791,7 +18810,7 @@
                 ]
             },
             {
-                "Name": "Tentarafoo ",
+                "Name": "Tentarafoo",
                 "Comment": "236C/D",
                 "Versions": [
                     {
@@ -18840,7 +18859,7 @@
                 ]
             },
             {
-                "Name": "Flying Flash Cut ",
+                "Name": "Flying Flash Cut",
                 "Comment": "j.236C/D or j.214C/D",
                 "Versions": [
                     {
@@ -18889,7 +18908,7 @@
                 ]
             },
             {
-                "Name": "Garudyne ",
+                "Name": "Garudyne",
                 "Comment": "236236C/D",
                 "Versions": [
                     {
@@ -18938,7 +18957,7 @@
                 ]
             },
             {
-                "Name": "Sukukaja ",
+                "Name": "Sukukaja",
                 "Comment": "214214C/D",
                 "Versions": [
                     {
@@ -18987,7 +19006,7 @@
                 ]
             },
             {
-                "Name": "Shippu - Nagareboshi ",
+                "Name": "Shippu - Nagareboshi",
                 "Comment": "214214C/D (during Sukukaja)",
                 "Versions": [
                     {
@@ -19041,7 +19060,7 @@
                 ]
             },
             {
-                "Name": "Brave Blade ",
+                "Name": "Brave Blade",
                 "Comment": "222C+D",
                 "Versions": [
                     {
@@ -19068,8 +19087,9 @@
     {
         "Name": "Yu Narukami",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U_Yu_Portrait.png",
-        "Attributes": "\n\nHealth: 9,500\nCombo Rate: 60%\nPersona Cards: 4\nBackdash Time: 23\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nWell Rounded\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/3/34/P4U_Yu_Portrait.png/300px-P4U_Yu_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -19377,7 +19397,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -19398,7 +19418,7 @@
                 ]
             },
             {
-                "Name": "5D ",
+                "Name": "5D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -19434,7 +19454,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -19455,7 +19475,7 @@
                 ]
             },
             {
-                "Name": "2D ",
+                "Name": "2D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -19476,7 +19496,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -19497,7 +19517,7 @@
                 ]
             },
             {
-                "Name": "j.D ",
+                "Name": "j.D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -19615,7 +19635,7 @@
                 ]
             },
             {
-                "Name": "Zio ",
+                "Name": "Zio",
                 "Comment": "236C/D (air OK)",
                 "Versions": [
                     {
@@ -19669,7 +19689,7 @@
                 ]
             },
             {
-                "Name": "Swift Strike ",
+                "Name": "Swift Strike",
                 "Comment": "214C/D",
                 "Versions": [
                     {
@@ -19867,7 +19887,7 @@
                 ]
             },
             {
-                "Name": "Ziodyne ",
+                "Name": "Ziodyne",
                 "Comment": "236236C/D (air OK)",
                 "Versions": [
                     {
@@ -20003,7 +20023,7 @@
                 ]
             },
             {
-                "Name": "Cross Slash ",
+                "Name": "Cross Slash",
                 "Comment": "214214C/D",
                 "Versions": [
                     {
@@ -20057,7 +20077,7 @@
                 ]
             },
             {
-                "Name": "Thunder God Dance ",
+                "Name": "Thunder God Dance",
                 "Comment": "214214A+B",
                 "Versions": [
                     {
@@ -20079,7 +20099,7 @@
                 ]
             },
             {
-                "Name": "Myriad Truths ",
+                "Name": "Myriad Truths",
                 "Comment": "222C+D",
                 "Versions": [
                     {
@@ -20106,8 +20126,9 @@
     {
         "Name": "Yukari Takeba",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U2_Yukari_Portrait.png",
-        "Attributes": "\n\nHealth: 8,500\nCombo Rate: 70%\nPersona Cards: 4\nBackdash Time: 23\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nZoning/Keep-Away\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/1/1c/P4U2_Yukari_Portrait.png/300px-P4U2_Yukari_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -20390,7 +20411,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -20411,7 +20432,7 @@
                 ]
             },
             {
-                "Name": "5D/2D ",
+                "Name": "5D/2D",
                 "Comment": "5D startup",
                 "Versions": [
                     {
@@ -20449,7 +20470,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -20470,7 +20491,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -20491,7 +20512,7 @@
                 ]
             },
             {
-                "Name": "j.D ",
+                "Name": "j.D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -20718,7 +20739,7 @@
                 ]
             },
             {
-                "Name": "Magaru ",
+                "Name": "Magaru",
                 "Comment": "214C/D (air OK)",
                 "Versions": [
                     {
@@ -20755,7 +20776,7 @@
                 ]
             },
             {
-                "Name": "Feather\u2606Flip ",
+                "Name": "Feather\u2606Flip",
                 "Comment": "236C/D (air OK)",
                 "Versions": [
                     {
@@ -20965,8 +20986,9 @@
     {
         "Name": "Yukiko Amagi",
         "Game": "P4AU",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:P4U_Yukiko_Portrait.png",
-        "Attributes": "\n\nHealth: 8,500\nCombo Rate: 70%\nPersona Cards: 5\nBackdash Time: 23\nBackdash Invincibility: 1-6\nMovement Options: 1 Double Jump/Airdash, Dash type: Run\n\nAll Jumps have 3F prejump, can not input any commands for the first 2 airborne frames, and have blocking disabled for the first 5 airborne frames\nAll air backdashes are invincible 1-5F\nPlay-style\nZoning/Keep-Away\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/4/42/P4U_Yukiko_Portrait.png/172px-P4U_Yukiko_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -21257,7 +21279,7 @@
                 ]
             },
             {
-                "Name": "5C ",
+                "Name": "5C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -21278,7 +21300,7 @@
                 ]
             },
             {
-                "Name": "5D, 4D, and 6D ",
+                "Name": "5D, 4D, and 6D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -21299,7 +21321,7 @@
                 ]
             },
             {
-                "Name": "2C ",
+                "Name": "2C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -21320,7 +21342,7 @@
                 ]
             },
             {
-                "Name": "2D, 1D, and 3D ",
+                "Name": "2D, 1D, and 3D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -21341,7 +21363,7 @@
                 ]
             },
             {
-                "Name": "j.C ",
+                "Name": "j.C",
                 "Versions": [
                     {
                         "Attributes": {
@@ -21362,7 +21384,7 @@
                 ]
             },
             {
-                "Name": "j.D, j.4D, and j.6D ",
+                "Name": "j.D, j.4D, and j.6D",
                 "Versions": [
                     {
                         "Attributes": {
@@ -21425,7 +21447,7 @@
                 ]
             },
             {
-                "Name": "Dia ",
+                "Name": "Dia",
                 "Comment": "B+D",
                 "Versions": [
                     {
@@ -21468,7 +21490,7 @@
                 ]
             },
             {
-                "Name": "Agi ",
+                "Name": "Agi",
                 "Comment": "236A/B (air OK)",
                 "Versions": [
                     {
@@ -21543,7 +21565,7 @@
                 ]
             },
             {
-                "Name": "Maragi ",
+                "Name": "Maragi",
                 "Comment": "236C/D, then C/D again",
                 "Versions": [
                     {
@@ -21592,7 +21614,7 @@
                 ]
             },
             {
-                "Name": "Flame Dance ",
+                "Name": "Flame Dance",
                 "Comment": "214A/B",
                 "Versions": [
                     {
@@ -21641,7 +21663,7 @@
                 ]
             },
             {
-                "Name": "Phoenix Flame Swirl ",
+                "Name": "Phoenix Flame Swirl",
                 "Comment": "214214A/B (air OK)",
                 "Versions": [
                     {
@@ -21729,7 +21751,7 @@
                 ]
             },
             {
-                "Name": "Fire Boost ",
+                "Name": "Fire Boost",
                 "Comment": "214C",
                 "Versions": [
                     {
@@ -21751,7 +21773,7 @@
                 ]
             },
             {
-                "Name": "Fire Amp ",
+                "Name": "Fire Amp",
                 "Comment": "214C+D",
                 "Versions": [
                     {
@@ -21773,7 +21795,7 @@
                 ]
             },
             {
-                "Name": "Fire Break ",
+                "Name": "Fire Break",
                 "Comment": "214D",
                 "Versions": [
                     {
@@ -21795,7 +21817,7 @@
                 ]
             },
             {
-                "Name": "Agidyne ",
+                "Name": "Agidyne",
                 "Comment": "236236C/D, hold possible",
                 "Versions": [
                     {
@@ -21922,7 +21944,7 @@
                 ]
             },
             {
-                "Name": "Maragidyne ",
+                "Name": "Maragidyne",
                 "Comment": "214214C/D, hold possible",
                 "Versions": [
                     {
@@ -21960,7 +21982,7 @@
                 ]
             },
             {
-                "Name": "Full Bloom ",
+                "Name": "Full Bloom",
                 "Comment": "222C+D",
                 "Versions": [
                     {

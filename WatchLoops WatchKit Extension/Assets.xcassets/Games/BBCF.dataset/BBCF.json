@@ -2,8 +2,9 @@
     {
         "Name": "Amane Nishiki",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Amane_Portrait.png",
-        "Attributes": "\nHealth: 10,500\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 28 / Invul: 1-7\nMovement Options\n\nDouble Jump, 1 Air Dash, Dash type: Run, Command Hops\nPlay-style\nBalanced, Zoning, Chip Damage\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/2/23/BBCF_Amane_Portrait.png/300px-BBCF_Amane_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -1168,8 +1169,9 @@
     {
         "Name": "Arakune",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Arakune_Portrait.png",
-        "Attributes": "\nHealth: 10,500\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 32 / Invul: 1-24\nForward Dash Time 40 / Invul: 7-26Movement Options\n\nDouble Jump, 2 Air Dash, Dash type: Teleport Step\nPlay-style\nMode switch, Misdirection, Unorthodox\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/3/3b/BBCF_Arakune_Portrait.png/281px-BBCF_Arakune_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -2288,8 +2290,9 @@
     {
         "Name": "Azrael",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Azrael_Portrait.png",
-        "Attributes": "\nHealth: 12,000\nCombo Rate: 60%\nPrejump: 5\nBackdash Time 28 / Invul: 1-20\nForward Dash Time 20 / Invul: 7-10Movement Options\n\nDouble Jump, 1 Air Dash, Dash type: Teleport Step\nPlay-style\nLow mobility, very strong mixup\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/7/7d/BBCF_Azrael_Portrait.png/300px-BBCF_Azrael_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -3273,8 +3276,9 @@
     {
         "Name": "Bang Shishigami",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Bang_Portrait.png",
-        "Attributes": "\nHealth: 11,500\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 36 / Invul: 1-9\nMovement Options\n\nDouble Jump, 2 Air Dash, Dash type: Run\nPlay-style\nHigh mobility, Heavy Rushdown, Strong pressure\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/d/d4/BBCF_Bang_Portrait.png/300px-BBCF_Bang_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -4275,8 +4279,9 @@
     {
         "Name": "Bullet",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Bullet_Portrait.png",
-        "Attributes": "\n\nHealth: 11,500\nCombo Rate: 60%\nPrejump: 5\nBackdash Time 25 / Invul: 1-7\nForward Dash Time 20 / Invul: NoneMovement Options\n\nLock-On, Double Jump, 1 Airdash, Dash type: Step\nPlay-style\nRushdown/Grappler Hybrid, Situational (dependent on Heat Up level)\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/8/89/BBCF_Bullet_Portrait.png/300px-BBCF_Bullet_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -5369,8 +5374,9 @@
     {
         "Name": "Carl Clover",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Carl_Portrait.png",
-        "Attributes": "\nHealth: 10,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 20 / Invul: 1-7\nForward Dash Time 23 / Invul: NoneMovement Options\n\nDouble Jump, Air Dash, Dash type: Step\nPlay-style\nTandem Attack\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/a/a7/BBCF_Carl_Portrait.png/300px-BBCF_Carl_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -6330,8 +6336,9 @@
     {
         "Name": "Celica A. Mercury",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Celica_Portrait.png",
-        "Attributes": "\nHealth: 10,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 25 / Invul: 1-5\nMovement Options\n\nDouble Jump, 1 Air Dash, Dash type: Run\nPlay-style\nBalanced/Offensive\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/1/1e/BBCF_Celica_Portrait.png/300px-BBCF_Celica_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -7149,8 +7156,9 @@
     {
         "Name": "Es",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=BBCF/Defense#Types_of_Blocking",
-        "Attributes": "\n300\n\nAll\n\n6\n\n3\n\n10\n\n-1\n\nB\n\n-\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/a/a1/BBCF_Es_Icon.png/24px-BBCF_Es_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/c/c1/BBCF_Es_Portrait.png/450px-BBCF_Es_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -8191,8 +8199,9 @@
     {
         "Name": "Hakumen",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Hakumen_Portrait.png",
-        "Attributes": "\nHealth: 12,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 21 / Invul: 1-21 Throw\nForward Dash Time 18 / Invul: NoneMovement Options\n\nDouble Jump, Air Dash, Dash type: Step\nPlay-style\nDefensive, Footsies, Punishing\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/5/52/BBCF_Hakumen_Portrait.png/300px-BBCF_Hakumen_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -9259,8 +9268,9 @@
     {
         "Name": "Hazama",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Hazama_Portrait.png",
-        "Attributes": "\nHealth: 11,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 21 / Invul: 1-7\nForward Dash Time 18 / Invul: Movement Options\n\nChain Movement, Double Jump, 1 Airdash, Dash type: Step\nPlay-style\nHigh Mobility, Zoning\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/f/f7/BBCF_Hazama_Portrait.png/278px-BBCF_Hazama_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -10480,8 +10490,9 @@
     {
         "Name": "Hibiki Kohaku",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCP_Hibiki_Portrait.png",
-        "Attributes": "\n\nHealth: 11,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 22 / Invul: 1-4\nMovement Options\n\nDouble Jump, 2 Air Dash, Dash type: Run\nPlay-style\nFootsies, Mix-Up, Misdirection\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/f/f8/BBCP_Hibiki_Portrait.png/300px-BBCP_Hibiki_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -11566,8 +11577,9 @@
     {
         "Name": "Izanami",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Izanami_Portrait.png",
-        "Attributes": "\n\nHealth: 11,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 22 / Invul: 1-7\nMovement Options\n\nLevitate, Air Dash, Dash type: Run\nPlay-style\nRushdown (Normal Mode), Versatile/Pressure  (Active Mode)\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/d/d5/BBCF_Izanami_Portrait.png/300px-BBCF_Izanami_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -12512,8 +12524,9 @@
     {
         "Name": "Izayoi",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Izayoi_Portrait.png",
-        "Attributes": "\nHealth: 11,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 21 / Invul: 1-5\nMovement Options\n\nDouble Jump, Air Dash (2 during Gain Arts), Dash type: Run (Hover Dash during Gain Arts)\nPlay-style\nMode Change, Balanced, Mixup/Pressure (Gain-Art)\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/9/96/BBCF_Izayoi_Portrait.png/262px-BBCF_Izayoi_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -13574,8 +13587,9 @@
     {
         "Name": "Jin Kisaragi",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Jin_Portrait.png",
-        "Attributes": "\n\nHealth: 11,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 22 / Invul: 1-5\nMovement Options\n\nDouble Jump, 1 Airdash, Dash type: Run\nPlay-style\nBalanced\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/5/50/BBCF_Jin_Portrait.png/300px-BBCF_Jin_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -14567,8 +14581,9 @@
     {
         "Name": "Jubei",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Jubei_Portrait.png",
-        "Attributes": "\n\nHealth: 11,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 28 / Invul: 1-7\nMovement Options\n\nDouble Jump, 1 Air Dash, Short Jump, Dash type: Run\nPlay-style\nHigh Mobility and aggression\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/c/c1/BBCF_Jubei_Portrait.png/300px-BBCF_Jubei_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -15850,8 +15865,9 @@
     {
         "Name": "Kagura Mutsuki",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Kagura_Portrait.png",
-        "Attributes": "\nHealth: 11,500\nCombo Rate: 60%\nPrejump: 5\nBackdash Time 25 / Invul: 1-7\nMovement Options\n\nDouble Jump, Air Dash, Dash type: Run\nPlay-style\nLong reaching, Slow and deliberate\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/5/5f/BBCF_Kagura_Portrait.png/300px-BBCF_Kagura_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -16788,8 +16804,9 @@
     {
         "Name": "Kokonoe",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Kokonoe_Portrait.png",
-        "Attributes": "\nHealth: 10,500\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 21 / Invul: 1-5\nMovement Options\n\nGravitrons, Double Jump, Air Dash, Dash type: Run\nPlay-style\nSpace Control, Traps, Versatile\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/1/10/BBCF_Kokonoe_Portrait.png/300px-BBCF_Kokonoe_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -17757,8 +17774,9 @@
     {
         "Name": "Litchi Faye Ling",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Litchi_Portrait.png",
-        "Attributes": "\nHealth: 11,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 30 / Invul: 1-5\nMovement Options\n\nDouble Jump, Air Dash, Dash type: Run\nAdditional Backdash\nTime 43 / Invul: 1-19\nPlay-style\nMode-switch - Footsies, Rushdown, Okizeme\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/0/07/BBCF_Litchi_Portrait.png/300px-BBCF_Litchi_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -19308,8 +19326,9 @@
     {
         "Name": "Makoto Nanaya",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Makoto_Portrait.png",
-        "Attributes": "\nHealth: 11,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 22 / Invul: 1-5\nMovement Options\n\nDouble Jump, Air Dash, Dash type: Run\nPlay-style\nOffensive, Rushdown\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/c/cc/BBCF_Makoto_Portrait.png/262px-BBCF_Makoto_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -21059,8 +21078,9 @@
     {
         "Name": "Mai Natsume",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Mai_Portrait.png",
-        "Attributes": "\nHealth: 11,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 25 / Invul: 1-7\nMovement Options\n\nDouble Jump, Air Dash, Dash type: Run\nPlay-style\nBalanced, Footsies\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/3/36/BBCF_Mai_Portrait.png/300px-BBCF_Mai_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -22132,8 +22152,9 @@
     {
         "Name": "Naoto Kurogane",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Naoto_Portrait.png",
-        "Attributes": "\n\nHealth: 11,500\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 25 / Invul: 1-4\nMovement Options\n\nDouble Jump, Air Dash, Dash type: Run\nPlay-style\nOffensive, Rushdown, Pressure\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/0/04/BBCF_Naoto_Portrait.png/300px-BBCF_Naoto_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -23102,8 +23123,9 @@
     {
         "Name": "Nine the Phantom",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Nine_Portrait.png",
-        "Attributes": "\n\nHealth: 10,500\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 40 / Invul: Projectile 1-4, All 5-32\nMovement Options\n\nDouble Jump, Air Dash, Dash type: 4 Way Teleport Step\nPlay-style\nKeep-away, Adaptive, Setplay\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/7/78/BBCF_Nine_Portrait.png/300px-BBCF_Nine_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -24298,8 +24320,9 @@
     {
         "Name": "Noel Vermillion",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Noel_Portrait.png",
-        "Attributes": "\nHealth: 11,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 22 / Invul: 1-5\nMovement Options\n\nDouble Jump, Air Dash, Dash type: Run\nPlay-style\n\nBalanced\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/2/2e/BBCF_Noel_Portrait.png/300px-BBCF_Noel_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -25407,8 +25430,9 @@
     {
         "Name": "Platinum the Trinity",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Platinum_Portrait.png",
-        "Attributes": "\nHealth: 11,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 22 / Invul: 1-7\nMovement Options\n\nDouble Jump, Air Dash, Dash type: Run\nPlay-style\nBalanced, Situational (Item dependent)\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/f/fe/BBCF_Platinum_Portrait.png/300px-BBCF_Platinum_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -26914,8 +26938,9 @@
     {
         "Name": "Rachel Alucard",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Rachel_Portrait.png",
-        "Attributes": "\nHealth: 11,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 23 / Invul: 1-7\nMovement Options\n\nWind, Double Jump, 1 Airdash, Dash type: Run\nPlay-style\nZoning, Trapping\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/7/7e/BBCF_Rachel_Portrait.png/300px-BBCF_Rachel_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -27873,8 +27898,9 @@
     {
         "Name": "Ragna the Bloodedge",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Ragna_Portrait.png",
-        "Attributes": "\n\nHealth: 10,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 22 / Invul: 1-5\nMovement Options\n\nDouble Jump, 1 Airdash, Dash type: Run\nPlay-style\nOffensive, Footsies\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/2/2f/BBCF_Ragna_Portrait.png/300px-BBCF_Ragna_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -28828,8 +28854,9 @@
     {
         "Name": "Relius Clover",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Relius_Portrait.png",
-        "Attributes": "\n\nHealth: 11,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 22 / Invul: 1-7\nMovement Options\n\nDouble Jump, Air Dash, Dash type: Run\nPlay-style\nFrame Traps, Footsies, Pressure\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/6/65/BBCF_Relius_Portrait.png/300px-BBCF_Relius_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -30003,8 +30030,9 @@
     {
         "Name": "Susano'o",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Susanoo_Portrait.png",
-        "Attributes": "\n\nHealth: 12,500\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 22 / Invul: 1-5\nMovement Options\n\nDouble Jump, 1 Air Dash, Dash type: Delayed Run\nPlaystyle\nRushdown, Snowball\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/1/1f/BBCF_Susanoo_Portrait.png/300px-BBCF_Susanoo_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -30715,7 +30743,7 @@
                         "Description": "Fourth Icon\nSusano'o performs a falling spindash that carries the opponent to the ground for a hard knockdown. Hits high.\nGrounded version has foot invulnerability while Susano'o is airborne. Air version hits multiple times.\nAt level 2, lands with an additional plume of energy that knocks the opponent into the air. This projectile spawns on the frame Susano'o lands and persists for 8 frames.\nA powerful move with many applications worth investing into for the aggressive Susano'o. It can be used at any level to confirm air-to-air hits into ground combos, to replace j.D as an air combo ender for more damage, and as an overhead in pressure.\nAt level 1, its bounce links into 5B always and 2C on most characters. At level 2, the projectile throws the opponent high enough that 2C can be used always and 3C can be used if hitstun hasn't decayed too much. The projectile also has a hugely disjointed hitbox which can be used to control space in neutral although it's somewhat risky to use. This also means that if the stomp part doesn't connect and only the projectile hits, Susano'o recovers faster allowing for better followups. The projectile portion is incredibly plus on block provided the stomp did not connect first. \nWhen used in midair, level 1 can be a decent way to tack on damage at the end of combos provided that you aren't too worried about unlocking a seal. At level 2, it can be used to convert aerial combos into grounded ones after specific strings.",
                         "ImageURLs": [
                             "https://www.dustloop.com/wiki/images/thumb/9/90/BBCF_Susanoo_HuntersFangIcon.png/28px-BBCF_Susanoo_HuntersFangIcon.png",
-                            "https://www.dustloop.com/wiki/images/thumb/e/ea/BBCF_Susanoo_HuntersFang.png/175px-BBCF_Susanoo_HuntersFang.png"
+                            "https://www.dustloop.com/wiki/images/thumb/e/ea/BBCF_Susanoo_HuntersFang.png/x175px-BBCF_Susanoo_HuntersFang.png.pagespeed.ic.0NXmVrC_vK.png"
                         ]
                     }
                 ]
@@ -30929,8 +30957,9 @@
     {
         "Name": "Iron Tager",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Tager_Portrait.png",
-        "Attributes": "\nHealth: 13,000\nCombo Rate: 60%\nPrejump: 6\nBackdash Time 27 / Invul: 1-20\nMovement Options\n\nMagnetism, no Double Jump, no Airdash, no Run\nPlay-style\nGrappler\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/f/f8/BBCF_Tager_Portrait.png/300px-BBCF_Tager_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -31918,8 +31947,9 @@
     {
         "Name": "Taokaka",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Taokaka_Portrait.png",
-        "Attributes": "\n\nHealth: 10,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 22 / Invul: 1-7\nMovement Options\n\nTriple Jump, 2 Air Dashes, Dash type: Run\nDash type: Run\nPlay-style\nVersatile, High Mobility\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/0/02/BBCF_Taokaka_Portrait.png/300px-BBCF_Taokaka_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -33145,8 +33175,9 @@
     {
         "Name": "Tsubaki Yayoi",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Tsubaki_Portrait.png",
-        "Attributes": "\n\nHealth: 11,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 22 / Invul: 1-5\nMovement Options\n\nDouble Jump, Air Dash, Dash type: Run\nPlay-style\nBalanced\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/b/b3/BBCF_Tsubaki_Portrait.png/300px-BBCF_Tsubaki_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -34354,8 +34385,9 @@
     {
         "Name": "Yuuki Terumi",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Terumi_Portrait.png",
-        "Attributes": "\n\nHealth: 10,500\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 22 / Invul: 1-5\nMovement Options\n\nDouble Jump, Air Dash, Dash type: Run\nPlay-style\nRushdown, High Meter Gain\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/7/70/BBCF_Terumi_Portrait.png/300px-BBCF_Terumi_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -35385,8 +35417,9 @@
     {
         "Name": "Valkenhayn R. Hellsing",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Valkenhayn_Portrait.png",
-        "Attributes": "\n\nHealth: 10,500\nCombo Rate: 60%\nPrejump: Human: 4/ Wolf: 3\nBackdash Time Human: 22/ Wolf: 25 / Invul: Human and Wolf: 1-7\nMovement Options\n\nDouble Jump, Air Dash, Wolf Movement, Dash type: Step\nPlay-style\nHigh Mobility, Mode switch, Mixup\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e3/BBCF_Valkenhayn_Portrait.png/269px-BBCF_Valkenhayn_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -36356,8 +36389,9 @@
     {
         "Name": "Lambda-11",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Lambda_Portrait.png",
-        "Attributes": "\n\nHealth: 10,500\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 25 / Invul: 1-7\nMovement Options\n\nDouble Jump, Air Dash, Dash type: Run\nPlay-style\nDefensive, Hybrid Rushdown/Zoning\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/1/13/BBCF_Lambda_Portrait.png/300px-BBCF_Lambda_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -37354,8 +37388,9 @@
     {
         "Name": "Mu-12",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Mu_Portrait.png",
-        "Attributes": "\n\nHealth: 10,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 25 / Invul: 1-5\nMovement Options\n\nDouble Jump, Air Dash, Dash type: Run\nPlay-style\nBalanced, Zoning\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e4/BBCF_Mu_Portrait.png/300px-BBCF_Mu_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -38180,8 +38215,9 @@
     {
         "Name": "Nu-13",
         "Game": "BBCF",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:BBCF_Nu_Portrait.png",
-        "Attributes": "\n\nHealth: 10,000\nCombo Rate: 60%\nPrejump: 4\nBackdash Time 24 / Invul: 1-7\nMovement Options\n\nDouble Jump, Air Dash, Dash type: Run\nPlaystyle\nEvasive, Aggressive Zoning\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/3/31/BBCF_Nu_Portrait.png/300px-BBCF_Nu_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",

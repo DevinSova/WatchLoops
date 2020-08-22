@@ -2,8 +2,9 @@
     {
         "Name": "Beelzebub",
         "Game": "GBVS",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=GBVS/Defense#Blocking",
-        "Attributes": "\n400\n\nMid\n\n5\n\n3\n\n6\n\n+2 \n\n+6\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/f/fd/GBVS_Beelzebub_Icon.png/24px-GBVS_Beelzebub_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/d/d1/GBVS_Beelzebub_Nameplate.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "c.L",
@@ -807,8 +808,9 @@
     {
         "Name": "Belial",
         "Game": "GBVS",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=GBVS/Defense#Blocking",
-        "Attributes": "\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n\n-\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/b/bb/GBVS_Belial_Icon.png/24px-GBVS_Belial_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/0/0d/GBVS_Belial_Portrait.png/250px-GBVS_Belial_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "c5L",
@@ -1230,8 +1232,9 @@
     {
         "Name": "Charlotta",
         "Game": "GBVS",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=GBVS/Defense#Blocking",
-        "Attributes": "\n400\n\nMid\n\n5\n\n3\n\n6\n\n+2 \n\n+6\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/4/46/GBVS_Charlotta_Icon.png/24px-GBVS_Charlotta_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/7/7f/GBVS_Charlotta_Nameplate.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "c.L",
@@ -1972,8 +1975,9 @@
     {
         "Name": "Djeeta",
         "Game": "GBVS",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=GBVS/Defense#Blocking",
-        "Attributes": "\n400\n\nMid\n\n5\n\n3\n\n6\n\n+2\n\n+6\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/1/15/GBVS_Djeeta_Icon.png/24px-GBVS_Djeeta_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/f/fe/GBVS_Djeeta_Nameplate.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "c.L",
@@ -2669,8 +2673,9 @@
     {
         "Name": "Ferry",
         "Game": "GBVS",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=GBVS/Defense#Blocking",
-        "Attributes": "\n400\n\nMid\n\n6\n\n3\n\n8\n\n+0 \n\n+4\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/a/a0/GBVS_Ferry_Icon.png/24px-GBVS_Ferry_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/7/77/GBVS_Ferry_Nameplate.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "c.L",
@@ -3464,8 +3469,9 @@
     {
         "Name": "Gran",
         "Game": "GBVS",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=GBVS/Defense#Blocking",
-        "Attributes": "\n400\n\nMid\n\n5\n\n3\n\n6\n\n+2\n\n+6\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/2/21/GBVS_Gran_Icon.png/24px-GBVS_Gran_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/d/dc/GBVS_Gran_Nameplate.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "c.L",
@@ -4106,8 +4112,9 @@
     {
         "Name": "Katalina",
         "Game": "GBVS",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=GBVS/Defense#Blocking",
-        "Attributes": "\n400\n\nMid\n\n5\n\n4\n\n5\n\n+2 \n\n+6\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/a/aa/GBVS_Katalina_Icon.png/24px-GBVS_Katalina_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/6/6b/GBVS_Katalina_Nameplate.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "c.L",
@@ -4769,8 +4776,9 @@
     {
         "Name": "Ladiva",
         "Game": "GBVS",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=GBVS/Defense#Blocking",
-        "Attributes": "\n400\n\nMid\n\n6\n\n3\n\n6\n\n+2 \n\n+6\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/5/52/GBVS_Ladiva_Icon.png/24px-GBVS_Ladiva_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/2/26/GBVS_Ladiva_Nameplate.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "c.L",
@@ -5544,8 +5552,9 @@
     {
         "Name": "Lancelot",
         "Game": "GBVS",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=GBVS/Defense#Blocking",
-        "Attributes": "\n350\n\nMid\n\n5\n\n2\n\n7\n\n+2 \n\n+6\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/2/26/GBVS_Lancelot_Icon.png/24px-GBVS_Lancelot_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/9/96/GBVS_Lancelot_Nameplate.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -6329,8 +6338,9 @@
     {
         "Name": "Lowain",
         "Game": "GBVS",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=GBVS/Defense#Blocking",
-        "Attributes": "\n400\n\nMid\n\n5\n\n3\n\n6\n\n+2 \n\n+6\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/3/3c/GBVS_Lowain_Icon.png/32px-GBVS_Lowain_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/d/d0/GBVS_Lowain_Nameplate.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "c.L",
@@ -7194,8 +7204,9 @@
     {
         "Name": "Metera",
         "Game": "GBVS",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=GBVS/Defense#Blocking",
-        "Attributes": "\n400\n\nMid\n\n6\n\n3\n\n9\n\n-1 \n\n+3\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/5/50/GBVS_Metera_Icon.png/24px-GBVS_Metera_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/9/9e/GBVS_Metera_Nameplate.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "c.L",
@@ -7885,8 +7896,9 @@
     {
         "Name": "Narmaya",
         "Game": "GBVS",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=GBVS/Defense#Blocking",
-        "Attributes": "\nGenji\n\n300\n\nMid\n\n6\n\n3\n\n9\n\n-1\n\n+3\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/5/5e/GBVS_Narmaya_Icon.png/24px-GBVS_Narmaya_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/7/77/GBVS_Narmaya_Nameplate.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -8893,8 +8905,9 @@
     {
         "Name": "Percival",
         "Game": "GBVS",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=GBVS/Defense#Blocking",
-        "Attributes": "\n400\n\nMid\n\n5\n\n3\n\n6\n\n+2 \n\n+6\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/3/3d/GBVS_Percival_Icon.png/24px-GBVS_Percival_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/2/2a/GBVS_Percival_Traumerei_Icon.png/24px-GBVS_Percival_Traumerei_Icon.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "c.L",
@@ -9700,8 +9713,9 @@
     {
         "Name": "Soriz",
         "Game": "GBVS",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=GBVS/Defense#Blocking",
-        "Attributes": "\n400\n\nMid\n\n5\n\n3\n\n6\n\n+2 \n\n+6\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/7/7d/GBVS_Soriz_Icon.png/24px-GBVS_Soriz_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e6/GBVS_MuscleFuryIcon.png/24px-GBVS_MuscleFuryIcon.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "c.L",
@@ -10429,8 +10443,9 @@
     {
         "Name": "Vaseraga",
         "Game": "GBVS",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=GBVS/Defense#Blocking",
-        "Attributes": "\n400\n\nMid\n\n7\n\n3\n\n5\n\n+3\n\n+7\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/5/57/GBVS_Vaseraga_Icon.png/24px-GBVS_Vaseraga_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/0/08/GBVS_SoulForgeIcon.png/24px-GBVS_SoulForgeIcon.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "c.L",
@@ -11143,8 +11158,9 @@
     {
         "Name": "Zeta",
         "Game": "GBVS",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=GBVS/Defense#Blocking",
-        "Attributes": "\n400\n\nMid\n\n5\n\n3\n\n5\n\n+2\n\n+6\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/f/f0/GBVS_Zeta_Icon.png/24px-GBVS_Zeta_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/3/32/GBVS_Zeta_Nameplate.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "c.L",
@@ -11943,8 +11959,9 @@
     {
         "Name": "Zooey",
         "Game": "GBVS",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=GBVS/Defense#Blocking",
-        "Attributes": "\n400\n\nMid\n\n5\n\n3\n\n7\n\n+2 \n\n+6\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/f/f5/GBVS_Zooey_Icon.png/32px-GBVS_Zooey_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/7/7a/GBVS_Zooey_Dragon_Gauge.png/180px-GBVS_Zooey_Dragon_Gauge.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "c.L",

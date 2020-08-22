@@ -8,5 +8,5 @@
 
 import Foundation
 
-let samplecharacters = charactersFromGame(game: .ggxrdrev2)
+let samplecharacters = charactersFromGame(game: .gbvs)
 let samplecharacter = samplecharacters[0]

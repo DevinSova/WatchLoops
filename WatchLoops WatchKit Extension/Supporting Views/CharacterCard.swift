@@ -16,7 +16,13 @@ struct CharacterCard: View {
             VStack(alignment: .leading, spacing: 0.5) {
                 HStack {
                     if character.IconURL != nil {
-                        URLImage(character.IconURL!)
+                        URLImage(
+                            character.IconURL!,
+                             delay: 0.25,
+                             content:  {
+                                 $0.image
+                                    .aspectRatio(contentMode: .fit)
+                             })
                     }
                     Text(character.Name).font(.system(size: 15)).bold()
                 }

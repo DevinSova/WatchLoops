@@ -1,0 +1,170 @@
+[
+    {
+        "Name": "Hyde",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/thumb/0/04/Profile-hyde.png/190px-Profile-hyde.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Linne",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/thumb/0/07/Profile-linne.png/343px-Profile-linne.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Waldstein",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/8/8c/Icon_patch_notes.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Carmine",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/8/8c/Icon_patch_notes.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Orie",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/8/8c/Icon_patch_notes.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Gordeau",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/8/8c/Icon_patch_notes.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Merkava",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/8/8c/Icon_patch_notes.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Vatista",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/8/8c/Icon_patch_notes.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Seth",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/8/8c/Icon_patch_notes.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Yuzuriha",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/8/8c/Icon_patch_notes.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Hilda",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/8/8c/Icon_patch_notes.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Chaos",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/8/8c/Icon_patch_notes.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Nanase",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/thumb/a/af/Profile-nanase.png/279px-Profile-nanase.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Byakuya",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/8/8c/Icon_patch_notes.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Phonon",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/8/8c/Icon_patch_notes.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Mika",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/8/8c/Icon_patch_notes.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Wagner",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/thumb/1/18/Profile-wagner.jpg/438px-Profile-wagner.jpg",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Enkidu",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/8/8c/Icon_patch_notes.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Londrekia",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/8/8c/Icon_patch_notes.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Eltnum",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/8/8c/Icon_patch_notes.png",
+        "Attributes": null,
+        "Moves": []
+    },
+    {
+        "Name": "Akatsuki",
+        "Game": "UNICLR",
+        "IconURL": "http://wiki.mizuumi.net/images/thumb/2/25/Icon_faq.png/20px-Icon_faq.png",
+        "PortraitURL": "http://wiki.mizuumi.net/images/8/8c/Icon_patch_notes.png",
+        "Attributes": null,
+        "Moves": []
+    }
+]

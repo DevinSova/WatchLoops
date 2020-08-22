@@ -2,8 +2,9 @@
     {
         "Name": "Android 16",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=DBFZ/Defense#Blocking",
-        "Attributes": "\n5L\n\n400\n\nAll\n\n-\n\n7\n\n3\n\n15\n\n-8\n\n-\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/6/6e/DBFZ_Android_16_Icon.png/24px-DBFZ_Android_16_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/a/a6/DBFZ_Android_16_Portrait.png/234px-DBFZ_Android_16_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -729,8 +730,9 @@
     {
         "Name": "Android 17",
         "Game": "DBFZ",
-        "ImageURL": "",
-        "Attributes": "",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e2/Template-info.png/80px-Template-info.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -1680,8 +1682,9 @@
     {
         "Name": "Android 18",
         "Game": "DBFZ",
-        "ImageURL": "",
-        "Attributes": "",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e2/Template-info.png/80px-Template-info.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -2455,8 +2458,9 @@
     {
         "Name": "Android 21",
         "Game": "DBFZ",
-        "ImageURL": "",
-        "Attributes": "",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e2/Template-info.png/80px-Template-info.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -3576,8 +3580,9 @@
     {
         "Name": "Bardock",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=DBFZ/Defense#Blocking",
-        "Attributes": "\n5L\n\n400\n\nAll\n\n-\n\n6\n\n3\n\n16\n\n-3\n\n-\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/3/31/DBFZ_Bardock_Icon.png/24px-DBFZ_Bardock_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/0/0e/DBFZ_Bardock_Portrait.png/300px-DBFZ_Bardock_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -4322,8 +4327,9 @@
     {
         "Name": "Beerus",
         "Game": "DBFZ",
-        "ImageURL": "",
-        "Attributes": "",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e2/Template-info.png/80px-Template-info.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -5210,8 +5216,9 @@
     {
         "Name": "Broley",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=DBFZ/Defense#Blocking",
-        "Attributes": "\n5L\n\n500\n\nAll\n\n-\n\n7\n\n3\n\n15\n\n-2\n\n-\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/8/8f/DBFZ_Broly_Icon.png/24px-DBFZ_Broly_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/b/ba/DBFZ_Broly_Portrait.png/283px-DBFZ_Broly_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -5555,7 +5562,7 @@
                             "Frame Adv.": "-9",
                             "Invul.": "4-18 Armor"
                         },
-                        "Description": "Moves forward about half screen.\nEssentially a reversal, since it has frame 4 armor and is decently fast.\nThe armor property is lost after the active frames end, leaving Broly vulnerable to a counter hit if he only makes contact against an assist."
+                        "Description": "Moves forward about half screen.\nEssentially a reversal, since it has frame 4 armor and is decently fast. Can also be made safe a lot easier than a regular DP.\nThe armor property is lost after the active frames end, leaving Broly vulnerable to a counter hit if he only makes contact against an assist."
                     },
                     {
                         "Attributes": {
@@ -5583,7 +5590,7 @@
                             "Frame Adv.": "-9",
                             "Invul.": "4-30 Armor"
                         },
-                        "Description": "M version but a lot faster. Combos from 2M, allowing for full corner carry from anywhere on the screen.\nVery fair bar dump move that when combined with H+S Gigantic Meteor, will instant put the opponent in the corner with potentially half the HP they started with and is now in sliding knockdown state.\nWithout Super extension however, you're better off just doing a 5H BnB.",
+                        "Description": "M version but a lot faster. Combos from 2M, allowing for full corner carry from anywhere on the screen.\nVery fair meter dump move when combined with H+S Gigantic Meteor, will instantly put the opponent in the corner with potentially half the HP they started with and is now in sliding knockdown state, assuming they're not dead.\nWithout Super extension however, you're better off just doing a 5H BnB. \nGenerally used more defensively than offensively, but with Sparking or Limit Break it's one of the scariest and annoying defensive options in the game.",
                         "ImageURLs": [
                             "https://www.dustloop.com/wiki/images/thumb/6/64/DBFZ_Broly_LariatExpress.png/175px-DBFZ_Broly_LariatExpress.png"
                         ]
@@ -5931,8 +5938,9 @@
     {
         "Name": "DBS Broley",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=DBFZ/Defense#Blocking",
-        "Attributes": "\n5L\n\n500\n\nAll\n\n-\n\n10\n\n4\n\n19\n\n-7\n\n-\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/0/0e/DBFZ_DBS_Broly_Icon.png/24px-DBFZ_DBS_Broly_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/2/20/DBFZ_DBS_Broly_Portrait.png/265px-DBFZ_DBS_Broly_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -6698,8 +6706,9 @@
     {
         "Name": "Captain Ginyu",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:DBFZ_Captain_Ginyu_Portrait.png",
-        "Attributes": "\nPlay-style\nSetplay\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/7/7b/DBFZ_Captain_Ginyu_Portrait.png/300px-DBFZ_Captain_Ginyu_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -7743,8 +7752,9 @@
     {
         "Name": "Cell",
         "Game": "DBFZ",
-        "ImageURL": "",
-        "Attributes": "",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e2/Template-info.png/80px-Template-info.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -8528,8 +8538,9 @@
     {
         "Name": "Cooler",
         "Game": "DBFZ",
-        "ImageURL": "",
-        "Attributes": "",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e2/Template-info.png/80px-Template-info.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -9369,8 +9380,9 @@
     {
         "Name": "Frieza",
         "Game": "DBFZ",
-        "ImageURL": "",
-        "Attributes": "",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e2/Template-info.png/80px-Template-info.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -10094,8 +10106,9 @@
     {
         "Name": "SSB Gogeta",
         "Game": "DBFZ",
-        "ImageURL": "",
-        "Attributes": "",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e2/Template-info.png/80px-Template-info.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -11021,8 +11034,9 @@
     {
         "Name": "Teen Gohan",
         "Game": "DBFZ",
-        "ImageURL": "",
-        "Attributes": "",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e2/Template-info.png/80px-Template-info.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -11768,8 +11782,9 @@
     {
         "Name": "Adult Gohan",
         "Game": "DBFZ",
-        "ImageURL": "",
-        "Attributes": "",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e2/Template-info.png/80px-Template-info.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -12878,8 +12893,9 @@
     {
         "Name": "Goku",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=DBFZ/Defense#Blocking",
-        "Attributes": "\n5L\n\n400\n\nAll\n\n-\n\n6\n\n3\n\n13\n\n-4\n\n-\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/b/bb/DBFZ_Goku_Icon.png/24px-DBFZ_Goku_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/d/da/DBFZ_Goku_Portrait.png/193px-DBFZ_Goku_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -13764,8 +13780,9 @@
     {
         "Name": "SS Goku",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=DBFZ/Defense#Blocking",
-        "Attributes": "\n5L\n\n400\n\nAll\n\n-\n\n6\n\n4\n\n11\n\n-3\n\n-\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/8/87/DBFZ_SS_Goku_Icon.png/24px-DBFZ_SS_Goku_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/d/d3/DBFZ_SS_Goku_Portrait.png/222px-DBFZ_SS_Goku_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -14515,8 +14532,9 @@
     {
         "Name": "SSB Goku",
         "Game": "DBFZ",
-        "ImageURL": "",
-        "Attributes": "",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e2/Template-info.png/80px-Template-info.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -15231,8 +15249,9 @@
     {
         "Name": "UI Goku",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=DBFZ/Defense#Blocking",
-        "Attributes": "\n5L\n\n400\n\nAll\n\n-\n\n7\n\n-\n\n-\n\n-9\n\n-\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/9/90/DBFZ_UI_Goku_Icon.png/24px-DBFZ_UI_Goku_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/c/c2/DBFZ_UI_Goku_Portrait.png/166px-DBFZ_UI_Goku_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -16256,8 +16275,9 @@
     {
         "Name": "GT Goku",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=DBFZ/Defense#Blocking",
-        "Attributes": "\n5L\n\n400\n\nAll\n\n-\n\n6\n\n3\n\n12\n\n-3\n\n-\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/0/01/DBFZ_GT_Goku_Icon.png/24px-DBFZ_GT_Goku_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/5/58/DBFZ_GT_Goku_Portrait.png/294px-DBFZ_GT_Goku_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -17059,8 +17079,9 @@
     {
         "Name": "Goku Black",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=DBFZ/Defense#Blocking",
-        "Attributes": "\n5L\n\n400\n\nAll\n\n-\n\n6\n\n4\n\n10\n\n-2\n\n-\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/a/a3/DBFZ_Goku_Black_Icon.png/24px-DBFZ_Goku_Black_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/d/df/DBFZ_Goku_Black_Portrait.png/170px-DBFZ_Goku_Black_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -17806,8 +17827,9 @@
     {
         "Name": "Gotenks",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:DBFZ_Gotenks_Portrait.png",
-        "Attributes": "\nPlay-style\nPressure, Mix-up\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/c/c8/DBFZ_Gotenks_Portrait.png/265px-DBFZ_Gotenks_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -18536,8 +18558,9 @@
     {
         "Name": "Hit",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=DBFZ/Defense#Blocking",
-        "Attributes": "\n5L\n\n400\n\nAll\n\n-\n\n6\n\n3\n\n12\n\n-3\n\n-\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/d/dd/DBFZ_Hit_Icon.png/24px-DBFZ_Hit_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/1/1f/DBFZ_Hit_Portrait.png/242px-DBFZ_Hit_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -19300,8 +19323,9 @@
     {
         "Name": "Janemba",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:DBFZ_Janemba_Portrait.png",
-        "Attributes": "\nPlay-style\nZoning, Footsies\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/3/33/DBFZ_Janemba_Portrait.png/300px-DBFZ_Janemba_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -20115,8 +20139,9 @@
     {
         "Name": "Jiren",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:DBFZ_Jiren_Portrait.png",
-        "Attributes": "\nPlay-style\nDefensive, Counter\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/0/0d/DBFZ_Jiren_Portrait.png/224px-DBFZ_Jiren_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -20825,8 +20850,9 @@
     {
         "Name": "Kefla",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:DBFZ_Kefla_Portrait.png",
-        "Attributes": "\nPlay-style\nRushdown, Mix-up\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/c/c4/DBFZ_Kefla_Portrait.png/190px-DBFZ_Kefla_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -21565,8 +21591,9 @@
     {
         "Name": "Kid Buu",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:DBFZ_Kid_Buu_Portrait.png",
-        "Attributes": "\nPlay-style\nMix-up, Pressure, Footsies\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/c/c0/DBFZ_Kid_Buu_Portrait.png/272px-DBFZ_Kid_Buu_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -22279,8 +22306,9 @@
     {
         "Name": "Krilin",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:DBFZ_Krillin_Portrait.png",
-        "Attributes": "\nPlay-style\nMix-up, Toolbox\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/a/af/DBFZ_Krillin_Portrait.png/300px-DBFZ_Krillin_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -23132,8 +23160,9 @@
     {
         "Name": "Majin Buu",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:DBFZ_Majin_Buu_Portrait.png",
-        "Attributes": "\nPlay-style\nMixup, Resets\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/9/90/DBFZ_Majin_Buu_Portrait.png/300px-DBFZ_Majin_Buu_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -23833,8 +23862,9 @@
     {
         "Name": "Nappa",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:DBFZ_Nappa_Portrait.png",
-        "Attributes": "\nPlay-style\nMixup, Resets\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/8/8d/DBFZ_Nappa_Portrait.png/300px-DBFZ_Nappa_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -24512,8 +24542,9 @@
     {
         "Name": "Piccolo",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:DBFZ_Piccolo_Portrait.png",
-        "Attributes": "\nPlay-style\nMixup, Setplay\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/d/dd/DBFZ_Piccolo_Portrait.png/192px-DBFZ_Piccolo_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -25263,8 +25294,9 @@
     {
         "Name": "Tien",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=DBFZ/Defense#Blocking",
-        "Attributes": "\n5L\n\n400\n\nAll\n\n-\n\n6\n\n3\n\n12\n\n-3\n\n-\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/8/85/DBFZ_Tien_Icon.png/24px-DBFZ_Tien_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/6/65/DBFZ_Tien_Portrait.png/327px-DBFZ_Tien_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -26165,8 +26197,9 @@
     {
         "Name": "Trunks",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=DBFZ/Defense#Blocking",
-        "Attributes": "\n5L\n\n400\n\nAll\n\n-\n\n6\n\n3\n\n14\n\n-5\n\n-\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/b/b8/DBFZ_Trunks_Icon.png/24px-DBFZ_Trunks_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/1/1d/DBFZ_Trunks_Portrait.png/204px-DBFZ_Trunks_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -26875,8 +26908,9 @@
     {
         "Name": "Vegeta",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:DBFZ_Vegeta_Portrait.png",
-        "Attributes": "\nPlay-style\nRushdown, Mix-up\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/7/77/DBFZ_Vegeta_Portrait.png/274px-DBFZ_Vegeta_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -27602,8 +27636,9 @@
     {
         "Name": "SS Vegeta",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:DBFZ_SS_Vegeta_Portrait.png",
-        "Attributes": "\nPlay-style\nBalanced, Footsies, Rushdown\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/5/52/DBFZ_SS_Vegeta_Portrait.png/279px-DBFZ_SS_Vegeta_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -28320,8 +28355,9 @@
     {
         "Name": "SSB Vegeta",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:DBFZ_SSB_Vegeta_Portrait.png",
-        "Attributes": "\nPlay-style\nRushdown, Rekka\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/7/7e/DBFZ_SSB_Vegeta_Portrait.png/181px-DBFZ_SSB_Vegeta_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -29192,8 +29228,9 @@
     {
         "Name": "SSB Vegito",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:DBFZ_SSB_Vegito_Portrait.png",
-        "Attributes": "\nPlay-style\nRushdown, Footsies\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/4/47/DBFZ_SSB_Vegito_Portrait.png/198px-DBFZ_SSB_Vegito_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -29990,8 +30027,9 @@
     {
         "Name": "Videl",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:DBFZ_Videl_Portrait.png",
-        "Attributes": "\nPlay-style\nRushdown, Mix-up\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/7/7e/DBFZ_Videl_Portrait.png/219px-DBFZ_Videl_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -30280,7 +30318,7 @@
                             "Frame Adv.": "-",
                             "Invul.": "-"
                         },
-                        "Description": "Placeholder.",
+                        "Description": "Good range, very useful for crossups as it will hit even after a point blank range instant air dash. 5M is guaranteed to hit after a crossup j.M.",
                         "ImageURLs": [
                             "https://www.dustloop.com/wiki/images/thumb/1/12/DBFZ_Videl_jM.png/175px-DBFZ_Videl_jM.png"
                         ]
@@ -30943,7 +30981,7 @@
                             "Frame Adv.": "+12",
                             "Invul.": "-"
                         },
-                        "Description": "Costs 3 Ki Gauges.\nInvulnerable during startup.\nCauses hard knockdown on hit.\nBetter than Frieza's, but you have better reversal options. It does good damage, but you probably won't use this one too much unless you're against a button happy opponent who may not be totally ready for it. You don't really get oki off it, so it's really just used as a last resort of sorts.",
+                        "Description": "Gohan shows up in front of Videl and does a Kamehameha.\nCauses hard knockdown on hit.\nThe beam itself is really good since it's a safe on block/Reflect reversal. However, its downfall is that Gohan has his own collision box. If the opponent is slightly late on their IAD safejump, they'll land right in between the couple, free to punish a vulnerable Videl.",
                         "ImageURLs": [
                             "https://www.dustloop.com/wiki/images/thumb/7/76/DBFZ_Videl_Wakeup.png/175px-DBFZ_Videl_Wakeup.png",
                             "https://www.dustloop.com/wiki/images/thumb/8/87/DBFZ_Videl_Wakeup2.png/175px-DBFZ_Videl_Wakeup2.png"
@@ -30956,8 +30994,9 @@
     {
         "Name": "Yamcha",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=DBFZ/Defense#Blocking",
-        "Attributes": "\n5L\n\n400\n\nAll\n\n-\n\n7\n\n3\n\n12\n\n-3\n\n-\n",
+        "IconURL": "https://www.dustloop.com/wiki/images/thumb/0/08/DBFZ_Yamcha_Icon.png/24px-DBFZ_Yamcha_Icon.png",
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/4/49/DBFZ_Yamcha_Portrait.png/275px-DBFZ_Yamcha_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
@@ -31725,8 +31764,9 @@
     {
         "Name": "Fused Zamasu",
         "Game": "DBFZ",
-        "ImageURL": "https://www.dustloop.com/wiki/index.php?title=File:DBFZ_Fused_Zamasu_Portrait.png",
-        "Attributes": "\nPlay-style\nMix-up, Setplay, Zoning\n",
+        "IconURL": null,
+        "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/4/41/DBFZ_Fused_Zamasu_Portrait.png/300px-DBFZ_Fused_Zamasu_Portrait.png",
+        "Attributes": null,
         "Moves": [
             {
                 "Name": "5L",
