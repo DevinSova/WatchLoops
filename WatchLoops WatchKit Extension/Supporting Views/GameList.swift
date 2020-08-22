@@ -15,7 +15,6 @@ struct GameList: View {
                 NavigationLink(destination: CharacterList(characters: charactersFromGame(game: .bbcf))) {
                     Text("BBCF")
                 }
-                Spacer()
                 NavigationLink(destination: CharacterList(characters: charactersFromGame(game: .bbtag))) {
                     Text("BBTag")
                 }
@@ -24,7 +23,6 @@ struct GameList: View {
                 NavigationLink(destination: CharacterList(characters: charactersFromGame(game: .dbfz))) {
                     Text("DBFZ")
                 }
-                Spacer()
                 NavigationLink(destination: CharacterList(characters: charactersFromGame(game: .gbvs))) {
                     Text("GBVS")
                 }
@@ -33,18 +31,22 @@ struct GameList: View {
                 NavigationLink(destination: CharacterList(characters: charactersFromGame(game: .ggxrdrev2))) {
                     Text("GGXRD")
                 }
-                Spacer()
                 NavigationLink(destination: CharacterList(characters: charactersFromGame(game: .p4au))) {
                     Text("P4AU")
                 }
             }
         }
-        .scaledToFill()
+        .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: .infinity, alignment: .center)
     }
 }
 
 struct GameList_Previews: PreviewProvider {
     static var previews: some View {
-        GameList()
+        Group {
+            GameList()
+                .previewDevice("Apple Watch Series 4 - 44mm")
+            GameList()
+                .previewDevice("Apple Watch Series 2 - 38mm")
+        }
     }
 }

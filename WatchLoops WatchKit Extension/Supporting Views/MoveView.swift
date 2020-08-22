@@ -27,18 +27,21 @@ struct MoveView: View {
                     if version != self.move.Versions.last {
                         Divider()
                     }
-                }.padding([.top, .bottom], 4.0)
+                }
+                .padding([.top, .bottom], 4.0)
+                .frame(minWidth: 0, maxWidth: .infinity, alignment: .leading)
             }
-        }.navigationBarTitle(move.Name)
+        }
+        .navigationBarTitle(move.Name)
     }
 }
 
 struct MoveView_Previews: PreviewProvider {
     static var previews: some View {
         Group {
-            MoveView(move: samplecharacter.Moves[0])
+            MoveView(move: samplecharacters[1].Moves[0])
                 .previewDevice("Apple Watch Series 4 - 44mm")
-            MoveView(move: samplecharacter.Moves[1])
+            MoveView(move: samplecharacters[1].Moves[1])
                 .previewDevice("Apple Watch Series 2 - 38mm")
         }
     }
