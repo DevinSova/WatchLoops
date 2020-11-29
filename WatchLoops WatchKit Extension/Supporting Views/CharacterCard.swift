@@ -21,7 +21,9 @@ struct CharacterCard: View {
                              delay: 0.25,
                              content:  {
                                  $0.image
+                                    .resizable()
                                     .aspectRatio(contentMode: .fit)
+                                    .frame(width: 30, height: 30, alignment: .center)
                              })
                     }
                     Text(character.Name).font(.system(size: 15)).bold()

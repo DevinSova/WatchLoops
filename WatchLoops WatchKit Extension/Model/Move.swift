@@ -29,7 +29,7 @@ struct Move : Codable, Hashable {
 
 struct Version: Codable, Hashable {
     var Attributes: Attributes
-    var Description: String
+    var Description: String?
     var ImageURLs: [URL]?
 }
 

@@ -12,8 +12,8 @@ struct Character : Codable, Hashable {
     var Name: String
     var Game: Game
     var Attributes: String?
-    var IconURL: URL?
     var PortraitURL: URL?
+    var IconURL: URL?
     var Moves: [Move]
     
     init() {

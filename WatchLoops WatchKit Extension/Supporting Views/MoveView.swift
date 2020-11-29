@@ -20,7 +20,9 @@ struct MoveView: View {
             ForEach(move.Versions, id:\.self) { version in
                 VStack(alignment: .leading, spacing: 5.0) {
                     AttributesView(attributes: version.Attributes)
-                    Text(version.Description).lineLimit(nil).font(.caption)
+                    if version.Description != nil {
+                        Text(version.Description!).lineLimit(nil).font(.caption)
+                    }
                     if version.ImageURLs != nil {
                         ImagesView(imageURLs: version.ImageURLs!)
                     }
