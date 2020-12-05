@@ -10,29 +10,14 @@ import SwiftUI
 
 struct GameList: View {
     var body: some View {
-        VStack {
-            HStack {
-                NavigationLink(destination: CharacterList(characters: charactersFromGame(game: .bbcf))) {
-                    Text("BBCF")
-                }
-                NavigationLink(destination: CharacterList(characters: charactersFromGame(game: .bbtag))) {
-                    Text("BBTag")
-                }
-            }
-            HStack {
-                NavigationLink(destination: CharacterList(characters: charactersFromGame(game: .dbfz))) {
-                    Text("DBFZ")
-                }
-                NavigationLink(destination: CharacterList(characters: charactersFromGame(game: .gbvs))) {
-                    Text("GBVS")
-                }
-            }
-            HStack {
-                NavigationLink(destination: CharacterList(characters: charactersFromGame(game: .ggxrdrev2))) {
-                    Text("GGXRD")
-                }
-                NavigationLink(destination: CharacterList(characters: charactersFromGame(game: .p4au))) {
-                    Text("P4AU")
+        List {
+            ForEach(Game.allCases, id: \.self) { game in
+                if game != Game.unknown {
+                    NavigationLink(destination: CharacterList(characters: charactersFromGame(game: game))) {
+                        Image(game.rawValue)
+                            .resizable()
+                            .scaledToFit()
+                    }
                 }
             }
         }

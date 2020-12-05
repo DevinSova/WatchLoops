@@ -8,13 +8,12 @@
 
 import Foundation
 
-enum Game: String, Codable {
+enum Game: String, Codable, CaseIterable {
     case unknown = "UNKNOWN"
-    case p4au = "P4AU"
     case dbfz = "DBFZ"
+    case ggxrdrev2 = "GGXRDREV2"
     case gbvs = "GBVS"
     case bbtag = "BBTAG"
-    case ggxrdrev2 = "GGXRDREV2"
     case bbcf = "BBCF"
-    case uniclr = "UNICLR"
+    case p4au = "P4AU"
 }
