@@ -4,7 +4,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/2/2e/P4U_Aigis_Portrait.png/300px-P4U_Aigis_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/8/8c/P4AU_Aigis_portrait.png/80px-P4AU_Aigis_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A (Normal)",
@@ -1284,7 +1283,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/6/63/P4U_Akihiko_Portrait.png/300px-P4U_Akihiko_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/4/47/P4AU_Akihiko_portrait.png/80px-P4AU_Akihiko_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A (Normal)",
@@ -1541,7 +1539,7 @@
                             "Frame Adv.": "-5 (0)",
                             "Attribute": "Body"
                         },
-                        "Description": "Lv 1: 1400\n\nLv 2: 1500\n\nLv 3: 1600\n\nLv 4-5: 1700\n\nAkihiko calls on Caeser to swipe downwards with his sword. Decent range, and can be charged, though this only increases the frame advantage to make you +0. Bounces the opponent on counterhit. \n",
+                        "Description": "Lv 1: 1400\n\nLv 2: 1500\n\nLv 3: 1600\n\nLv 4-5: 1700\n\nAkihiko calls on Caeser to swipe downwards with his sword. Decent range, and can be charged, though this only increases the frame advantage to make you +0. Bounces the opponent on counterhit. \n\nIf Caeser is displaced from Akihiko from 5D/2D/j.D, this move will start from Caeser's position, not Akihiko's.\n",
                         "ImageURLs": [
                             "https://www.dustloop.com/wiki/images/thumb/c/c2/P4Arena_Akihiko_5C.png/207px-P4Arena_Akihiko_5C.png"
                         ]
@@ -1561,7 +1559,7 @@
                             "Frame Adv.": "-",
                             "Attribute": "-"
                         },
-                        "Description": "Pulls the opponent towards Caeser for the duration of the normal. Unlike in P4A, using 5D or 2D no longer prevents Akihiko from using other Persona attacks (i.e. Akihiko can now pull with 5D, then attack shortly afterwards with 5C). This also counts as a Cyclone move, with each level increasing the speed that the opponent comes towards you. However, you can't cancel into any other cyclone moves after this. This is a vital tool for opponents who try to keep away, as well as a great offensive tool; pulling an opponent towards you and blocking them with your body means they're forced to take quite a bit more offense than they otherwise would due to the negated pushback.  Keep in mind that Caeser is a pretty big target, though, so don't throw this out carelessly. \nWhen active (and not during the move's startup), Caeser will have full projectile super armor. Lasers will go through him, but single hit projectiles will be nullified.\n\nBe sure to use this for oki, especially since you'll be able to catch your opponent by surprise with a sudden 5C if they're close enough to Caeser, yet far away from you. \n",
+                        "Description": "Pulls the opponent towards Caeser for the duration of the normal. Unlike in P4A, using 5D or 2D no longer prevents Akihiko from using other Persona attacks (i.e. Akihiko can now pull with 5D, then attack shortly afterwards with 5C). This also counts as a Cyclone move, with each level increasing the speed that the opponent comes towards you. However, you can't cancel into any other cyclone moves after this. This is a vital tool for opponents who try to keep away, as well as a great offensive tool; pulling an opponent towards you and blocking them with your body means they're forced to take quite a bit more offense than they otherwise would due to the negated pushback.  Keep in mind that Caeser is a pretty big target, though, so don't throw this out carelessly. \nWhen active (and not during the move's startup), Caeser will have full projectile super armor. Lasers will go through him, but single hit projectiles will be nullified.\n\nBe sure to use this for oki sometimes, especially since you'll be able to catch your opponent by surprise with a sudden 5C if they're close enough to Caeser, yet far away from you. \n",
                         "ImageURLs": [
                             "https://www.dustloop.com/wiki/images/thumb/a/ab/P4Arena_Akihiko_5D.png/154px-P4Arena_Akihiko_5D.png"
                         ]
@@ -1581,7 +1579,7 @@
                             "Frame Adv.": "-",
                             "Attribute": "Body"
                         },
-                        "Description": "Lv1: 0, 110, 55x5, 550\n\nLv2: 0, 120, 60x5, 600\n\nLv3: 0, 130, 65x5, 650\n\nLv4: 0, 140, 70x5, 700\n\nLv5: 0, 150, 75x5, 750\n\nAkihiko's new anti-air Persona grab. Caesar shocks the opponent before slamming them down for a ground bounce. Useful for ending juggling combos. Easily cancels into 236236A/B in the corner, and 214214C everywhere. Inflicts Silence if successful, and each Cyclone level further increases the Silence duration.\n",
+                        "Description": "Lv1: 0, 110, 55x5, 550\n\nLv2: 0, 120, 60x5, 600\n\nLv3: 0, 130, 65x5, 650\n\nLv4: 0, 140, 70x5, 700\n\nLv5: 0, 150, 75x5, 750\n\nAkihiko's new anti-air Persona grab. Caesar shocks the opponent before slamming them down for a ground bounce. Useful for ending juggling combos. Easily cancels into 236236A/B in the corner, and 214214C everywhere. Inflicts Silence if successful, and each Cyclone level further increases the Silence duration.\n\nFor situations where you've displaced Caesar and the opponent is close to him, this can be useful for catching a jump. Otherwise, using this outside of a combo is risky, and yields less reward on a successful anti-air than 2B.\n",
                         "ImageURLs": [
                             "https://www.dustloop.com/wiki/images/thumb/c/cf/P4AU_Akihiko_2C.png/192px-P4AU_Akihiko_2C.png"
                         ]
@@ -1681,7 +1679,7 @@
                             "Frame Adv.": "-",
                             "Attribute": "Throw"
                         },
-                        "Description": "Akihiko punches the opponent to the ground, falling down with them. Doesn't lead to much outside of the corner.\n",
+                        "Description": "Akihiko punches the opponent to the ground. Doesn't lead to much outside of the corner.\n",
                         "ImageURLs": [
                             "https://www.dustloop.com/wiki/images/thumb/b/bf/P4Arena_Akihiko_AOA.png/210px-P4Arena_Akihiko_AOA.png"
                         ]
@@ -2150,8 +2148,7 @@
                             "Recovery": "13 total",
                             "Frame Adv.": "-",
                             "Attribute": "-"
-                        },
-                        "Description": "All of Akihiko's fist-based attacks cause Shock on hit or block to opponents, rendering them unable to move until it wears off which allows for some easy follow-ups. The Shock duration lasts for 60 frames on block and 120 frames on hit. This also adds chip damage to his fist-based attacks, furthering his offense. Thunder Fists wears off if Akihiko is hit while the buff is active, but not if another Persona attack is used.\n"
+                        }
                     },
                     {
                         "Attributes": {
@@ -2163,8 +2160,7 @@
                             "Recovery": "28 total",
                             "Frame Adv.": "-",
                             "Attribute": "-"
-                        },
-                        "Description": "SB version adds a hitbox to the activation that induces Shock and knocks the opponent down. However, this isn't applied if blocked, and the hitbox itself is quite small - about the size of Akihiko's body. \n"
+                        }
                     },
                     {
                         "Attributes": {
@@ -2177,7 +2173,7 @@
                             "Frame Adv.": "-28",
                             "Attribute": "Projectile"
                         },
-                        "Description": "Fun fact: if Akihiko is under the effect of Shock, this cures it. If the next attack that hits him would induce Shock while he has this buff up, the Shock is negated. He'll also say a special line if he's fighting Kanji. \n",
+                        "Description": "All of Akihiko's fist-based attacks cause Shock on hit or block to opponents, rendering them unable to move until it wears off which allows for some easy follow-ups. The Shock duration lasts for 60 frames on block and 120 frames on hit. This also adds chip damage to his fist-based attacks, furthering his offense. Thunder Fists wears off if Akihiko is hit while the buff is active, but not if another Persona attack is used.\n\nThe C version is the fastest way to obtain the buff. This has its uses through not just cancelling a blocked DP, but also cancelling certain knockdowns to give yourself more of an advantage. Cancelling a Corkscrew Punch in the corner into this will give you just enough time to tag your opponent with a 2A and force the shock on them.\n\nThe D version takes longer to apply the buff, but this is because it has a longer invincibility period. This can be used to make certain moves from the opponent whiff as a prediction tool, but this is rather risky and should only be used if you have a hard read on the opponent. \n\nSB version adds a hitbox to the activation that induces Shock and knocks the opponent down. However, this isn't applied if blocked, and the hitbox itself is quite small - about the size of Akihiko's body. \n\nFun fact: if Akihiko is under the effect of Shock, this cures it. If the next attack that hits him would induce Shock while he has this buff up, the Shock is negated. He'll also say a special line if he's fighting Kanji. \n",
                         "ImageURLs": [
                             "https://www.dustloop.com/wiki/images/thumb/b/b8/P4Arena_Akihiko_ThunderFists.png/170px-P4Arena_Akihiko_ThunderFists.png"
                         ]
@@ -2257,7 +2253,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/5/5b/P4U_Chie_Portrait.png/242px-P4U_Chie_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/5/53/P4AU_Chie_portrait.png/80px-P4AU_Chie_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A (Normal)",
@@ -3219,7 +3214,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/5/5f/P4U_Elizabeth_Portrait.png/291px-P4U_Elizabeth_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/0/07/P4AU_Elizabeth_portrait.png/80px-P4AU_Elizabeth_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -4450,7 +4444,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/6/61/P4U2_Junpei_Portrait.png/300px-P4U2_Junpei_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/c/cb/P4AU_Junpei_portrait.png/80px-P4AU_Junpei_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -5234,7 +5227,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/c/c5/P4U_Kanji_Portrait.png/300px-P4U_Kanji_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/3/39/P4AU_Kanji_portrait.png/80px-P4AU_Kanji_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A (Normal)",
@@ -6067,7 +6059,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/5/5f/P4U2_Ken_Portrait.png/300px-P4U2_Ken_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/c/ce/P4AU_Ken_portrait.png/80px-P4AU_Ken_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -6863,7 +6854,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/0/0b/P4U_Labrys_Portrait.png/300px-P4U_Labrys_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/5/5d/P4AU_Labrys_portrait.png/80px-P4AU_Labrys_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A (Normal)",
@@ -7805,7 +7795,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/b/b5/P4U2_Margaret_Portrait.png/283px-P4U2_Margaret_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/6/69/P4AU_Margaret_portrait.png/80px-P4AU_Margaret_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "Margaret Selection",
@@ -8711,7 +8700,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/5/52/P4U2_Marie_Portrait.png/281px-P4U2_Marie_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/5/54/P4AU_Marie_portrait.png/80px-P4AU_Marie_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -9595,7 +9583,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/7/74/P4U2_P-Sho_Portrait.png/300px-P4U2_P-Sho_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/2/2a/P4AU_PSho_portrait.png/80px-P4AU_PSho_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -10462,7 +10449,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/5/54/P4U_Mitsuru_Portrait.png/300px-P4U_Mitsuru_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/5/54/P4AU_Mitsuru_portrait.png/80px-P4AU_Mitsuru_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A (Normal)",
@@ -11421,7 +11407,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/e9/P4U_Naoto_Portrait.png/242px-P4U_Naoto_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/3/32/P4AU_Naoto_portrait.png/80px-P4AU_Naoto_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A (Normal)",
@@ -11873,7 +11858,7 @@
                         },
                         "Description": "Naoto's Furious Action is a counter style attack that has several follow ups. This is one of Naoto's key defensive tools to escape bad situations on defense. The follow up you use out of this attack is super important, so select wisely. \n",
                         "ImageURLs": [
-                            "https://www.dustloop.com/wiki/images/thumb/c/c9/P4Arena_Naoto_BD.png/210px-P4Arena_Naoto_BD.png"
+                            "https://www.dustloop.com/wiki/images/thumb/c/c9/P4Arena_Naoto_BD.png/183px-P4Arena_Naoto_BD.png"
                         ]
                     },
                     {
@@ -12495,7 +12480,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/5/59/P4U2_Rise_Portrait.png/300px-P4U2_Rise_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/b/b9/P4AU_Rise_portrait.png/80px-P4AU_Rise_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -13328,7 +13312,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/c/c5/P4U_Shadow_Labrys_Portrait.png/300px-P4U_Shadow_Labrys_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/4/43/P4AU_SLabrys_portrait.png/80px-P4AU_SLabrys_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -14216,7 +14199,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/3/30/P4U2_Sho_Portrait.png/300px-P4U2_Sho_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/7/7b/P4AU_Sho_portrait.png/80px-P4AU_Sho_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -14951,7 +14933,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/b/b8/P4U_Teddie_Portrait.png/300px-P4U_Teddie_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/c/c2/P4AU_Teddie_portrait.png/80px-P4AU_Teddie_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A (Normal)",
@@ -16274,7 +16255,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/8/81/P4U2_Adachi_Portrait.png/232px-P4U2_Adachi_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/7/70/P4AU_Adachi_portrait.png/80px-P4AU_Adachi_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -17165,7 +17145,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/e/eb/P4U_Yosuke_Portrait.png/300px-P4U_Yosuke_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/2/23/P4AU_Yosuke_portrait.png/80px-P4AU_Yosuke_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A (Normal)",
@@ -17215,7 +17194,7 @@
                         },
                         "Description": "5AAA sends the opponent flying toward Yosuke with a vacuum effect on hit. Puts Yosuke into a special cancalable state. On block, this move sends Yosuke flying backwards, creating space.\n",
                         "ImageURLs": [
-                            "https://www.dustloop.com/wiki/images/thumb/0/00/P4Arena_Yosuke_5AAA.png/136px-P4Arena_Yosuke_5AAA.png"
+                            "https://www.dustloop.com/wiki/images/thumb/d/d5/P4AU_Yosuke_5AAA.png/210px-P4AU_Yosuke_5AAA.png"
                         ]
                     }
                 ]
@@ -18185,7 +18164,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/3/34/P4U_Yu_Portrait.png/300px-P4U_Yu_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/4/45/P4AU_Yu_portrait.png/80px-P4AU_Yu_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A (Normal)",
@@ -18235,7 +18213,7 @@
                         },
                         "Description": "5AAA launches the opponent into the air. Jump cancel-able on hit or block. Leads directly into Raging Lion, which makes it a useful corner carrying tool. Grants 13SP and 1/8th of the burst meter on hit. \n",
                         "ImageURLs": [
-                            "https://www.dustloop.com/wiki/images/thumb/e/e1/P4Arena_Yu_5AAA.png/210px-P4Arena_Yu_5AAA.png"
+                            "https://www.dustloop.com/wiki/images/thumb/7/7e/P4AU_Yu_5AAA.png/210px-P4AU_Yu_5AAA.png"
                         ]
                     }
                 ]
@@ -19160,7 +19138,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/1/1c/P4U2_Yukari_Portrait.png/300px-P4U2_Yukari_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/4/40/P4AU_Yukari_portrait.png/80px-P4AU_Yukari_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A",
@@ -19991,7 +19968,6 @@
         "Game": "P4AU",
         "PortraitURL": "https://www.dustloop.com/wiki/images/thumb/4/42/P4U_Yukiko_Portrait.png/172px-P4U_Yukiko_Portrait.png",
         "IconURL": "https://www.dustloop.com/wiki/images/thumb/a/ae/P4AU_Yukiko_portrait.png/80px-P4AU_Yukiko_portrait.png",
-        "Attributes": null,
         "Moves": [
             {
                 "Name": "5A (Normal)",
